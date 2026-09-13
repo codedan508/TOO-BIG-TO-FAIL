@@ -1,0 +1,856 @@
+TOO BIG TO FAIL — THREE-VOTE MODEL ALLOCATION
+Retrieved: 2026-09-13T07:16:09.017958+00:00
+Source portfolios: 167
+Combined reported source assets: $10,399,296,457,000
+
+Top two direct holdings per source; capital-weighted scores; minimum three distinct source votes; U.S. exchange listings; up to ten stocks. No SPY multiplier. Selected scores normalized to 100%.
+
+NVDA: 48.20% — 41 votes — NVIDIA Corporation
+AAPL: 47.72% — 38 votes — Apple Inc.
+SNOW: 1.05% — 5 votes — Snowflake Inc. Common Stock
+TSM: 0.94% — 6 votes — Taiwan Semiconductor Manufacturing Company Ltd.
+ASML: 0.88% — 3 votes — ASML Holding N.V.
+MOG.A: 0.83% — 5 votes — Moog Inc. Class A Common Stock
+NET: 0.38% — 3 votes — Cloudflare, Inc. Class A Common Stock
+
+Total: 100.00%
+Microsoft has two qualifying source votes in this scan and is below the three-vote minimum.
+
+Sources and per-source reporting dates:
+AAATX
+  Assets: $3,690,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAATX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAATX/holdings/
+  Holdings date: 2026-06-30
+AABTX
+  Assets: $4,440,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AABTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AABTX/holdings/
+  Holdings date: 2026-06-30
+AACTX
+  Assets: $13,900,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AACTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AACTX/holdings/
+  Holdings date: 2026-06-30
+AADTX
+  Assets: $30,230,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AADTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AADTX/holdings/
+  Holdings date: 2026-06-30
+AAETX
+  Assets: $51,780,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAETX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAETX/holdings/
+  Holdings date: 2026-06-30
+AAFJX
+  Assets: $298,390,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAFJX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAFJX/holdings/
+  Holdings date: 2026-04-30
+AAFTX
+  Assets: $53,380,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAFTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAFTX/holdings/
+  Holdings date: 2026-06-30
+AAGTX
+  Assets: $49,890,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAGTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAGTX/holdings/
+  Holdings date: 2026-06-30
+AAHTX
+  Assets: $43,440,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAHTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAHTX/holdings/
+  Holdings date: 2026-06-30
+AALTX
+  Assets: $39,430,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AALTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AALTX/holdings/
+  Holdings date: 2026-06-30
+AAMTX
+  Assets: $28,520,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAMTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAMTX/holdings/
+  Holdings date: 2026-06-30
+AANTX
+  Assets: $18,070,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AANTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AANTX/holdings/
+  Holdings date: 2026-06-30
+AAOTX
+  Assets: $5,690,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/AAOTX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/AAOTX/holdings/
+  Holdings date: 2026-06-30
+Arizona State Retirement System
+  Assets: $19,889,995,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001558481-arizona-state-retirement-system
+  Holdings source: https://13f.info/manager/0001558481-arizona-state-retirement-system
+  Holdings date: 2026-06-30
+CalPERS
+  Assets: $177,384,494,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000919079-california-public-employees-retirement-system
+  Holdings source: https://13f.info/manager/0000919079-california-public-employees-retirement-system
+  Holdings date: 2026-06-30
+CalSTRS
+  Assets: $108,615,536,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001081019-california-state-teachers-retirement-system
+  Holdings source: https://13f.info/manager/0001081019-california-state-teachers-retirement-system
+  Holdings date: 2026-06-30
+Colorado Public Employees Retirement Association
+  Assets: $28,947,885,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado
+  Holdings source: https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado
+  Holdings date: 2026-06-30
+DIA
+  Assets: $45,640,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/dia/holdings/
+  Holdings source: https://stockanalysis.com/etf/dia/holdings/
+  Holdings date: 2026-08-28
+Employees Retirement System of Texas
+  Assets: $12,589,005,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001398739-employees-retirement-system-of-texas
+  Holdings source: https://13f.info/manager/0001398739-employees-retirement-system-of-texas
+  Holdings date: 2026-06-30
+FBIFX
+  Assets: $28,500,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FBIFX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FBIFX/holdings/
+  Holdings date: 2026-07-31
+FBIIX
+  Assets: $1,370,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FBIIX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FBIIX/holdings/
+  Holdings date: 2026-07-31
+FDEEX
+  Assets: $14,010,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FDEEX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FDEEX/holdings/
+  Holdings date: 2026-07-31
+FDEWX
+  Assets: $18,850,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FDEWX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FDEWX/holdings/
+  Holdings date: 2026-07-31
+FDKLX
+  Assets: $11,110,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FDKLX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FDKLX/holdings/
+  Holdings date: 2026-07-31
+FDKVX
+  Assets: $7,620,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FDKVX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FDKVX/holdings/
+  Holdings date: 2026-07-31
+FECGX
+  Assets: $1,560,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FECGX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FECGX/holdings/
+  Holdings date: 2026-06-30
+FFBSX
+  Assets: $469,470,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFBSX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFBSX/holdings/
+  Holdings date: 2026-07-31
+FFFAX
+  Assets: $2,400,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFFAX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFFAX/holdings/
+  Holdings date: 2026-07-31
+FFFCX
+  Assets: $3,150,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFFCX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFFCX/holdings/
+  Holdings date: 2026-07-31
+FFFDX
+  Assets: $12,990,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFFDX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFFDX/holdings/
+  Holdings date: 2026-07-31
+FFFEX
+  Assets: $33,470,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFFEX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFFEX/holdings/
+  Holdings date: 2026-07-31
+FFFFX
+  Assets: $32,290,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFFFX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFFFX/holdings/
+  Holdings date: 2026-07-31
+FFFGX
+  Assets: $24,230,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFFGX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFFGX/holdings/
+  Holdings date: 2026-07-31
+FFFHX
+  Assets: $21,900,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFFHX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFFHX/holdings/
+  Holdings date: 2026-07-31
+FFIJX
+  Assets: $3,870,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFIJX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFIJX/holdings/
+  Holdings date: 2026-07-31
+FFNOX
+  Assets: $9,440,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFNOX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFNOX/holdings/
+  Holdings date: 2026-07-31
+FFSFX
+  Assets: $2,530,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFSFX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFSFX/holdings/
+  Holdings date: 2026-07-31
+FFTHX
+  Assets: $31,020,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFTHX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFTHX/holdings/
+  Holdings date: 2026-07-31
+FFTWX
+  Assets: $20,300,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFTWX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFTWX/holdings/
+  Holdings date: 2026-07-31
+FFVFX
+  Assets: $4,190,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FFVFX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FFVFX/holdings/
+  Holdings date: 2026-07-31
+FHANX
+  Assets: $1,310,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHANX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHANX/holdings/
+  Holdings date: 2026-07-31
+FHAOX
+  Assets: $2,400,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHAOX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHAOX/holdings/
+  Holdings date: 2026-07-31
+FHAPX
+  Assets: $3,430,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHAPX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHAPX/holdings/
+  Holdings date: 2026-07-31
+FHAQX
+  Assets: $3,900,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHAQX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHAQX/holdings/
+  Holdings date: 2026-07-31
+FHARX
+  Assets: $4,280,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHARX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHARX/holdings/
+  Holdings date: 2026-07-31
+FHASX
+  Assets: $4,480,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHASX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHASX/holdings/
+  Holdings date: 2026-07-31
+FHATX
+  Assets: $4,050,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHATX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHATX/holdings/
+  Holdings date: 2026-07-31
+FHAUX
+  Assets: $2,560,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHAUX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHAUX/holdings/
+  Holdings date: 2026-07-31
+FHAVX
+  Assets: $1,180,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHAVX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHAVX/holdings/
+  Holdings date: 2026-07-31
+FHAWX
+  Assets: $356,770,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHAWX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHAWX/holdings/
+  Holdings date: 2026-07-31
+FHAYX
+  Assets: $159,740,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHAYX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHAYX/holdings/
+  Holdings date: 2026-07-31
+FHBZX
+  Assets: $191,930,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FHBZX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FHBZX/holdings/
+  Holdings date: 2026-07-31
+FIHFX
+  Assets: $27,370,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FIHFX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FIHFX/holdings/
+  Holdings date: 2026-07-31
+FIKFX
+  Assets: $1,830,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FIKFX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FIKFX/holdings/
+  Holdings date: 2026-07-31
+FIMVX
+  Assets: $1,640,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FIMVX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FIMVX/holdings/
+  Holdings date: 2026-07-31
+FIOFX
+  Assets: $25,870,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FIOFX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FIOFX/holdings/
+  Holdings date: 2026-07-31
+FIPDX
+  Assets: $11,760,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FIPDX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FIPDX/holdings/
+  Holdings date: 2026-07-31
+FIPFX
+  Assets: $24,830,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FIPFX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FIPFX/holdings/
+  Holdings date: 2026-07-31
+FISVX
+  Assets: $2,250,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FISVX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FISVX/holdings/
+  Holdings date: 2026-06-30
+FKIFX
+  Assets: $746,630,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FKIFX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FKIFX/holdings/
+  Holdings date: 2026-07-31
+FLCOX
+  Assets: $15,190,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FLCOX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FLCOX/holdings/
+  Holdings date: 2026-07-31
+FLIFX
+  Assets: $2,000,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FLIFX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FLIFX/holdings/
+  Holdings date: 2026-07-31
+FMDGX
+  Assets: $3,590,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FMDGX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FMDGX/holdings/
+  Holdings date: 2026-07-31
+FNBGX
+  Assets: $4,920,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FNBGX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FNBGX/holdings/
+  Holdings date: 2026-07-31
+FNCMX
+  Assets: $27,950,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FNCMX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FNCMX/holdings/
+  Holdings date: 2026-07-31
+FNILX
+  Assets: $19,350,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FNILX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FNILX/holdings/
+  Holdings date: 2026-07-31
+FNSOX
+  Assets: $4,330,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FNSOX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FNSOX/holdings/
+  Holdings date: 2026-07-31
+FPADX
+  Assets: $15,840,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FPADX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FPADX/holdings/
+  Holdings date: 2026-07-31
+FPIFX
+  Assets: $6,900,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FPIFX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FPIFX/holdings/
+  Holdings date: 2026-07-31
+FQIFX
+  Assets: $14,980,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FQIFX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FQIFX/holdings/
+  Holdings date: 2026-07-31
+FRBDX
+  Assets: $144,800,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FRBDX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FRBDX/holdings/
+  Holdings date: 2026-03-31
+FRBVX
+  Assets: $184,310,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FRBVX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FRBVX/holdings/
+  Holdings date: 2026-03-31
+FRBYX
+  Assets: $25,230,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FRBYX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FRBYX/holdings/
+  Holdings date: 2026-03-31
+FSGGX
+  Assets: $20,770,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSGGX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSGGX/holdings/
+  Holdings date: 2026-06-30
+FSKAX
+  Assets: $142,220,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSKAX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSKAX/holdings/
+  Holdings date: 2026-07-31
+FSMAX
+  Assets: $40,070,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSMAX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSMAX/holdings/
+  Holdings date: 2026-07-31
+FSMDX
+  Assets: $53,110,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSMDX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSMDX/holdings/
+  Holdings date: 2026-07-31
+FSPGX
+  Assets: $43,680,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSPGX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSPGX/holdings/
+  Holdings date: 2026-07-31
+FSPSX
+  Assets: $88,450,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSPSX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSPSX/holdings/
+  Holdings date: 2026-07-31
+FSRNX
+  Assets: $3,180,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSRNX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSRNX/holdings/
+  Holdings date: 2026-07-31
+FSSNX
+  Assets: $34,470,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FSSNX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FSSNX/holdings/
+  Holdings date: 2026-06-30
+FTIHX
+  Assets: $26,550,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FTIHX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FTIHX/holdings/
+  Holdings date: 2026-04-30
+FUAMX
+  Assets: $8,430,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FUAMX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FUAMX/holdings/
+  Holdings date: 2026-07-31
+FUMBX
+  Assets: $3,610,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FUMBX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FUMBX/holdings/
+  Holdings date: 2026-07-31
+FXAIX
+  Assets: $859,160,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FXAIX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FXAIX/holdings/
+  Holdings date: 2026-07-31
+FXIFX
+  Assets: $28,920,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FXIFX/
+  Holdings source: https://stockanalysis.com/quote/mutf/FXIFX/holdings/
+  Holdings date: 2026-07-31
+FXNAX
+  Assets: $69,500,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FXNAX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FXNAX/holdings/
+  Holdings date: 2026-07-31
+FZILX
+  Assets: $13,020,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FZILX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FZILX/holdings/
+  Holdings date: 2026-07-31
+FZIPX
+  Assets: $2,690,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FZIPX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FZIPX/holdings/
+  Holdings date: 2026-07-31
+FZROX
+  Assets: $41,050,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/FZROX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/FZROX/holdings/
+  Holdings date: 2026-07-31
+IAGG
+  Assets: $11,880,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iagg/
+  Holdings source: https://stockanalysis.com/etf/iagg/holdings/
+  Holdings date: 2026-09-03
+IBB
+  Assets: $10,360,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/ibb/holdings/
+  Holdings source: https://stockanalysis.com/etf/ibb/holdings/
+  Holdings date: 2026-09-10
+ITOT
+  Assets: $96,050,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/itot/holdings/
+  Holdings source: https://stockanalysis.com/etf/itot/holdings/
+  Holdings date: 2026-08-27
+IWB
+  Assets: $48,820,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwb/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwb/holdings/
+  Holdings date: 2026-08-27
+IWC
+  Assets: $1,480,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwc/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwc/holdings/
+  Holdings date: 2026-08-28
+IWD
+  Assets: $82,930,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwd/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwd/holdings/
+  Holdings date: 2026-08-13
+IWF
+  Assets: $125,570,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwf/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwf/holdings/
+  Holdings date: 2026-09-10
+IWM
+  Assets: $78,430,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwm/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwm/holdings/
+  Holdings date: 2026-08-13
+IWN
+  Assets: $14,370,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwn/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwn/holdings/
+  Holdings date: 2026-08-27
+IWO
+  Assets: $14,450,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwo/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwo/holdings/
+  Holdings date: 2026-09-03
+IWP
+  Assets: $19,580,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwp/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwp/holdings/
+  Holdings date: 2026-08-27
+IWR
+  Assets: $56,020,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwr/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwr/holdings/
+  Holdings date: 2026-09-03
+IWS
+  Assets: $15,320,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iws/holdings/
+  Holdings source: https://stockanalysis.com/etf/iws/holdings/
+  Holdings date: 2026-08-13
+IWV
+  Assets: $20,250,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/iwv/holdings/
+  Holdings source: https://stockanalysis.com/etf/iwv/holdings/
+  Holdings date: 2026-08-20
+IXUS
+  Assets: $60,620,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/ixus/holdings/
+  Holdings source: https://stockanalysis.com/etf/ixus/holdings/
+  Holdings date: 2026-08-13
+LIRPX
+  Assets: $1,330,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/LIRPX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/LIRPX/holdings/
+  Holdings date: 2026-07-31
+MDY
+  Assets: $26,490,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/mdy/holdings/
+  Holdings source: https://stockanalysis.com/etf/mdy/holdings/
+  Holdings date: 2026-09-01
+Maryland State Retirement & Pension System
+  Assets: $5,835,823,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001795552-maryland-state-retirement-pension-system
+  Holdings source: https://13f.info/manager/0001795552-maryland-state-retirement-pension-system
+  Holdings date: 2026-06-30
+New York State Common Retirement Fund (NY State and Local)
+  Assets: $79,301,033,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000810265-new-york-state-common-retirement-fund
+  Holdings source: https://13f.info/manager/0000810265-new-york-state-common-retirement-fund
+  Holdings date: 2026-06-30
+New York State Teachers Retirement System
+  Assets: $54,167,785,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000314969-new-york-state-teachers-retirement-system
+  Holdings source: https://13f.info/manager/0000314969-new-york-state-teachers-retirement-system
+  Holdings date: 2026-06-30
+OEF
+  Assets: $20,320,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/oef/holdings/
+  Holdings source: https://stockanalysis.com/etf/oef/holdings/
+  Holdings date: 2026-09-01
+Oregon Public Employees Retirement Fund
+  Assets: $9,263,236,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001107314-oregon-public-employees-retirement-fund
+  Holdings source: https://13f.info/manager/0001107314-oregon-public-employees-retirement-fund
+  Holdings date: 2026-06-30
+Pennsylvania PSERS
+  Assets: $20,588,888,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001083190-commonwealth-of-pennsylvania-public-school-empls-retrmt-sys
+  Holdings source: https://13f.info/manager/0001083190-commonwealth-of-pennsylvania-public-school-empls-retrmt-sys
+  Holdings date: 2026-06-30
+Public Employees Retirement System of Ohio
+  Assets: $34,019,512,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001007280-public-employees-retirement-system-of-ohio
+  Holdings source: https://13f.info/manager/0001007280-public-employees-retirement-system-of-ohio
+  Holdings date: 2026-06-30
+QCBMRX
+  Assets: $12,900,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408407.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCBMRX/holdings/
+  Holdings date: 2026-03-31
+QCEQRX
+  Assets: $28,100,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408308.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCEQRX/holdings/
+  Holdings date: 2026-03-31
+QCGLRX
+  Assets: $38,700,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408100.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCGLRX/holdings/
+  Holdings date: 2026-03-31
+QCGRRX
+  Assets: $43,280,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408209.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCGRRX/holdings/
+  Holdings date: 2026-03-31
+QCILRX
+  Assets: $8,270,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408506.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCILRX/holdings/
+  Holdings date: 2026-03-31
+QCMMRX
+  Assets: $10,840,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408704.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCMMRX/
+  Holdings date: not provided
+QCSCRX
+  Assets: $21,660,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408605.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCSCRX/holdings/
+  Holdings date: 2026-03-31
+QCSTRX
+  Assets: $144,520,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408803.pdf
+  Holdings source: https://stockanalysis.com/quote/mutf/QCSTRX/holdings/
+  Holdings date: 2026-03-31
+QQQ
+  Assets: $480,390,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/qqq/holdings/
+  Holdings source: https://stockanalysis.com/etf/qqq/holdings/
+  Holdings date: 2026-08-27
+SOXX
+  Assets: $44,870,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/soxx/holdings/
+  Holdings source: https://stockanalysis.com/etf/soxx/holdings/
+  Holdings date: 2026-09-10
+SPAB
+  Assets: $9,940,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spab/
+  Holdings source: https://stockanalysis.com/etf/spab/holdings/
+  Holdings date: 2026-09-03
+SPBO
+  Assets: $2,170,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spbo/
+  Holdings source: https://stockanalysis.com/etf/spbo/holdings/
+  Holdings date: 2026-09-03
+SPDW
+  Assets: $42,000,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spdw/holdings/
+  Holdings source: https://stockanalysis.com/etf/spdw/holdings/
+  Holdings date: 2026-08-14
+SPEM
+  Assets: $17,700,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spem/holdings/
+  Holdings source: https://stockanalysis.com/etf/spem/holdings/
+  Holdings date: 2026-08-13
+SPGM
+  Assets: $1,740,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spgm/holdings/
+  Holdings source: https://stockanalysis.com/etf/spgm/holdings/
+  Holdings date: 2026-09-01
+SPHY
+  Assets: $12,010,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/sphy/
+  Holdings source: https://stockanalysis.com/etf/sphy/holdings/
+  Holdings date: 2026-08-13
+SPIB
+  Assets: $11,200,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spib/
+  Holdings source: https://stockanalysis.com/etf/spib/holdings/
+  Holdings date: 2026-09-10
+SPIP
+  Assets: $1,020,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spip/
+  Holdings source: https://stockanalysis.com/etf/spip/holdings/
+  Holdings date: 2026-09-01
+SPLB
+  Assets: $1,220,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/splb/
+  Holdings source: https://stockanalysis.com/etf/splb/holdings/
+  Holdings date: 2026-08-14
+SPMB
+  Assets: $7,040,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spmb/
+  Holdings source: https://stockanalysis.com/etf/spmb/holdings/
+  Holdings date: 2026-09-02
+SPSB
+  Assets: $11,110,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spsb/
+  Holdings source: https://stockanalysis.com/etf/spsb/holdings/
+  Holdings date: 2026-08-27
+SPTI
+  Assets: $10,500,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spti/
+  Holdings source: https://stockanalysis.com/etf/spti/holdings/
+  Holdings date: 2026-08-20
+SPTL
+  Assets: $10,880,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/sptl/
+  Holdings source: https://stockanalysis.com/etf/sptl/holdings/
+  Holdings date: 2026-08-21
+SPTS
+  Assets: $7,450,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spts/
+  Holdings source: https://stockanalysis.com/etf/spts/holdings/
+  Holdings date: 2026-08-27
+SPY
+  Assets: $806,130,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spy/holdings/
+  Holdings source: https://stockanalysis.com/etf/spy/holdings/
+  Holdings date: 2026-09-10
+SPYD
+  Assets: $7,600,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spyd/holdings/
+  Holdings source: https://stockanalysis.com/etf/spyd/holdings/
+  Holdings date: 2026-08-14
+SPYG
+  Assets: $54,190,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/etf/spyg/holdings/
+  Holdings source: https://stockanalysis.com/etf/spyg/holdings/
+  Holdings date: 2026-08-13
+STRS Ohio
+  Assets: $26,685,498,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000820478-strs-ohio
+  Holdings source: https://13f.info/manager/0000820478-strs-ohio
+  Holdings date: 2026-06-30
+SWAGX
+  Assets: $8,320,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/SWAGX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/SWAGX/holdings/
+  Holdings date: 2026-07-31
+SWISX
+  Assets: $15,070,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/SWISX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/SWISX/holdings/
+  Holdings date: 2026-07-31
+SWPPX
+  Assets: $148,720,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/SWPPX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/SWPPX/holdings/
+  Holdings date: 2026-07-31
+SWSSX
+  Assets: $7,640,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/SWSSX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/SWSSX/holdings/
+  Holdings date: 2026-07-31
+SWTSX
+  Assets: $45,240,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/SWTSX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/SWTSX/holdings/
+  Holdings date: 2026-07-31
+SWYMX
+  Assets: $1,300,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/SWYMX/
+  Holdings source: https://stockanalysis.com/quote/mutf/SWYMX/holdings/
+  Holdings date: 2026-07-31
+State Board of Administration of Florida Retirement System
+  Assets: $60,293,970,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000938076-state-board-of-administration-of-florida-retirement-system
+  Holdings source: https://13f.info/manager/0000938076-state-board-of-administration-of-florida-retirement-system
+  Holdings date: 2026-06-30
+State of Tennessee, Department of Treasury
+  Assets: $33,657,722,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury
+  Holdings source: https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury
+  Holdings date: 2026-06-30
+State of Wisconsin Investment Board
+  Assets: $49,553,548,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000854157-state-of-wisconsin-investment-board
+  Holdings source: https://13f.info/manager/0000854157-state-of-wisconsin-investment-board
+  Holdings date: 2026-06-30
+TCLFX
+  Assets: $4,490,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/TCLFX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/TCLFX/holdings/
+  Holdings date: 2026-07-31
+TCLNX
+  Assets: $4,570,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/TCLNX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/TCLNX/holdings/
+  Holdings date: 2026-07-31
+TCLOX
+  Assets: $6,330,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/TCLOX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/TCLOX/holdings/
+  Holdings date: 2026-07-31
+TCLRX
+  Assets: $4,580,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/TCLRX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/TCLRX/holdings/
+  Holdings date: 2026-07-31
+TIAA_REAL_ESTATE
+  Assets: $23,000,000,000; valuation date: 2026-06-30
+  Asset source: https://fluenttech.tiaa.org/pdf/factsheet/878094200.pdf
+  Holdings source: https://fluenttech.tiaa.org/pdf/factsheet/878094200.pdf
+  Holdings date: 2026-06-30
+TRRDX
+  Assets: $26,530,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/TRRDX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/TRRDX/holdings/
+  Holdings date: 2026-07-31
+TRRJX
+  Assets: $24,060,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/TRRJX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/TRRJX/holdings/
+  Holdings date: 2026-07-31
+TRRKX
+  Assets: $18,720,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/TRRKX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/TRRKX/holdings/
+  Holdings date: 2026-07-31
+Teacher Retirement System of Texas
+  Assets: $37,258,770,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000796848-teacher-retirement-system-of-texas
+  Holdings source: https://13f.info/manager/0000796848-teacher-retirement-system-of-texas
+  Holdings date: 2026-06-30
+Treasurer of the State of North Carolina
+  Assets: $38,809,898,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001761054-treasurer-of-the-state-of-north-carolina
+  Holdings source: https://13f.info/manager/0001761054-treasurer-of-the-state-of-north-carolina
+  Holdings date: 2026-06-30
+VFIAX
+  Assets: $1,700,000,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/VFIAX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/VFIAX/holdings/
+  Holdings date: 2026-07-31
+VIMAX
+  Assets: $226,380,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/VIMAX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/VIMAX/holdings/
+  Holdings date: 2026-07-31
+VTINX
+  Assets: $36,230,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/VTINX/
+  Holdings source: https://stockanalysis.com/quote/mutf/VTINX/holdings/
+  Holdings date: 2026-07-31
+VTSAX
+  Assets: $2,340,000,000,000; valuation date: not provided
+  Asset source: https://stockanalysis.com/quote/mutf/VTSAX/holdings/
+  Holdings source: https://stockanalysis.com/quote/mutf/VTSAX/holdings/
+  Holdings date: 2026-07-31
+Virginia Retirement Systems et al.
+  Assets: $16,738,776,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0001005354-virginia-retirement-systems-et-al
+  Holdings source: https://13f.info/manager/0001005354-virginia-retirement-systems-et-al
+  Holdings date: 2026-06-30
+Washington State Investment Board — exceptionally limited disclosure
+  Assets: $267,813,000; valuation date: 2026-06-30
+  Asset source: https://13f.info/manager/0000943712-washington-state-investment-board
+  Holdings source: https://13f.info/manager/0000943712-washington-state-investment-board
+  Holdings date: 2026-06-30
+
+Reported assets can overlap; pension figures are partial 13F disclosures. Retrieval date is not the holdings report date. Source influence is not actual stock ownership.

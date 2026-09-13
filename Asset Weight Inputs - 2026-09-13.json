@@ -1,0 +1,3163 @@
+{
+  "retrieved_date": "2026-09-13",
+  "method": "Fund weight = reported assets / sum of reported assets. Each distinct direct stock in a fund's saved top two receives the full fund weight. SPY bonus removed. Stock scores are not allocation percentages and need not sum to 100%.",
+  "status": "Provisional mixed-date snapshot, not a same-date total or unique-money total.",
+  "sources_files": [
+    "Fund Holdings - Retrieved 2026-09-13.txt",
+    "Additional Fund Holdings - Retrieved 2026-09-13.txt"
+  ],
+  "excluded_unresolved": [
+    "NYC Employees Retirement System",
+    "NYC Teachers Retirement System",
+    "Pennsylvania SERS"
+  ],
+  "notes": [
+    "167 valued records: funds, ETFs, CREF/TIAA accounts and 19 pension-related 13F portfolios. Unresolved plans are excluded rather than assigned zero assets.",
+    "137 asset fields have no explicit valuation date. Retrieval date does not imply current asset values. Other asset dates range from 2025-12-31 to 2026-08-31.",
+    "Mutual funds use displayed fund assets. VFIAX and VTSAX explicitly use total parent-fund assets across share classes, confirmed with issuer. One representative ticker per fund. No extra standalone VOO or VTI entry added.",
+    "Other third-party mutual-fund asset fields have not all been independently reconciled to issuer share-class totals.",
+    "Pensions use only the reported 13F portfolio, not whole pension-plan assets. Total therefore mixes fund NAV and disclosed-securities value by design.",
+    "Holdings are fixed to the two saved lists to isolate the weighting change. New asset dates can differ from saved holdings dates. This is not a refreshed current top-two portfolio.",
+    "Newer CREF issuer factsheets show some different holdings, notably QCEQRX and QCSCRX. Those changes are not silently incorporated into the fixed-input weighting calculation.",
+    "Stock names are aggregated at company level for Samsung shares and depositary receipts. Each parent gives at most one contribution to each company.",
+    "Funds-of-funds, bond funds, and property accounts remain in the denominator even when their top two contain no direct stocks. No lookthrough stock votes are fabricated.",
+    "FBIIX's flagged holdings contribute no stock score. Its available fund asset value is included in the denominator.",
+    "Underlying holdings and pension ownership of included funds can overlap. The sum is gross reported assets, not deduplicated ultimate investor money.",
+    "Washington's 13F covers only two securities; its weight must not be represented as Washington's full pension weight.",
+    "Asset values are rounded to the precision supplied by sources. Calculated percentages are approximate.",
+    "All stock scores use full fund weight per top-two stock as agreed. They measure voting influence; they are not actual dollars invested in those stocks."
+  ],
+  "records": [
+    {
+      "id": "AAATX",
+      "name": "American Funds 2010 Target Date Retirement Income Fund Class A (AAATX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAATX/holdings/",
+      "holdings": [
+        "American Funds The Income Fund of America® Class R-6 (RIDGX)",
+        "American Funds Intermediate Bond Fund of America® Class R-6 (RBOGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAATX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "3.74B",
+      "assets_usd": 3740000000,
+      "stock_votes": [],
+      "weight_pct": 0.03583690212478335
+    },
+    {
+      "id": "AABTX",
+      "name": "American Funds 2015 Trgt Date Retire A (AABTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AABTX/holdings/",
+      "holdings": [
+        "American Funds Income Fund of Amer R6 (RIDGX)",
+        "American Funds Interm Bd Fd of Amer R6 (RBOGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Sep 30, 2025",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AABTX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "4.44B",
+      "assets_usd": 4440000000,
+      "stock_votes": [],
+      "weight_pct": 0.04254434369894066
+    },
+    {
+      "id": "AACTX",
+      "name": "American Funds 2020 Target Date Retirement Income Fund Class A (AACTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AACTX/holdings/",
+      "holdings": [
+        "American Funds Income Fd of Amer R-6 (RIDGX)",
+        "American Funds The Bond Fund of America (RBFGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Apr 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AACTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "14.36B",
+      "assets_usd": 14360000000,
+      "stock_votes": [],
+      "weight_pct": 0.13759837286414142
+    },
+    {
+      "id": "AADTX",
+      "name": "American Funds 2025 Target Date Retirement Income Fund Class A (AADTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AADTX/holdings/",
+      "holdings": [
+        "American Funds Income Fund of Amer R6 (RIDGX)",
+        "American Funds The Bond Fund of America (RBFGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Apr 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AADTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "31.43B",
+      "assets_usd": 31430000000,
+      "stock_votes": [],
+      "weight_pct": 0.3011641266796633
+    },
+    {
+      "id": "AAETX",
+      "name": "American Funds 2030 Target Date Retirement Fund Class A (AAETX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAETX/holdings/",
+      "holdings": [
+        "American Funds American Balanced R-6 (RLBGX)",
+        "American Funds Bond Fund of Amer R-6 (RBFGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAETX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "51.78B",
+      "assets_usd": 51780000000,
+      "stock_votes": [],
+      "weight_pct": 0.496159035299808
+    },
+    {
+      "id": "AAFJX",
+      "name": "American Funds 2070 Target Date Retirement Fund® Class A (AAFJX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAFJX/holdings/",
+      "holdings": [
+        "American Funds SMALLCAP World Fund® Class R-6 (RLLGX)",
+        "American Funds New Perspective Fund® Class R-6 (RNPGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Apr 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAFJX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "298.39M",
+      "assets_usd": 298390000,
+      "stock_votes": [],
+      "weight_pct": 0.0028591907018754286
+    },
+    {
+      "id": "AAFTX",
+      "name": "American Funds 2035 Target Date Retirement Fund Class A (AAFTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAFTX/holdings/",
+      "holdings": [
+        "American Funds American Balanced R-6 (RLBGX)",
+        "American Funds American Mutual R-6 (RMFGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAFTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "53.38B",
+      "assets_usd": 53380000000,
+      "stock_votes": [],
+      "weight_pct": 0.5114903303264533
+    },
+    {
+      "id": "AAGTX",
+      "name": "American Funds 2040 Target Date Retirement Fund Class A (AAGTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAGTX/holdings/",
+      "holdings": [
+        "American Funds American Balanced R-6 (RLBGX)",
+        "American Funds American Mutual R-6 (RMFGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Apr 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAGTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "49.89B",
+      "assets_usd": 49890000000,
+      "stock_votes": [],
+      "weight_pct": 0.47804894304958323
+    },
+    {
+      "id": "AAHTX",
+      "name": "American Funds 2045 Target Date Retirement Fund Class A (AAHTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAHTX/holdings/",
+      "holdings": [
+        "American Funds Fundamental Invs R-6 (RFNGX)",
+        "American Funds American Balanced R-6 (RLBGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAHTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "43.44B",
+      "assets_usd": 43440000000,
+      "stock_votes": [],
+      "weight_pct": 0.4162446599734194
+    },
+    {
+      "id": "AALTX",
+      "name": "American Funds 2050 Target Date Retirement Fund Class A (AALTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AALTX/holdings/",
+      "holdings": [
+        "American Funds New Perspective R-6 (RNPGX)",
+        "American Funds Fundamental Invs R-6 (RFNGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AALTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "39.43B",
+      "assets_usd": 39430000000,
+      "stock_votes": [],
+      "weight_pct": 0.3778206018128897
+    },
+    {
+      "id": "AAMTX",
+      "name": "American Funds 2055 Target Date Retirement Fund Class A (AAMTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAMTX/holdings/",
+      "holdings": [
+        "American Funds New Perspective R-6 (RNPGX)",
+        "American Funds Fundamental Invs R-6 (RFNGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAMTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "28.52B",
+      "assets_usd": 28520000000,
+      "stock_votes": [],
+      "weight_pct": 0.27328033384995215
+    },
+    {
+      "id": "AANTX",
+      "name": "American Funds 2060 Target Date Retirement Fund Class A (AANTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AANTX/holdings/",
+      "holdings": [
+        "American Funds SMALLCAP World R-6 (RLLGX)",
+        "American Funds New Perspective R-6 (RNPGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AANTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "18.07B",
+      "assets_usd": 18070000000,
+      "stock_votes": [],
+      "weight_pct": 0.17314781320717515
+    },
+    {
+      "id": "AAOTX",
+      "name": "American Funds 2065 Trgt Date Ret A (AAOTX)",
+      "url": "https://stockanalysis.com/quote/mutf/AAOTX/holdings/",
+      "holdings": [
+        "American Funds SMALLCAP World R-6 (RLLGX)",
+        "American Funds New Perspective R-6 (RNPGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/AAOTX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "5.69B",
+      "assets_usd": 5690000000,
+      "stock_votes": [],
+      "weight_pct": 0.05452191793850729
+    },
+    {
+      "id": "Arizona State Retirement System",
+      "name": "Arizona State Retirement System",
+      "url": "https://13f.info/manager/0001558481-arizona-state-retirement-system",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://13f.info/manager/0001558481-arizona-state-retirement-system",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "19.889995B",
+      "assets_usd": 19889995000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.1905871133896872
+    },
+    {
+      "id": "CalPERS",
+      "name": "CalPERS",
+      "url": "https://www.holdingschannel.com/13f/california-public-employees-retirement-system-top-holdings/",
+      "holdings": [
+        "Vanguard S&P 500 ETF (VOO)",
+        "iShares Core S&P 500 ETF (IVV)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.holdingschannel.com/13f/california-public-employees-retirement-system-top-holdings/",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "176.65B",
+      "assets_usd": 176650000000,
+      "stock_votes": [],
+      "weight_pct": 1.6926707915355559
+    },
+    {
+      "id": "CalSTRS",
+      "name": "CalSTRS",
+      "url": "https://www.holdingschannel.com/13f/california-state-teachers-retirement-system-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.holdingschannel.com/13f/california-state-teachers-retirement-system-top-holdings/",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "108.71B",
+      "assets_usd": 108710000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 1.0416656764666303
+    },
+    {
+      "id": "Colorado Public Employees Retirement Association",
+      "name": "Colorado Public Employees Retirement Association",
+      "url": "https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "28.947885B",
+      "assets_usd": 28947885000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.27738035333274974
+    },
+    {
+      "id": "DIA",
+      "name": "DIA",
+      "url": "https://stockanalysis.com/etf/dia/holdings/",
+      "holdings": [
+        "Goldman Sachs",
+        "Caterpillar"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/dia/holdings/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "45.64B",
+      "assets_usd": 45640000000,
+      "stock_votes": [
+        "Goldman Sachs",
+        "Caterpillar"
+      ],
+      "weight_pct": 0.43732519063505676
+    },
+    {
+      "id": "Employees Retirement System of Texas",
+      "name": "Employees Retirement System of Texas",
+      "url": "https://www.holdingschannel.com/13f/employees-retirement-system-of-texas-top-holdings/",
+      "holdings": [
+        "Vanguard Intermediate-Term Treasury ETF (VGIT)",
+        "Microsoft (MSFT)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2025-12-31",
+      "asset_source": "https://www.holdingschannel.com/13f/employees-retirement-system-of-texas-top-holdings/",
+      "asset_date": "2025-12-31",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "12.284174B",
+      "assets_usd": 12284174000,
+      "stock_votes": [
+        "Microsoft"
+      ],
+      "weight_pct": 0.11770768484540331
+    },
+    {
+      "id": "FBIFX",
+      "name": "Fidelity Freedom Index 2040 Fund Investor Class (FBIFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FBIFX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FBIFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "28.50B",
+      "assets_usd": 28500000000,
+      "stock_votes": [],
+      "weight_pct": 0.2730886926621191
+    },
+    {
+      "id": "FBIIX",
+      "name": "FBIIX",
+      "url": "https://stockanalysis.com/quote/mutf/FBIIX/holdings/",
+      "holdings": [
+        "Source reports Cash at 100.47%",
+        "U.K. government bond 4.5%, due March 2035. That cash figure needs verification before we use this entry in the app"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FBIIX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.35B",
+      "assets_usd": 1350000000,
+      "stock_votes": [],
+      "weight_pct": 0.012935780178731957
+    },
+    {
+      "id": "FDEEX",
+      "name": "Fidelity Freedom 2055 Fund (FDEEX)",
+      "url": "https://stockanalysis.com/quote/mutf/FDEEX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Stock Fund (FGLGX)",
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FDEEX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "14.01B",
+      "assets_usd": 14010000000,
+      "stock_votes": [],
+      "weight_pct": 0.13424465207706276
+    },
+    {
+      "id": "FDEWX",
+      "name": "Fidelity Freedom Index 2055 Fund Investor Class (FDEWX)",
+      "url": "https://stockanalysis.com/quote/mutf/FDEWX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FDEWX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "18.85B",
+      "assets_usd": 18850000000,
+      "stock_votes": [],
+      "weight_pct": 0.18062181953266476
+    },
+    {
+      "id": "FDKLX",
+      "name": "Fidelity Freedom Index 2060 Fund Investor Class (FDKLX)",
+      "url": "https://stockanalysis.com/quote/mutf/FDKLX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FDKLX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "11.11B",
+      "assets_usd": 11110000000,
+      "stock_votes": [],
+      "weight_pct": 0.10645667984126818
+    },
+    {
+      "id": "FDKVX",
+      "name": "Fidelity Freedom 2060 Fund (FDKVX)",
+      "url": "https://stockanalysis.com/quote/mutf/FDKVX/holdings/",
+      "holdings": [
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)",
+        "Fidelity Series Large Cap Stock Fund (FGLGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FDKVX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "7.62B",
+      "assets_usd": 7620000000,
+      "stock_votes": [],
+      "weight_pct": 0.07301529256439816
+    },
+    {
+      "id": "FECGX",
+      "name": "FECGX",
+      "url": "https://stockanalysis.com/quote/mutf/FECGX/holdings/",
+      "holdings": [
+        "Bloom Energy",
+        "Credo Technology"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FECGX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.53B",
+      "assets_usd": 1530000000,
+      "stock_votes": [
+        "Bloom Energy",
+        "Credo Technology"
+      ],
+      "weight_pct": 0.014660550869229553
+    },
+    {
+      "id": "FFBSX",
+      "name": "Fidelity Freedom Blend 2065 Fund (FFBSX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFBSX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "May 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFBSX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "469.47M",
+      "assets_usd": 469470000,
+      "stock_votes": [],
+      "weight_pct": 0.004498489422599475
+    },
+    {
+      "id": "FFFAX",
+      "name": "Fidelity Freedom Retirement Fund (FFFAX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFFAX/holdings/",
+      "holdings": [
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)",
+        "Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Mar 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFFAX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "2.40B",
+      "assets_usd": 2400000000,
+      "stock_votes": [],
+      "weight_pct": 0.022996942539967924
+    },
+    {
+      "id": "FFFCX",
+      "name": "Fidelity Freedom 2010 Fund (FFFCX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFFCX/holdings/",
+      "holdings": [
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)",
+        "Fidelity Series 0-5 Year Inflation-Protected Bond Index Fund (FSTZX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFFCX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "3.15B",
+      "assets_usd": 3150000000,
+      "stock_votes": [],
+      "weight_pct": 0.0301834870837079
+    },
+    {
+      "id": "FFFDX",
+      "name": "Fidelity Freedom 2020 Fund (FFFDX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFFDX/holdings/",
+      "holdings": [
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)",
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFFDX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "12.99B",
+      "assets_usd": 12990000000,
+      "stock_votes": [],
+      "weight_pct": 0.1244709514975764
+    },
+    {
+      "id": "FFFEX",
+      "name": "Fidelity Freedom 2030 Fund (FFFEX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFFEX/holdings/",
+      "holdings": [
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)",
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFFEX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "33.47B",
+      "assets_usd": 33470000000,
+      "stock_votes": [],
+      "weight_pct": 0.320711527838636
+    },
+    {
+      "id": "FFFFX",
+      "name": "Fidelity Freedom 2040 Fund (FFFFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFFFX/holdings/",
+      "holdings": [
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)",
+        "Fidelity Series Large Cap Stock Fund (FGLGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFFFX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "32.29B",
+      "assets_usd": 32290000000,
+      "stock_votes": [],
+      "weight_pct": 0.3094046977564851
+    },
+    {
+      "id": "FFFGX",
+      "name": "Fidelity Freedom 2045 Fund (FFFGX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFFGX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Stock Fund (FGLGX)",
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFFGX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "24.23B",
+      "assets_usd": 24230000000,
+      "stock_votes": [],
+      "weight_pct": 0.23217329905975953
+    },
+    {
+      "id": "FFFHX",
+      "name": "Fidelity Freedom 2050 Fund (FFFHX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFFHX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Stock Fund (FGLGX)",
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFFHX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "21.90B",
+      "assets_usd": 21900000000,
+      "stock_votes": [],
+      "weight_pct": 0.2098471006772073
+    },
+    {
+      "id": "FFIJX",
+      "name": "Fidelity Freedom Index 2065 Fund Investor Class (FFIJX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFIJX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFIJX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "3.87B",
+      "assets_usd": 3870000000,
+      "stock_votes": [],
+      "weight_pct": 0.03708256984569828
+    },
+    {
+      "id": "FFNOX",
+      "name": "FFNOX",
+      "url": "https://stockanalysis.com/quote/mutf/FFNOX/holdings/",
+      "holdings": [
+        "Fidelity 500 Index Fund",
+        "Fidelity International Index Fund"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFNOX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "9.44B",
+      "assets_usd": 9440000000,
+      "stock_votes": [],
+      "weight_pct": 0.09045464065720717
+    },
+    {
+      "id": "FFSFX",
+      "name": "Fidelity Freedom 2065 Fund (FFSFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFSFX/holdings/",
+      "holdings": [
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)",
+        "Fidelity Series Large Cap Stock Fund (FGLGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFSFX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "2.53B",
+      "assets_usd": 2530000000,
+      "stock_votes": [],
+      "weight_pct": 0.024242610260882855
+    },
+    {
+      "id": "FFTHX",
+      "name": "Fidelity Freedom 2035 Fund (FFTHX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFTHX/holdings/",
+      "holdings": [
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)",
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFTHX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "31.02B",
+      "assets_usd": 31020000000,
+      "stock_votes": [],
+      "weight_pct": 0.2972354823290854
+    },
+    {
+      "id": "FFTWX",
+      "name": "Fidelity Freedom 2025 Fund (FFTWX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFTWX/holdings/",
+      "holdings": [
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)",
+        "Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFTWX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "20.30B",
+      "assets_usd": 20300000000,
+      "stock_votes": [],
+      "weight_pct": 0.19451580565056203
+    },
+    {
+      "id": "FFVFX",
+      "name": "Fidelity Freedom 2015 Fund (FFVFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FFVFX/holdings/",
+      "holdings": [
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)",
+        "Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Nov 30, 2025",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FFVFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "4.17B",
+      "assets_usd": 4170000000,
+      "stock_votes": [],
+      "weight_pct": 0.03995718766319427
+    },
+    {
+      "id": "FHANX",
+      "name": "Fidelity Freedom Blend 2060 Fund (FHANX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHANX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "May 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHANX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.31B",
+      "assets_usd": 1310000000,
+      "stock_votes": [],
+      "weight_pct": 0.012552497803065827
+    },
+    {
+      "id": "FHAOX",
+      "name": "Fidelity Freedom Blend 2055 Fund (FHAOX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHAOX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHAOX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "2.40B",
+      "assets_usd": 2400000000,
+      "stock_votes": [],
+      "weight_pct": 0.022996942539967924
+    },
+    {
+      "id": "FHAPX",
+      "name": "Fidelity Freedom Blend 2050 Fund (FHAPX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHAPX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHAPX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "3.43B",
+      "assets_usd": 3430000000,
+      "stock_votes": [],
+      "weight_pct": 0.032866463713370826
+    },
+    {
+      "id": "FHAQX",
+      "name": "Fidelity Freedom Blend 2045 Fund (FHAQX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHAQX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHAQX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "3.90B",
+      "assets_usd": 3900000000,
+      "stock_votes": [],
+      "weight_pct": 0.037370031627447876
+    },
+    {
+      "id": "FHARX",
+      "name": "Fidelity Freedom Blend 2040 Fund (FHARX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHARX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHARX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "4.28B",
+      "assets_usd": 4280000000,
+      "stock_votes": [],
+      "weight_pct": 0.04101121419627613
+    },
+    {
+      "id": "FHASX",
+      "name": "Fidelity Freedom Blend 2035 Fund (FHASX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHASX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Apr 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHASX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "4.48B",
+      "assets_usd": 4480000000,
+      "stock_votes": [],
+      "weight_pct": 0.042927626074606796
+    },
+    {
+      "id": "FHATX",
+      "name": "Fidelity Freedom Blend 2030 Fund (FHATX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHATX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "May 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHATX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "4.05B",
+      "assets_usd": 4050000000,
+      "stock_votes": [],
+      "weight_pct": 0.038807340536195875
+    },
+    {
+      "id": "FHAUX",
+      "name": "Fidelity Freedom Blend 2025 Fund (FHAUX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHAUX/holdings/",
+      "holdings": [
+        "Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX)",
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Nov 30, 2025",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHAUX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "2.56B",
+      "assets_usd": 2560000000,
+      "stock_votes": [],
+      "weight_pct": 0.024530072042632457
+    },
+    {
+      "id": "FHAVX",
+      "name": "Fidelity Freedom Blend 2020 Fund (FHAVX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHAVX/holdings/",
+      "holdings": [
+        "Fidelity Series Government Bond Index Fund (FHNFX)",
+        "Fidelity Series Investment Grade Bond Fund (FSIGX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHAVX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.18B",
+      "assets_usd": 1180000000,
+      "stock_votes": [],
+      "weight_pct": 0.011306830082150896
+    },
+    {
+      "id": "FHAWX",
+      "name": "Fidelity Freedom Blend 2015 Fund (FHAWX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHAWX/holdings/",
+      "holdings": [
+        "Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)",
+        "Fidelity Series Government Bond Index Fund (FHNFX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jan 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHAWX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "356.77M",
+      "assets_usd": 356770000,
+      "stock_votes": [],
+      "weight_pct": 0.0034185913291601483
+    },
+    {
+      "id": "FHAYX",
+      "name": "Fidelity Freedom Blend 2010 Fund (FHAYX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHAYX/holdings/",
+      "holdings": [
+        "Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)",
+        "Fidelity Series Government Bond Index Fund (FHNFX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHAYX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "159.74M",
+      "assets_usd": 159740000,
+      "stock_votes": [],
+      "weight_pct": 0.0015306381672226985
+    },
+    {
+      "id": "FHBZX",
+      "name": "Fidelity Freedom Blend Retirement Fund (FHBZX)",
+      "url": "https://stockanalysis.com/quote/mutf/FHBZX/holdings/",
+      "holdings": [
+        "Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)",
+        "Fidelity Series Government Bond Index Fund (FHNFX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Nov 30, 2025",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FHBZX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "191.93M",
+      "assets_usd": 191930000,
+      "stock_votes": [],
+      "weight_pct": 0.0018390846590400182
+    },
+    {
+      "id": "FIHFX",
+      "name": "Fidelity Freedom Index 2035 Fund Investor Class (FIHFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FIHFX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FIHFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "27.37B",
+      "assets_usd": 27370000000,
+      "stock_votes": [],
+      "weight_pct": 0.26226096554955086
+    },
+    {
+      "id": "FIKFX",
+      "name": "Fidelity Freedom Index Retirement Fund Investor Class (FIKFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FIKFX/holdings/",
+      "holdings": [
+        "Fidelity Series Bond Index Fund (FIFZX)",
+        "Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "May 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FIKFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "1.83B",
+      "assets_usd": 1830000000,
+      "stock_votes": [],
+      "weight_pct": 0.01753516868672554
+    },
+    {
+      "id": "FIMVX",
+      "name": "FIMVX",
+      "url": "https://stockanalysis.com/quote/mutf/FIMVX/holdings/",
+      "holdings": [
+        "Phillips 66",
+        "Digital Realty Trust"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FIMVX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.64B",
+      "assets_usd": 1640000000,
+      "stock_votes": [
+        "Phillips 66",
+        "Digital Realty Trust"
+      ],
+      "weight_pct": 0.015714577402311417
+    },
+    {
+      "id": "FIOFX",
+      "name": "Fidelity Freedom Index 2045 Fund Investor Class (FIOFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FIOFX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FIOFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "25.87B",
+      "assets_usd": 25870000000,
+      "stock_votes": [],
+      "weight_pct": 0.24788787646207092
+    },
+    {
+      "id": "FIPDX",
+      "name": "FIPDX",
+      "url": "https://stockanalysis.com/quote/mutf/FIPDX/holdings/",
+      "holdings": [
+        "Treasury inflation-protected 2.125%, due January 2035",
+        "Treasury inflation-protected 1.875%, due January 2036"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FIPDX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "11.76B",
+      "assets_usd": 11760000000,
+      "stock_votes": [],
+      "weight_pct": 0.11268501844584283
+    },
+    {
+      "id": "FIPFX",
+      "name": "Fidelity Freedom Index 2050 Fund Investor Class (FIPFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FIPFX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FIPFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "24.83B",
+      "assets_usd": 24830000000,
+      "stock_votes": [],
+      "weight_pct": 0.2379225346947515
+    },
+    {
+      "id": "FISVX",
+      "name": "FISVX",
+      "url": "https://stockanalysis.com/quote/mutf/FISVX/holdings/",
+      "holdings": [
+        "Viasat",
+        "Cytokinetics"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FISVX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "2.25B",
+      "assets_usd": 2250000000,
+      "stock_votes": [
+        "Viasat",
+        "Cytokinetics"
+      ],
+      "weight_pct": 0.02155963363121993
+    },
+    {
+      "id": "FKIFX",
+      "name": "Fidelity Freedom Index 2010 Fund Investor Class (FKIFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FKIFX/holdings/",
+      "holdings": [
+        "Fidelity Series Bond Index Fund (FIFZX)",
+        "Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Dec 31, 2025",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FKIFX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "746.63M",
+      "assets_usd": 746630000,
+      "stock_votes": [],
+      "weight_pct": 0.007154253003590105
+    },
+    {
+      "id": "FLCOX",
+      "name": "FLCOX",
+      "url": "https://stockanalysis.com/quote/mutf/FLCOX/holdings/",
+      "holdings": [
+        "Amazon",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FLCOX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "15.19B",
+      "assets_usd": 15190000000,
+      "stock_votes": [
+        "Amazon",
+        "Apple"
+      ],
+      "weight_pct": 0.14555148215921365
+    },
+    {
+      "id": "FLIFX",
+      "name": "Fidelity Freedom Index 2015 Fund Investor Class (FLIFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FLIFX/holdings/",
+      "holdings": [
+        "Fidelity Series Bond Index Fund (FIFZX)",
+        "Fidelity Series Total Market Index Fund (FCFMX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Mar 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FLIFX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.98B",
+      "assets_usd": 1980000000,
+      "stock_votes": [],
+      "weight_pct": 0.018972477595473537
+    },
+    {
+      "id": "FMDGX",
+      "name": "FMDGX",
+      "url": "https://stockanalysis.com/quote/mutf/FMDGX/holdings/",
+      "holdings": [
+        "Snowflake",
+        "Cloudflare"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FMDGX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "3.59B",
+      "assets_usd": 3590000000,
+      "stock_votes": [
+        "Snowflake",
+        "Cloudflare"
+      ],
+      "weight_pct": 0.034399593216035355
+    },
+    {
+      "id": "FNBGX",
+      "name": "FNBGX",
+      "url": "https://stockanalysis.com/quote/mutf/FNBGX/holdings/",
+      "holdings": [
+        "U.S. Treasury 4.625%, due November 2055",
+        "U.S. Treasury 4.625%, due May 2054"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FNBGX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "4.92B",
+      "assets_usd": 4920000000,
+      "stock_votes": [],
+      "weight_pct": 0.04714373220693424
+    },
+    {
+      "id": "FNCMX",
+      "name": "FNCMX",
+      "url": "https://stockanalysis.com/quote/mutf/FNCMX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FNCMX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "27.95B",
+      "assets_usd": 27950000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.2678185599967098
+    },
+    {
+      "id": "FNILX",
+      "name": "FNILX",
+      "url": "https://stockanalysis.com/quote/mutf/FNILX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FNILX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "19.35B",
+      "assets_usd": 19350000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.18541284922849138
+    },
+    {
+      "id": "FNSOX",
+      "name": "FNSOX",
+      "url": "https://stockanalysis.com/quote/mutf/FNSOX/holdings/",
+      "holdings": [
+        "U.S. Treasury 0.625%, due December 2027",
+        "U.S. Treasury 1.125%, due August 2028"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FNSOX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "4.08B",
+      "assets_usd": 4080000000,
+      "stock_votes": [],
+      "weight_pct": 0.03909480231794547
+    },
+    {
+      "id": "FPADX",
+      "name": "FPADX",
+      "url": "https://stockanalysis.com/quote/mutf/FPADX/holdings/",
+      "holdings": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FPADX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "15.84B",
+      "assets_usd": 15840000000,
+      "stock_votes": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "weight_pct": 0.1517798207637883
+    },
+    {
+      "id": "FPIFX",
+      "name": "Fidelity Freedom Index 2020 Fund Investor Class (FPIFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FPIFX/holdings/",
+      "holdings": [
+        "Fidelity Series Bond Index Fund (FIFZX)",
+        "Fidelity Series Total Market Index Fund (FCFMX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jul 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FPIFX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "6.90B",
+      "assets_usd": 6900000000,
+      "stock_votes": [],
+      "weight_pct": 0.06611620980240779
+    },
+    {
+      "id": "FQIFX",
+      "name": "Fidelity Freedom Index 2025 Fund Investor Class (FQIFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FQIFX/holdings/",
+      "holdings": [
+        "Fidelity Series Bond Index Fund (FIFZX)",
+        "Fidelity Series Total Market Index Fund (FCFMX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FQIFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "14.98B",
+      "assets_usd": 14980000000,
+      "stock_votes": [],
+      "weight_pct": 0.14353924968696646
+    },
+    {
+      "id": "FRBDX",
+      "name": "Fidelity Freedom 2070 (FRBDX)",
+      "url": "https://stockanalysis.com/quote/mutf/FRBDX/holdings/",
+      "holdings": [
+        "Fidelity Series Growth Company Fund (FCGSX)",
+        "Fidelity Series Emerging Markets Opportunities Fund (FEMSX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Mar 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FRBDX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "144.80M",
+      "assets_usd": 144800000,
+      "stock_votes": [],
+      "weight_pct": 0.0013874821999113982
+    },
+    {
+      "id": "FRBVX",
+      "name": "Fidelity Freedom Index 2070 Investor (FRBVX)",
+      "url": "https://stockanalysis.com/quote/mutf/FRBVX/holdings/",
+      "holdings": [
+        "Fidelity Concord Street Trust - Fidelity Series Total Market Index Fund",
+        "Fidelity Series Global ex U.S. Index Fund (FSGEX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Mar 31, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FRBVX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "184.31M",
+      "assets_usd": 184310000,
+      "stock_votes": [],
+      "weight_pct": 0.00176606936647562
+    },
+    {
+      "id": "FRBYX",
+      "name": "Fidelity Freedom Blend 2070 (FRBYX)",
+      "url": "https://stockanalysis.com/quote/mutf/FRBYX/holdings/",
+      "holdings": [
+        "Fidelity Series Large Cap Value Index Fund (FIOOX)",
+        "Fidelity Series Blue Chip Growth Fund (FSBDX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Sep 30, 2025",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FRBYX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "25.23M",
+      "assets_usd": 25230000,
+      "stock_votes": [],
+      "weight_pct": 0.0002417553584514128
+    },
+    {
+      "id": "FSGGX",
+      "name": "FSGGX",
+      "url": "https://stockanalysis.com/quote/mutf/FSGGX/holdings/",
+      "holdings": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSGGX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "20.77B",
+      "assets_usd": 20770000000,
+      "stock_votes": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "weight_pct": 0.19901937356463908
+    },
+    {
+      "id": "FSKAX",
+      "name": "FSKAX",
+      "url": "https://stockanalysis.com/quote/mutf/FSKAX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSKAX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "142.22B",
+      "assets_usd": 142220000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 1.3627604866809326
+    },
+    {
+      "id": "FSMAX",
+      "name": "FSMAX",
+      "url": "https://stockanalysis.com/quote/mutf/FSMAX/holdings/",
+      "holdings": [
+        "Snowflake",
+        "Cloudflare"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSMAX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "40.07B",
+      "assets_usd": 40070000000,
+      "stock_votes": [
+        "Snowflake",
+        "Cloudflare"
+      ],
+      "weight_pct": 0.3839531198235478
+    },
+    {
+      "id": "FSMDX",
+      "name": "FSMDX",
+      "url": "https://stockanalysis.com/quote/mutf/FSMDX/holdings/",
+      "holdings": [
+        "Snowflake",
+        "Marathon Petroleum"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSMDX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "53.11B",
+      "assets_usd": 53110000000,
+      "stock_votes": [
+        "Snowflake",
+        "Marathon Petroleum"
+      ],
+      "weight_pct": 0.5089031742907069
+    },
+    {
+      "id": "FSPGX",
+      "name": "FSPGX",
+      "url": "https://stockanalysis.com/quote/mutf/FSPGX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSPGX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "43.68B",
+      "assets_usd": 43680000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.4185443542274162
+    },
+    {
+      "id": "FSPSX",
+      "name": "FSPSX",
+      "url": "https://stockanalysis.com/quote/mutf/FSPSX/holdings/",
+      "holdings": [
+        "ASML",
+        "HSBC"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSPSX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "88.45B",
+      "assets_usd": 88450000000,
+      "stock_votes": [
+        "ASML",
+        "HSBC"
+      ],
+      "weight_pct": 0.8475331531917346
+    },
+    {
+      "id": "FSRNX",
+      "name": "FSRNX",
+      "url": "https://stockanalysis.com/quote/mutf/FSRNX/holdings/",
+      "holdings": [
+        "Welltower",
+        "Prologis"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSRNX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "3.18B",
+      "assets_usd": 3180000000,
+      "stock_votes": [
+        "Welltower",
+        "Prologis"
+      ],
+      "weight_pct": 0.0304709488654575
+    },
+    {
+      "id": "FSSNX",
+      "name": "FSSNX",
+      "url": "https://stockanalysis.com/quote/mutf/FSSNX/holdings/",
+      "holdings": [
+        "Moog",
+        "Hut 8"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FSSNX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "34.47B",
+      "assets_usd": 34470000000,
+      "stock_votes": [
+        "Moog",
+        "Hut 8"
+      ],
+      "weight_pct": 0.3302935872302893
+    },
+    {
+      "id": "FTIHX",
+      "name": "FTIHX",
+      "url": "https://stockanalysis.com/quote/mutf/FTIHX/holdings/",
+      "holdings": [
+        "Taiwan Semiconductor Manufacturing",
+        "Fidelity Cash Central Fund"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FTIHX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "26.55B",
+      "assets_usd": 26550000000,
+      "stock_votes": [
+        "Taiwan Semiconductor Manufacturing"
+      ],
+      "weight_pct": 0.25440367684839515
+    },
+    {
+      "id": "FUAMX",
+      "name": "FUAMX",
+      "url": "https://stockanalysis.com/quote/mutf/FUAMX/holdings/",
+      "holdings": [
+        "U.S. Treasury 4.5%, due November 2033",
+        "U.S. Treasury 4%, due July 2032"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FUAMX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "8.40B",
+      "assets_usd": 8400000000,
+      "stock_votes": [],
+      "weight_pct": 0.08048929888988773
+    },
+    {
+      "id": "FUMBX",
+      "name": "FUMBX",
+      "url": "https://stockanalysis.com/quote/mutf/FUMBX/holdings/",
+      "holdings": [
+        "U.S. Treasury 3.75%, due January 2031",
+        "U.S. Treasury 3.625%, due September 2030"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FUMBX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "3.57B",
+      "assets_usd": 3570000000,
+      "stock_votes": [],
+      "weight_pct": 0.03420795202820229
+    },
+    {
+      "id": "FXAIX",
+      "name": "FXAIX",
+      "url": "https://stockanalysis.com/quote/mutf/FXAIX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FXAIX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "859.16B",
+      "assets_usd": 859160000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 8.232522146932851
+    },
+    {
+      "id": "FXIFX",
+      "name": "Fidelity Freedom Index 2030 Fund Investor Class (FXIFX)",
+      "url": "https://stockanalysis.com/quote/mutf/FXIFX/holdings/",
+      "holdings": [
+        "Fidelity Series Total Market Index Fund (FCFMX)",
+        "Fidelity Series Bond Index Fund (FIFZX)"
+      ],
+      "kind": "fund",
+      "holdings_date": "Jun 30, 2026",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FXIFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "28.92B",
+      "assets_usd": 28920000000,
+      "stock_votes": [],
+      "weight_pct": 0.2771131576066135
+    },
+    {
+      "id": "FXNAX",
+      "name": "FXNAX",
+      "url": "https://stockanalysis.com/quote/mutf/FXNAX/holdings/",
+      "holdings": [
+        "U.S. Treasury 1.5%, due February 2030",
+        "U.S. Treasury 2.75%, due August 2032"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FXNAX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "69.50B",
+      "assets_usd": 69500000000,
+      "stock_votes": [],
+      "weight_pct": 0.6659531277199044
+    },
+    {
+      "id": "FZILX",
+      "name": "FZILX",
+      "url": "https://stockanalysis.com/quote/mutf/FZILX/holdings/",
+      "holdings": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FZILX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "13.02B",
+      "assets_usd": 13020000000,
+      "stock_votes": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "weight_pct": 0.12475841327932598
+    },
+    {
+      "id": "FZIPX",
+      "name": "FZIPX",
+      "url": "https://stockanalysis.com/quote/mutf/FZIPX/holdings/",
+      "holdings": [
+        "Astera Labs",
+        "nVent Electric"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FZIPX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "2.69B",
+      "assets_usd": 2690000000,
+      "stock_votes": [
+        "Astera Labs",
+        "nVent Electric"
+      ],
+      "weight_pct": 0.02577573976354738
+    },
+    {
+      "id": "FZROX",
+      "name": "FZROX",
+      "url": "https://stockanalysis.com/quote/mutf/FZROX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/FZROX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "41.05B",
+      "assets_usd": 41050000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.39334353802736804
+    },
+    {
+      "id": "IAGG",
+      "name": "IAGG",
+      "url": "https://stockanalysis.com/etf/iagg/holdings/",
+      "holdings": [
+        "Chinese government bond 1.61%, due February 2035",
+        "Chinese government bond 1.44%, due September 2027"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iagg/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "11.88B",
+      "assets_usd": 11880000000,
+      "stock_votes": [],
+      "weight_pct": 0.11383486557284123
+    },
+    {
+      "id": "IBB",
+      "name": "IBB",
+      "url": "https://stockanalysis.com/etf/ibb/holdings/",
+      "holdings": [
+        "Amgen",
+        "Vertex Pharmaceuticals"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/ibb/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "10.36B",
+      "assets_usd": 10360000000,
+      "stock_votes": [
+        "Amgen",
+        "Vertex Pharmaceuticals"
+      ],
+      "weight_pct": 0.09927013529752822
+    },
+    {
+      "id": "ITOT",
+      "name": "ITOT",
+      "url": "https://stockanalysis.com/etf/itot/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/itot/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "96.05B",
+      "assets_usd": 96050000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.9203568045682996
+    },
+    {
+      "id": "IWB",
+      "name": "IWB",
+      "url": "https://stockanalysis.com/etf/iwb/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwb/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "48.82B",
+      "assets_usd": 48820000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.4677961395005142
+    },
+    {
+      "id": "IWC",
+      "name": "IWC",
+      "url": "https://stockanalysis.com/etf/iwc/holdings/",
+      "holdings": [
+        "CareDx",
+        "Nurix Therapeutics"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwc/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.48B",
+      "assets_usd": 1480000000,
+      "stock_votes": [
+        "CareDx",
+        "Nurix Therapeutics"
+      ],
+      "weight_pct": 0.014181447899646888
+    },
+    {
+      "id": "IWD",
+      "name": "IWD",
+      "url": "https://stockanalysis.com/etf/iwd/holdings/",
+      "holdings": [
+        "Amazon",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwd/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "82.93B",
+      "assets_usd": 82930000000,
+      "stock_votes": [
+        "Amazon",
+        "Apple"
+      ],
+      "weight_pct": 0.7946401853498084
+    },
+    {
+      "id": "IWF",
+      "name": "IWF",
+      "url": "https://stockanalysis.com/etf/iwf/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwf/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "125.57B",
+      "assets_usd": 125570000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 1.2032191978099052
+    },
+    {
+      "id": "IWM",
+      "name": "IWM",
+      "url": "https://stockanalysis.com/etf/iwm/holdings/",
+      "holdings": [
+        "Moog",
+        "UMB Financial"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwm/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "78.43B",
+      "assets_usd": 78430000000,
+      "stock_votes": [
+        "Moog",
+        "UMB Financial"
+      ],
+      "weight_pct": 0.7515209180873685
+    },
+    {
+      "id": "IWN",
+      "name": "IWN",
+      "url": "https://stockanalysis.com/etf/iwn/holdings/",
+      "holdings": [
+        "UMB Financial",
+        "Viasat"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwn/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "14.61B",
+      "assets_usd": 14610000000,
+      "stock_votes": [
+        "UMB Financial",
+        "Viasat"
+      ],
+      "weight_pct": 0.13999388771205473
+    },
+    {
+      "id": "IWO",
+      "name": "IWO",
+      "url": "https://stockanalysis.com/etf/iwo/holdings/",
+      "holdings": [
+        "Moog",
+        "Glaukos"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwo/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "14.45B",
+      "assets_usd": 14450000000,
+      "stock_votes": [
+        "Moog",
+        "Glaukos"
+      ],
+      "weight_pct": 0.13846075820939022
+    },
+    {
+      "id": "IWP",
+      "name": "IWP",
+      "url": "https://stockanalysis.com/etf/iwp/holdings/",
+      "holdings": [
+        "Snowflake",
+        "Cloudflare"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwp/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "19.58B",
+      "assets_usd": 19580000000,
+      "stock_votes": [
+        "Snowflake",
+        "Cloudflare"
+      ],
+      "weight_pct": 0.18761672288857165
+    },
+    {
+      "id": "IWR",
+      "name": "IWR",
+      "url": "https://stockanalysis.com/etf/iwr/holdings/",
+      "holdings": [
+        "Snowflake",
+        "Marathon Petroleum"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwr/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "56.98B",
+      "assets_usd": 56980000000,
+      "stock_votes": [
+        "Snowflake",
+        "Marathon Petroleum"
+      ],
+      "weight_pct": 0.5459857441364051
+    },
+    {
+      "id": "IWS",
+      "name": "IWS",
+      "url": "https://stockanalysis.com/etf/iws/holdings/",
+      "holdings": [
+        "Phillips 66",
+        "Hewlett Packard Enterprise"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iws/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "15.32B",
+      "assets_usd": 15320000000,
+      "stock_votes": [
+        "Phillips 66",
+        "Hewlett Packard Enterprise"
+      ],
+      "weight_pct": 0.1467971498801286
+    },
+    {
+      "id": "IWV",
+      "name": "IWV",
+      "url": "https://stockanalysis.com/etf/iwv/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/iwv/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "20.25B",
+      "assets_usd": 20250000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.19403670268097936
+    },
+    {
+      "id": "IXUS",
+      "name": "IXUS",
+      "url": "https://stockanalysis.com/etf/ixus/holdings/",
+      "holdings": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/ixus/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "60.62B",
+      "assets_usd": 60620000000,
+      "stock_votes": [
+        "Taiwan Semiconductor Manufacturing",
+        "Samsung Electronics"
+      ],
+      "weight_pct": 0.5808644403220231
+    },
+    {
+      "id": "LIRPX",
+      "name": "BlackRock LifePath Index Retirement Investor P, LIRPX",
+      "url": "https://stockanalysis.com/quote/mutf/LIRPX/holdings/",
+      "holdings": [
+        "BlackRock Russell 1000 Index Fund F",
+        "iShares U.S. Intermediate Government Bond Index"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/LIRPX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "1.33B",
+      "assets_usd": 1330000000,
+      "stock_votes": [],
+      "weight_pct": 0.012744138990898891
+    },
+    {
+      "id": "Maryland State Retirement & Pension System",
+      "name": "Maryland State Retirement & Pension System",
+      "url": "https://equibles.com/institutions/1795552/maryland-state-retirement-pension-system",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://equibles.com/institutions/1795552/maryland-state-retirement-pension-system",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter. Uses filing-declared total ($5.835823540B), not Equibles' smaller tracked subset ($5.706966378B).",
+      "assets_display": "5.835823540B",
+      "assets_usd": 5835823540,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.05591920775948842
+    },
+    {
+      "id": "MDY",
+      "name": "MDY",
+      "url": "https://stockanalysis.com/etf/mdy/holdings/",
+      "holdings": [
+        "Twilio",
+        "Illumina"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/mdy/holdings/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "26.49B",
+      "assets_usd": 26490000000,
+      "stock_votes": [
+        "Twilio",
+        "Illumina"
+      ],
+      "weight_pct": 0.25382875328489596
+    },
+    {
+      "id": "New York State Common Retirement Fund (NY State and Local)",
+      "name": "New York State Common Retirement Fund (NY State and Local)",
+      "url": "https://www.holdingschannel.com/13f/new-york-state-common-retirement-fund-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.holdingschannel.com/13f/new-york-state-common-retirement-fund-top-holdings/",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "78.912124B",
+      "assets_usd": 78912124000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.7561406588895099
+    },
+    {
+      "id": "New York State Teachers Retirement System",
+      "name": "New York State Teachers Retirement System",
+      "url": "https://www.holdingschannel.com/13f/new-york-state-teachers-retirement-system-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.holdingschannel.com/13f/new-york-state-teachers-retirement-system-top-holdings/",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "53.910275B",
+      "assets_usd": 53910275000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.5165714568703622
+    },
+    {
+      "id": "OEF",
+      "name": "OEF",
+      "url": "https://stockanalysis.com/etf/oef/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/oef/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "20.32B",
+      "assets_usd": 20320000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.1947074468383951
+    },
+    {
+      "id": "Oregon Public Employees Retirement Fund",
+      "name": "Oregon Public Employees Retirement Fund",
+      "url": "https://www.holdingschannel.com/13f/oregon-public-employees-retirement-fund-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-03-31",
+      "asset_source": "https://www.holdingschannel.com/13f/oregon-public-employees-retirement-fund-top-holdings/",
+      "asset_date": "2026-03-31",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "7.58B",
+      "assets_usd": 7580000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.07263201018873203
+    },
+    {
+      "id": "Pennsylvania PSERS",
+      "name": "Pennsylvania PSERS",
+      "url": "https://13foresight.com/fund/commonwealth-of-pennsylvania-public-school-empls-retrmt-sys",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://13foresight.com/fund/commonwealth-of-pennsylvania-public-school-empls-retrmt-sys",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter. Source search snapshot reports Q2 2026; opening its page returned older Q1 data. Q2 value retained and conflict flagged.",
+      "assets_display": "20.59B",
+      "assets_usd": 20590000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.19729460287414147
+    },
+    {
+      "id": "Public Employees Retirement System of Ohio",
+      "name": "Public Employees Retirement System of Ohio",
+      "url": "https://www.holdingschannel.com/13f/public-employees-retirement-system-of-ohio-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.holdingschannel.com/13f/public-employees-retirement-system-of-ohio-top-holdings/",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "33.89B",
+      "assets_usd": 33890000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.3247359927831304
+    },
+    {
+      "id": "QCBMRX",
+      "name": "CREF Core Bond, QCBMRX",
+      "url": "https://stockanalysis.com/quote/mutf/QCBMRX/holdings/",
+      "holdings": [
+        "June 2026 five-year Treasury-note futures",
+        "U.S. Treasury 3.75%, due January 2031"
+      ],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408407.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "12.90B",
+      "assets_usd": 12900000000,
+      "stock_votes": [],
+      "weight_pct": 0.12360856615232758
+    },
+    {
+      "id": "QCEQRX",
+      "name": "CREF Equity Index / S&P 500 Index, QCEQRX",
+      "url": "https://stockanalysis.com/quote/mutf/QCEQRX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408308.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "28.10B",
+      "assets_usd": 28100000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "weight_pct": 0.2692558689054578
+    },
+    {
+      "id": "QCGLRX",
+      "name": "CREF Global Equities, QCGLRX",
+      "url": "https://stockanalysis.com/quote/mutf/QCGLRX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408100.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "38.70B",
+      "assets_usd": 38700000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.37082569845698277
+    },
+    {
+      "id": "QCGRRX",
+      "name": "CREF Growth, QCGRRX",
+      "url": "https://stockanalysis.com/quote/mutf/QCGRRX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408209.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "43.28B",
+      "assets_usd": 43280000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "weight_pct": 0.4147115304707549
+    },
+    {
+      "id": "QCILRX",
+      "name": "CREF Inflation-Linked Bond, QCILRX",
+      "url": "https://stockanalysis.com/quote/mutf/QCILRX/holdings/",
+      "holdings": [
+        "Treasury inflation-protected 1.75%, due January 2034",
+        "Treasury inflation-protected 2.125%, due April 2029"
+      ],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408506.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "8.27B",
+      "assets_usd": 8270000000,
+      "stock_votes": [],
+      "weight_pct": 0.0792436311689728
+    },
+    {
+      "id": "QCMMRX",
+      "name": "CREF Money Market R1",
+      "url": "https://stockanalysis.com/quote/mutf/QCMMRX/",
+      "holdings": [],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408704.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "10.84B",
+      "assets_usd": 10840000000,
+      "stock_votes": [],
+      "weight_pct": 0.1038695238055218
+    },
+    {
+      "id": "QCSCRX",
+      "name": "CREF Social Choice / Responsible Balanced, QCSCRX",
+      "url": "https://stockanalysis.com/quote/mutf/QCSCRX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "U.S. Treasury 4.125%, due February 2036"
+      ],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408605.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "21.66B",
+      "assets_usd": 21660000000,
+      "stock_votes": [
+        "NVIDIA"
+      ],
+      "weight_pct": 0.2075474064232105
+    },
+    {
+      "id": "QCSTRX",
+      "name": "CREF Stock / Total Global Stock, QCSTRX",
+      "url": "https://stockanalysis.com/quote/mutf/QCSTRX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/194408803.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "144.52B",
+      "assets_usd": 144520000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 1.3847992232817352
+    },
+    {
+      "id": "QQQ",
+      "name": "QQQ",
+      "url": "https://stockanalysis.com/etf/qqq/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/qqq/holdings/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "480.39B",
+      "assets_usd": 480390000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 4.603125511156329
+    },
+    {
+      "id": "SOXX",
+      "name": "SOXX",
+      "url": "https://stockanalysis.com/etf/soxx/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Micron"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/soxx/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "44.87B",
+      "assets_usd": 44870000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Micron"
+      ],
+      "weight_pct": 0.42994700490348364
+    },
+    {
+      "id": "SPAB",
+      "name": "SPAB",
+      "url": "https://stockanalysis.com/etf/spab/holdings/",
+      "holdings": [
+        "State Street institutional U.S. government money-market fund",
+        "U.S. Treasury 3.5%, due December 2028"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spab/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "10.19B",
+      "assets_usd": 10190000000,
+      "stock_votes": [],
+      "weight_pct": 0.09764118520094715
+    },
+    {
+      "id": "SPBO",
+      "name": "SPBO",
+      "url": "https://stockanalysis.com/etf/spbo/holdings/",
+      "holdings": [
+        "State Street institutional U.S. government money-market fund",
+        "Citigroup 4.91%, due May 2033"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spbo/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "2.18B",
+      "assets_usd": 2180000000,
+      "stock_votes": [],
+      "weight_pct": 0.020888889473804198
+    },
+    {
+      "id": "SPDW",
+      "name": "SPDW",
+      "url": "https://stockanalysis.com/etf/spdw/holdings/",
+      "holdings": [
+        "Samsung Electronics depositary receipts",
+        "ASML"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spdw/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "42.00B",
+      "assets_usd": 42000000000,
+      "stock_votes": [
+        "Samsung Electronics",
+        "ASML"
+      ],
+      "weight_pct": 0.40244649444943864
+    },
+    {
+      "id": "SPEM",
+      "name": "SPEM",
+      "url": "https://stockanalysis.com/etf/spem/holdings/",
+      "holdings": [
+        "Taiwan Semiconductor Manufacturing",
+        "Tencent"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spem/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "17.93B",
+      "assets_usd": 17930000000,
+      "stock_votes": [
+        "Taiwan Semiconductor Manufacturing",
+        "Tencent"
+      ],
+      "weight_pct": 0.1718063248923437
+    },
+    {
+      "id": "SPGM",
+      "name": "SPGM",
+      "url": "https://stockanalysis.com/etf/spgm/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spgm/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "1.76B",
+      "assets_usd": 1760000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.01686442452930981
+    },
+    {
+      "id": "SPHY",
+      "name": "SPHY",
+      "url": "https://stockanalysis.com/etf/sphy/holdings/",
+      "holdings": [
+        "1261229 BC Ltd. secured bond 10%, due April 2032",
+        "Meridian Arc Holdco secured bond 6.25%, due April 2031"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/sphy/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "12.01B",
+      "assets_usd": 12010000000,
+      "stock_votes": [],
+      "weight_pct": 0.11508053329375616
+    },
+    {
+      "id": "SPIB",
+      "name": "SPIB",
+      "url": "https://stockanalysis.com/etf/spib/holdings/",
+      "holdings": [
+        "Morgan Stanley Bank 5.016%, due January 2029",
+        "State Street institutional U.S. government money-market fund"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spib/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "11.59B",
+      "assets_usd": 11590000000,
+      "stock_votes": [],
+      "weight_pct": 0.11105606834926178
+    },
+    {
+      "id": "SPIP",
+      "name": "SPIP",
+      "url": "https://stockanalysis.com/etf/spip/holdings/",
+      "holdings": [
+        "Treasury inflation-protected 2.125%, due January 2035",
+        "Treasury inflation-protected 1.875%, due July 2034"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spip/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "1.03B",
+      "assets_usd": 1030000000,
+      "stock_votes": [],
+      "weight_pct": 0.0098695211734029
+    },
+    {
+      "id": "SPLB",
+      "name": "SPLB",
+      "url": "https://stockanalysis.com/etf/splb/holdings/",
+      "holdings": [
+        "Anheuser-Busch 4.9%, due February 2046",
+        "CVS Health 5.05%, due March 2048"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/splb/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "1.24B",
+      "assets_usd": 1240000000,
+      "stock_votes": [],
+      "weight_pct": 0.011881753645650094
+    },
+    {
+      "id": "SPMB",
+      "name": "SPMB",
+      "url": "https://stockanalysis.com/etf/spmb/holdings/",
+      "holdings": [
+        "State Street U.S. Government Money Market Portfolio",
+        "Freddie Mac mortgage pool RQ0094, 5%"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spmb/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "7.11B",
+      "assets_usd": 7110000000,
+      "stock_votes": [],
+      "weight_pct": 0.06812844227465498
+    },
+    {
+      "id": "SPSB",
+      "name": "SPSB",
+      "url": "https://stockanalysis.com/etf/spsb/holdings/",
+      "holdings": [
+        "Salesforce 4.65%, due March 2029",
+        "Bank of America 3.419%, due December 2028"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spsb/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "11.07B",
+      "assets_usd": 11070000000,
+      "stock_votes": [],
+      "weight_pct": 0.10607339746560206
+    },
+    {
+      "id": "SPTI",
+      "name": "SPTI",
+      "url": "https://stockanalysis.com/etf/spti/holdings/",
+      "holdings": [
+        "U.S. Treasury 4.625%, due February 2035",
+        "U.S. Treasury 4.25%, due August 2035"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spti/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "10.60B",
+      "assets_usd": 10600000000,
+      "stock_votes": [],
+      "weight_pct": 0.101569829551525
+    },
+    {
+      "id": "SPTL",
+      "name": "SPTL",
+      "url": "https://stockanalysis.com/etf/sptl/holdings/",
+      "holdings": [
+        "U.S. Treasury 4.75%, due August 2055",
+        "U.S. Treasury 4.75%, due February 2056"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/sptl/",
+      "asset_date": null,
+      "asset_note": "Displayed ETF assets; valuation date not explicitly supplied.",
+      "assets_display": "10.88B",
+      "assets_usd": 10880000000,
+      "stock_votes": [],
+      "weight_pct": 0.10425280618118792
+    },
+    {
+      "id": "SPTS",
+      "name": "SPTS",
+      "url": "https://stockanalysis.com/etf/spts/holdings/",
+      "holdings": [
+        "U.S. Treasury 3.5%, due January 2028",
+        "U.S. Treasury 4.625%, due April 2029"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spts/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "7.35B",
+      "assets_usd": 7350000000,
+      "stock_votes": [],
+      "weight_pct": 0.07042813652865176
+    },
+    {
+      "id": "SPY",
+      "name": "SPY",
+      "url": "https://stockanalysis.com/etf/spy/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spy/holdings/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "806.13B",
+      "assets_usd": 806130000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 7.724385537393476
+    },
+    {
+      "id": "SPYD",
+      "name": "SPYD",
+      "url": "https://stockanalysis.com/etf/spyd/holdings/",
+      "holdings": [
+        "Accenture",
+        "Ares Management"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spyd/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "7.60B",
+      "assets_usd": 7600000000,
+      "stock_votes": [
+        "Accenture",
+        "Ares Management"
+      ],
+      "weight_pct": 0.0728236513765651
+    },
+    {
+      "id": "SPYG",
+      "name": "SPYG",
+      "url": "https://stockanalysis.com/etf/spyg/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/etf/spyg/holdings/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "54.19B",
+      "assets_usd": 54190000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "weight_pct": 0.5192517984336924
+    },
+    {
+      "id": "State Board of Administration of Florida Retirement System",
+      "name": "State Board of Administration of Florida Retirement System",
+      "url": "https://www.holdingschannel.com/13f/state-board-of-administration-of-florida-retirement-system-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-03-31",
+      "asset_source": "https://www.holdingschannel.com/13f/state-board-of-administration-of-florida-retirement-system-top-holdings/",
+      "asset_date": "2026-03-31",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "53.39B",
+      "assets_usd": 53390000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.5115861509203697
+    },
+    {
+      "id": "State of Tennessee, Department of Treasury",
+      "name": "State of Tennessee, Department of Treasury",
+      "url": "https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-03-31",
+      "asset_source": "https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury",
+      "asset_date": "2026-03-31",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "29.752883B",
+      "assets_usd": 29752883000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.28509389197891183
+    },
+    {
+      "id": "State of Wisconsin Investment Board",
+      "name": "State of Wisconsin Investment Board",
+      "url": "https://www.holdingschannel.com/13f/state-of-wisconsin-investment-board-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.holdingschannel.com/13f/state-of-wisconsin-investment-board-top-holdings/",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "49.363260B",
+      "assets_usd": 49363260000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.4730016890856238
+    },
+    {
+      "id": "STRS Ohio",
+      "name": "STRS Ohio",
+      "url": "https://www.gurufocus.com/guru/strs%2Bohio/current-portfolio/top-yield",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.gurufocus.com/guru/strs%2Bohio/current-portfolio/top-yield",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "26.69B",
+      "assets_usd": 26690000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.25574516516322665
+    },
+    {
+      "id": "SWAGX",
+      "name": "SWAGX",
+      "url": "https://stockanalysis.com/quote/mutf/SWAGX/holdings/",
+      "holdings": [
+        "State Street government money-market fund",
+        "U.S. Treasury 3.75%, due April 2028"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/SWAGX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "8.24B",
+      "assets_usd": 8240000000,
+      "stock_votes": [],
+      "weight_pct": 0.0789561693872232
+    },
+    {
+      "id": "SWISX",
+      "name": "SWISX",
+      "url": "https://stockanalysis.com/quote/mutf/SWISX/holdings/",
+      "holdings": [
+        "ASML",
+        "HSBC"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/SWISX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "15.07B",
+      "assets_usd": 15070000000,
+      "stock_votes": [
+        "ASML",
+        "HSBC"
+      ],
+      "weight_pct": 0.14440163503221526
+    },
+    {
+      "id": "SWPPX",
+      "name": "SWPPX",
+      "url": "https://stockanalysis.com/quote/mutf/SWPPX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/SWPPX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "148.72B",
+      "assets_usd": 148720000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 1.425043872726679
+    },
+    {
+      "id": "SWSSX",
+      "name": "SWSSX",
+      "url": "https://stockanalysis.com/quote/mutf/SWSSX/holdings/",
+      "holdings": [
+        "September 2026 E-mini Russell 2000 futures",
+        "Moog"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/SWSSX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "7.64B",
+      "assets_usd": 7640000000,
+      "stock_votes": [
+        "Moog"
+      ],
+      "weight_pct": 0.07320693375223122
+    },
+    {
+      "id": "SWTSX",
+      "name": "SWTSX",
+      "url": "https://stockanalysis.com/quote/mutf/SWTSX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/SWTSX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "45.24B",
+      "assets_usd": 45240000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.4334923668783954
+    },
+    {
+      "id": "SWYMX",
+      "name": "Schwab Target 2050 Index, SWYMX",
+      "url": "https://stockanalysis.com/quote/mutf/SWYMX/holdings/",
+      "holdings": [
+        "Schwab U.S. Large-Cap ETF",
+        "Schwab International Equity ETF"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/SWYMX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "1.30B",
+      "assets_usd": 1300000000,
+      "stock_votes": [],
+      "weight_pct": 0.012456677209149293
+    },
+    {
+      "id": "TCLFX",
+      "name": "Nuveen Lifecycle 2025 Retirement Class, TCLFX",
+      "url": "https://stockanalysis.com/quote/mutf/TCLFX/holdings/",
+      "holdings": [
+        "Nuveen Core Bond W",
+        "Nuveen Core Plus Bond W"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/TCLFX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied.",
+      "assets_display": "4.49B",
+      "assets_usd": 4490000000,
+      "stock_votes": [],
+      "weight_pct": 0.04302344666852333
+    },
+    {
+      "id": "TCLNX",
+      "name": "Nuveen Lifecycle 2030 Retirement Class, TCLNX",
+      "url": "https://stockanalysis.com/quote/mutf/TCLNX/holdings/",
+      "holdings": [
+        "Nuveen Core Bond W",
+        "Nuveen Core Plus Bond W"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/TCLNX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "4.57B",
+      "assets_usd": 4570000000,
+      "stock_votes": [],
+      "weight_pct": 0.04379001141985559
+    },
+    {
+      "id": "TCLOX",
+      "name": "Nuveen Lifecycle 2040 Retirement Class, TCLOX",
+      "url": "https://stockanalysis.com/quote/mutf/TCLOX/holdings/",
+      "holdings": [
+        "Nuveen Large Cap Growth W",
+        "Nuveen Large Cap Value W"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/TCLOX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "6.33B",
+      "assets_usd": 6330000000,
+      "stock_votes": [],
+      "weight_pct": 0.0606544359491654
+    },
+    {
+      "id": "TCLRX",
+      "name": "Nuveen Lifecycle 2035 Retirement Class, TCLRX",
+      "url": "https://stockanalysis.com/quote/mutf/TCLRX/holdings/",
+      "holdings": [
+        "Nuveen Core Bond W",
+        "Nuveen Core Plus Bond W"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/TCLRX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "4.58B",
+      "assets_usd": 4580000000,
+      "stock_votes": [],
+      "weight_pct": 0.04388583201377212
+    },
+    {
+      "id": "Teacher Retirement System of Texas",
+      "name": "Teacher Retirement System of Texas",
+      "url": "https://www.holdingschannel.com/13f/teacher-retirement-system-of-texas-top-holdings/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-03-31",
+      "asset_source": "https://www.holdingschannel.com/13f/teacher-retirement-system-of-texas-top-holdings/",
+      "asset_date": "2026-03-31",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "24.004995B",
+      "assets_usd": 24004995000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.23001728778634056
+    },
+    {
+      "id": "TIAA_REAL_ESTATE",
+      "name": "TIAA Real Estate Account",
+      "url": "https://fluenttech.tiaa.org/pdf/factsheet/878094200.pdf",
+      "holdings": [],
+      "kind": "property",
+      "asset_source": "https://fluenttech.tiaa.org/pdf/factsheet/878094200.pdf",
+      "asset_date": "2026-06-30",
+      "asset_note": "Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.",
+      "assets_display": "23.0B",
+      "assets_usd": 23000000000,
+      "stock_votes": [],
+      "weight_pct": 0.22038736600802594
+    },
+    {
+      "id": "Treasurer of the State of North Carolina",
+      "name": "Treasurer of the State of North Carolina",
+      "url": "https://www.gurufocus.com/guru/treasurer%2Bof%2Bthe%2Bstate%2Bof%2Bnorth%2Bcarolina/summary",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://www.gurufocus.com/guru/treasurer%2Bof%2Bthe%2Bstate%2Bof%2Bnorth%2Bcarolina/summary",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "38.81B",
+      "assets_usd": 38810000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.37187972499006466
+    },
+    {
+      "id": "TRRDX",
+      "name": "T. Rowe Price Retirement 2040, TRRDX",
+      "url": "https://stockanalysis.com/quote/mutf/TRRDX/holdings/",
+      "holdings": [
+        "T. Rowe Price Value Z",
+        "T. Rowe Price Growth Stock Z"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/TRRDX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "26.53B",
+      "assets_usd": 26530000000,
+      "stock_votes": [],
+      "weight_pct": 0.2542120356605621
+    },
+    {
+      "id": "TRRJX",
+      "name": "T. Rowe Price Retirement 2035, TRRJX",
+      "url": "https://stockanalysis.com/quote/mutf/TRRJX/holdings/",
+      "holdings": [
+        "T. Rowe Price Value Z",
+        "T. Rowe Price Growth Stock Z"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/TRRJX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "24.06B",
+      "assets_usd": 24060000000,
+      "stock_votes": [],
+      "weight_pct": 0.23054434896317844
+    },
+    {
+      "id": "TRRKX",
+      "name": "T. Rowe Price Retirement 2045, TRRKX",
+      "url": "https://stockanalysis.com/quote/mutf/TRRKX/holdings/",
+      "holdings": [
+        "T. Rowe Price Value Z",
+        "T. Rowe Price Growth Stock Z"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/TRRKX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "18.72B",
+      "assets_usd": 18720000000,
+      "stock_votes": [],
+      "weight_pct": 0.17937615181174982
+    },
+    {
+      "id": "VFIAX",
+      "name": "VFIAX",
+      "url": "https://stockanalysis.com/quote/mutf/VFIAX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://advisors.vanguard.com/investments/products/vfiax/vanguard-500-index-fund-",
+      "asset_date": "2026-08-31",
+      "asset_note": "Issuer total fund assets across share classes, not VFIAX-only assets ($693B). One parent fund counted.",
+      "assets_display": "1757.6B",
+      "assets_usd": 1757600000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 16.841427586769843
+    },
+    {
+      "id": "VIMAX",
+      "name": "VIMAX",
+      "url": "https://stockanalysis.com/quote/mutf/VIMAX/holdings/",
+      "holdings": [
+        "Howmet Aerospace",
+        "Quanta Services"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/VIMAX/holdings/",
+      "asset_date": null,
+      "asset_note": "Assets field from holdings page; asset valuation date not explicitly supplied.",
+      "assets_display": "226.38B",
+      "assets_usd": 226380000000,
+      "stock_votes": [
+        "Howmet Aerospace",
+        "Quanta Services"
+      ],
+      "weight_pct": 2.1691866050824746
+    },
+    {
+      "id": "Virginia Retirement Systems et al.",
+      "name": "Virginia Retirement Systems et al.",
+      "url": "https://stockzoa.com/fund/virginia-retirement-system/",
+      "holdings": [
+        "NVIDIA (NVDA)",
+        "Apple (AAPL)"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-06-30",
+      "asset_source": "https://filingsflow.com/manager/0001005354/virginia-retirement-systems-et-al",
+      "asset_date": "2026-06-30",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "16.7B",
+      "assets_usd": 16700000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 0.16002039184061015
+    },
+    {
+      "id": "VTINX",
+      "name": "Vanguard Target Retirement Income, VTINX",
+      "url": "https://stockanalysis.com/quote/mutf/VTINX/holdings/",
+      "holdings": [
+        "Vanguard Total Bond Market II Index",
+        "Vanguard Total Stock Market Index Institutional Plus"
+      ],
+      "kind": "fund",
+      "asset_source": "https://stockanalysis.com/quote/mutf/VTINX/",
+      "asset_date": null,
+      "asset_note": "Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.",
+      "assets_display": "36.23B",
+      "assets_usd": 36230000000,
+      "stock_votes": [],
+      "weight_pct": 0.34715801175959915
+    },
+    {
+      "id": "VTSAX",
+      "name": "VTSAX",
+      "url": "https://stockanalysis.com/quote/mutf/VTSAX/holdings/",
+      "holdings": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "kind": "fund",
+      "asset_source": "https://advisors.vanguard.com/investments/products/vtsax/vanguard-total-stock-market-index-fund-admiral-shares",
+      "asset_date": "2026-08-31",
+      "asset_note": "Issuer total fund assets across share classes. One parent fund counted.",
+      "assets_display": "2343.6B",
+      "assets_usd": 2343600000000,
+      "stock_votes": [
+        "NVIDIA",
+        "Apple"
+      ],
+      "weight_pct": 22.456514390278677
+    },
+    {
+      "id": "Washington State Investment Board — exceptionally limited disclosure",
+      "name": "Washington State Investment Board — exceptionally limited disclosure",
+      "url": "https://13f.info/manager/0000943712-washington-state-investment-board",
+      "holdings": [
+        "FTAI",
+        "FIP"
+      ],
+      "kind": "pension",
+      "holdings_date": "2026-03-31",
+      "asset_source": "https://13f.info/manager/0000943712-washington-state-investment-board",
+      "asset_date": "2026-03-31",
+      "asset_note": "Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.",
+      "assets_display": "0.251236B",
+      "assets_usd": 251236000,
+      "stock_votes": [
+        "FTAI",
+        "FIP"
+      ],
+      "weight_pct": 0.002407358273321409
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "checked": "2026-09-13",
+  "policy": "Only stocks with a U.S. exchange listing may enter the selected top ten. U.S.-listed ADRs and registry shares qualify. OTC-only securities do not. Filter after scoring; fund weights remain unchanged.",
+  "sources": [
+    {
+      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+      "timestamp": "File Creation Time: 0911202621:31|||||||"
+    },
+    {
+      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+      "timestamp": "File Creation Time: 0911202621:31||||||"
+    }
+  ],
+  "eligible": {
+    "NVIDIA": {
+      "ticker": "NVDA",
+      "security_name": "NVIDIA Corporation - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Apple": {
+      "ticker": "AAPL",
+      "security_name": "Apple Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Howmet Aerospace": {
+      "ticker": "HWM",
+      "security_name": "Howmet Aerospace Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Quanta Services": {
+      "ticker": "PWR",
+      "security_name": "Quanta Services, Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Snowflake": {
+      "ticker": "SNOW",
+      "security_name": "Snowflake Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Taiwan Semiconductor Manufacturing": {
+      "ticker": "TSM",
+      "security_name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "ASML": {
+      "ticker": "ASML",
+      "security_name": "ASML Holding N.V. - New York Registry Shares",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Microsoft": {
+      "ticker": "MSFT",
+      "security_name": "Microsoft Corporation - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Moog": {
+      "ticker": "MOG.A",
+      "security_name": "Moog Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Marathon Petroleum": {
+      "ticker": "MPC",
+      "security_name": "Marathon Petroleum Corporation Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "HSBC": {
+      "ticker": "HSBC",
+      "security_name": "HSBC Holdings, plc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Amazon": {
+      "ticker": "AMZN",
+      "security_name": "Amazon.com, Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "UMB Financial": {
+      "ticker": "UMBF",
+      "security_name": "UMB Financial Corporation - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Cloudflare": {
+      "ticker": "NET",
+      "security_name": "Cloudflare, Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Caterpillar": {
+      "ticker": "CAT",
+      "security_name": "Caterpillar, Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Goldman Sachs": {
+      "ticker": "GS",
+      "security_name": "Goldman Sachs Group, Inc. (The) Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Micron": {
+      "ticker": "MU",
+      "security_name": "Micron Technology, Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Hut 8": {
+      "ticker": "HUT",
+      "security_name": "Hut 8 Corp. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Illumina": {
+      "ticker": "ILMN",
+      "security_name": "Illumina, Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Twilio": {
+      "ticker": "TWLO",
+      "security_name": "Twilio Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Phillips 66": {
+      "ticker": "PSX",
+      "security_name": "Phillips 66 Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Viasat": {
+      "ticker": "VSAT",
+      "security_name": "ViaSat, Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Hewlett Packard Enterprise": {
+      "ticker": "HPE",
+      "security_name": "Hewlett Packard Enterprise Company Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Glaukos": {
+      "ticker": "GKOS",
+      "security_name": "Glaukos Corporation Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Amgen": {
+      "ticker": "AMGN",
+      "security_name": "Amgen Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Vertex Pharmaceuticals": {
+      "ticker": "VRTX",
+      "security_name": "Vertex Pharmaceuticals Incorporated - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Accenture": {
+      "ticker": "ACN",
+      "security_name": "Accenture plc Class A Ordinary Shares (Ireland)",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Ares Management": {
+      "ticker": "ARES",
+      "security_name": "Ares Management Corporation Class A Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Prologis": {
+      "ticker": "PLD",
+      "security_name": "Prologis, Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Welltower": {
+      "ticker": "WELL",
+      "security_name": "Welltower Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Astera Labs": {
+      "ticker": "ALAB",
+      "security_name": "Astera Labs, Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "nVent Electric": {
+      "ticker": "NVT",
+      "security_name": "nVent Electric plc Ordinary Shares ",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Bloom Energy": {
+      "ticker": "BE",
+      "security_name": "Bloom Energy Corporation Class A Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "Credo Technology": {
+      "ticker": "CRDO",
+      "security_name": "Credo Technology Group Holding Ltd - Ordinary Shares",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Cytokinetics": {
+      "ticker": "CYTK",
+      "security_name": "Cytokinetics, Incorporated - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Digital Realty Trust": {
+      "ticker": "DLR",
+      "security_name": "Digital Realty Trust, Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    "CareDx": {
+      "ticker": "CDNA",
+      "security_name": "CareDx, Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "Nurix Therapeutics": {
+      "ticker": "NRIX",
+      "security_name": "Nurix Therapeutics, Inc. - Common stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "FIP": {
+      "ticker": "FIP",
+      "security_name": "FTAI Infrastructure Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    "FTAI": {
+      "ticker": "FTAI",
+      "security_name": "FTAI Aviation Ltd. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    }
+  },
+  "excluded": {
+    "Samsung Electronics": {
+      "candidate_ticker": "SSNLF",
+      "reason": "No qualifying listing found in the U.S. exchange directories; excluded from selection."
+    },
+    "Tencent": {
+      "candidate_ticker": "TCEHY",
+      "reason": "No qualifying listing found in the U.S. exchange directories; excluded from selection."
+    }
+  }
+}

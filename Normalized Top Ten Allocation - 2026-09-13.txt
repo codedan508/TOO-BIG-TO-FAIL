@@ -1,0 +1,20 @@
+TOO BIG TO FAIL — NORMALIZED TOP TEN
+Calculated September 13, 2026
+Allocation = stock weighted score / sum of selected ten weighted scores.
+Two-decimal display uses largest-remainder rounding to total exactly 100%.
+These are allocations produced by the proposed model, using the provisional saved asset and holdings snapshots.
+
+NVIDIA (NVDA): 46.47%
+Apple (AAPL): 45.92%
+Howmet Aerospace (HWM): 1.32%
+Quanta Services (PWR): 1.31%
+Snowflake (SNOW): 1.01%
+Taiwan Semiconductor Manufacturing (TSM): 0.90%
+ASML (ASML): 0.85%
+Microsoft (MSFT): 0.80%
+Moog (MOG.A): 0.78%
+Marathon Petroleum (MPC): 0.64%
+Total: 100.00%
+
+Source: Asset Weight Results - 2026-09-13.json
+Underlying sources and limitations: Asset Weighted Ranking - 2026-09-13.txt

@@ -1,0 +1,668 @@
+{
+  "total_reported_assets_usd": 10436169920540,
+  "fund_weight_sum": "1.000000000000000000000000000",
+  "ranked_stocks": [
+    {
+      "stock": "NVIDIA",
+      "score_pct": 76.65798182141947,
+      "contributors": [
+        "Arizona State Retirement System",
+        "CalSTRS",
+        "Colorado Public Employees Retirement Association",
+        "FNCMX",
+        "FNILX",
+        "FSKAX",
+        "FSPGX",
+        "FXAIX",
+        "FZROX",
+        "ITOT",
+        "IWB",
+        "IWF",
+        "IWV",
+        "Maryland State Retirement & Pension System",
+        "New York State Common Retirement Fund (NY State and Local)",
+        "New York State Teachers Retirement System",
+        "OEF",
+        "Oregon Public Employees Retirement Fund",
+        "Pennsylvania PSERS",
+        "Public Employees Retirement System of Ohio",
+        "QCEQRX",
+        "QCGLRX",
+        "QCGRRX",
+        "QCSCRX",
+        "QCSTRX",
+        "QQQ",
+        "SOXX",
+        "SPGM",
+        "SPY",
+        "SPYG",
+        "State Board of Administration of Florida Retirement System",
+        "State of Tennessee, Department of Treasury",
+        "State of Wisconsin Investment Board",
+        "STRS Ohio",
+        "SWPPX",
+        "SWTSX",
+        "Teacher Retirement System of Texas",
+        "Treasurer of the State of North Carolina",
+        "VFIAX",
+        "Virginia Retirement Systems et al.",
+        "VTSAX"
+      ]
+    },
+    {
+      "stock": "Apple",
+      "score_pct": 75.7574598797919,
+      "contributors": [
+        "Arizona State Retirement System",
+        "CalSTRS",
+        "Colorado Public Employees Retirement Association",
+        "FLCOX",
+        "FNCMX",
+        "FNILX",
+        "FSKAX",
+        "FSPGX",
+        "FXAIX",
+        "FZROX",
+        "ITOT",
+        "IWB",
+        "IWD",
+        "IWF",
+        "IWV",
+        "Maryland State Retirement & Pension System",
+        "New York State Common Retirement Fund (NY State and Local)",
+        "New York State Teachers Retirement System",
+        "OEF",
+        "Oregon Public Employees Retirement Fund",
+        "Pennsylvania PSERS",
+        "Public Employees Retirement System of Ohio",
+        "QCGLRX",
+        "QCSTRX",
+        "QQQ",
+        "SPGM",
+        "SPY",
+        "State Board of Administration of Florida Retirement System",
+        "State of Tennessee, Department of Treasury",
+        "State of Wisconsin Investment Board",
+        "STRS Ohio",
+        "SWPPX",
+        "SWTSX",
+        "Teacher Retirement System of Texas",
+        "Treasurer of the State of North Carolina",
+        "VFIAX",
+        "Virginia Retirement Systems et al.",
+        "VTSAX"
+      ]
+    },
+    {
+      "stock": "Howmet Aerospace",
+      "score_pct": 2.1691866050824746,
+      "contributors": [
+        "VIMAX"
+      ]
+    },
+    {
+      "stock": "Quanta Services",
+      "score_pct": 2.1691866050824746,
+      "contributors": [
+        "VIMAX"
+      ]
+    },
+    {
+      "stock": "Snowflake",
+      "score_pct": 1.6608583543552669,
+      "contributors": [
+        "FMDGX",
+        "FSMAX",
+        "FSMDX",
+        "IWP",
+        "IWR"
+      ]
+    },
+    {
+      "stock": "Taiwan Semiconductor Manufacturing",
+      "score_pct": 1.4826320496705154,
+      "contributors": [
+        "FPADX",
+        "FSGGX",
+        "FTIHX",
+        "FZILX",
+        "IXUS",
+        "SPEM"
+      ]
+    },
+    {
+      "stock": "Samsung Electronics",
+      "score_pct": 1.4588685423792151,
+      "contributors": [
+        "FPADX",
+        "FSGGX",
+        "FZILX",
+        "IXUS",
+        "SPDW"
+      ]
+    },
+    {
+      "stock": "ASML",
+      "score_pct": 1.3943812826733886,
+      "contributors": [
+        "FSPSX",
+        "SPDW",
+        "SWISX"
+      ]
+    },
+    {
+      "stock": "Microsoft",
+      "score_pct": 1.3209268826553084,
+      "contributors": [
+        "Employees Retirement System of Texas",
+        "QCEQRX",
+        "QCGRRX",
+        "SPYG"
+      ]
+    },
+    {
+      "stock": "Moog",
+      "score_pct": 1.2934821972792792,
+      "contributors": [
+        "FSSNX",
+        "IWM",
+        "IWO",
+        "SWSSX"
+      ]
+    },
+    {
+      "stock": "Marathon Petroleum",
+      "score_pct": 1.054888918427112,
+      "contributors": [
+        "FSMDX",
+        "IWR"
+      ]
+    },
+    {
+      "stock": "HSBC",
+      "score_pct": 0.9919347882239498,
+      "contributors": [
+        "FSPSX",
+        "SWISX"
+      ]
+    },
+    {
+      "stock": "Amazon",
+      "score_pct": 0.9401916675090219,
+      "contributors": [
+        "FLCOX",
+        "IWD"
+      ]
+    },
+    {
+      "stock": "UMB Financial",
+      "score_pct": 0.8915148057994232,
+      "contributors": [
+        "IWM",
+        "IWN"
+      ]
+    },
+    {
+      "stock": "Cloudflare",
+      "score_pct": 0.6059694359281548,
+      "contributors": [
+        "FMDGX",
+        "FSMAX",
+        "IWP"
+      ]
+    },
+    {
+      "stock": "Caterpillar",
+      "score_pct": 0.4373251906350567,
+      "contributors": [
+        "DIA"
+      ]
+    },
+    {
+      "stock": "Goldman Sachs",
+      "score_pct": 0.4373251906350567,
+      "contributors": [
+        "DIA"
+      ]
+    },
+    {
+      "stock": "Micron",
+      "score_pct": 0.42994700490348364,
+      "contributors": [
+        "SOXX"
+      ]
+    },
+    {
+      "stock": "Hut 8",
+      "score_pct": 0.33029358723028934,
+      "contributors": [
+        "FSSNX"
+      ]
+    },
+    {
+      "stock": "Illumina",
+      "score_pct": 0.25382875328489596,
+      "contributors": [
+        "MDY"
+      ]
+    },
+    {
+      "stock": "Twilio",
+      "score_pct": 0.25382875328489596,
+      "contributors": [
+        "MDY"
+      ]
+    },
+    {
+      "stock": "Tencent",
+      "score_pct": 0.1718063248923437,
+      "contributors": [
+        "SPEM"
+      ]
+    },
+    {
+      "stock": "Phillips 66",
+      "score_pct": 0.16251172728244,
+      "contributors": [
+        "FIMVX",
+        "IWS"
+      ]
+    },
+    {
+      "stock": "Viasat",
+      "score_pct": 0.16155352134327466,
+      "contributors": [
+        "FISVX",
+        "IWN"
+      ]
+    },
+    {
+      "stock": "Hewlett Packard Enterprise",
+      "score_pct": 0.1467971498801286,
+      "contributors": [
+        "IWS"
+      ]
+    },
+    {
+      "stock": "Glaukos",
+      "score_pct": 0.13846075820939022,
+      "contributors": [
+        "IWO"
+      ]
+    },
+    {
+      "stock": "Amgen",
+      "score_pct": 0.0992701352975282,
+      "contributors": [
+        "IBB"
+      ]
+    },
+    {
+      "stock": "Vertex Pharmaceuticals",
+      "score_pct": 0.0992701352975282,
+      "contributors": [
+        "IBB"
+      ]
+    },
+    {
+      "stock": "Accenture",
+      "score_pct": 0.07282365137656509,
+      "contributors": [
+        "SPYD"
+      ]
+    },
+    {
+      "stock": "Ares Management",
+      "score_pct": 0.07282365137656509,
+      "contributors": [
+        "SPYD"
+      ]
+    },
+    {
+      "stock": "Prologis",
+      "score_pct": 0.0304709488654575,
+      "contributors": [
+        "FSRNX"
+      ]
+    },
+    {
+      "stock": "Welltower",
+      "score_pct": 0.0304709488654575,
+      "contributors": [
+        "FSRNX"
+      ]
+    },
+    {
+      "stock": "Astera Labs",
+      "score_pct": 0.02577573976354738,
+      "contributors": [
+        "FZIPX"
+      ]
+    },
+    {
+      "stock": "nVent Electric",
+      "score_pct": 0.02577573976354738,
+      "contributors": [
+        "FZIPX"
+      ]
+    },
+    {
+      "stock": "Cytokinetics",
+      "score_pct": 0.02155963363121993,
+      "contributors": [
+        "FISVX"
+      ]
+    },
+    {
+      "stock": "Digital Realty Trust",
+      "score_pct": 0.015714577402311414,
+      "contributors": [
+        "FIMVX"
+      ]
+    },
+    {
+      "stock": "Bloom Energy",
+      "score_pct": 0.014660550869229553,
+      "contributors": [
+        "FECGX"
+      ]
+    },
+    {
+      "stock": "Credo Technology",
+      "score_pct": 0.014660550869229553,
+      "contributors": [
+        "FECGX"
+      ]
+    },
+    {
+      "stock": "CareDx",
+      "score_pct": 0.014181447899646886,
+      "contributors": [
+        "IWC"
+      ]
+    },
+    {
+      "stock": "Nurix Therapeutics",
+      "score_pct": 0.014181447899646886,
+      "contributors": [
+        "IWC"
+      ]
+    },
+    {
+      "stock": "FIP",
+      "score_pct": 0.002407358273321409,
+      "contributors": [
+        "Washington State Investment Board \u2014 exceptionally limited disclosure"
+      ]
+    },
+    {
+      "stock": "FTAI",
+      "score_pct": 0.002407358273321409,
+      "contributors": [
+        "Washington State Investment Board \u2014 exceptionally limited disclosure"
+      ]
+    }
+  ],
+  "fund_weights": {
+    "AAATX": 0.0003583690212478335,
+    "AABTX": 0.0004254434369894066,
+    "AACTX": 0.0013759837286414142,
+    "AADTX": 0.0030116412667966328,
+    "AAETX": 0.00496159035299808,
+    "AAFJX": 2.8591907018754288e-05,
+    "AAFTX": 0.005114903303264533,
+    "AAGTX": 0.004780489430495832,
+    "AAHTX": 0.004162446599734194,
+    "AALTX": 0.003778206018128897,
+    "AAMTX": 0.0027328033384995216,
+    "AANTX": 0.0017314781320717516,
+    "AAOTX": 0.0005452191793850729,
+    "Arizona State Retirement System": 0.001905871133896872,
+    "CalPERS": 0.016926707915355558,
+    "CalSTRS": 0.010416656764666304,
+    "Colorado Public Employees Retirement Association": 0.002773803533327497,
+    "DIA": 0.004373251906350567,
+    "Employees Retirement System of Texas": 0.0011770768484540331,
+    "FBIFX": 0.002730886926621191,
+    "FBIIX": 0.00012935780178731956,
+    "FDEEX": 0.0013424465207706275,
+    "FDEWX": 0.0018062181953266475,
+    "FDKLX": 0.0010645667984126818,
+    "FDKVX": 0.0007301529256439816,
+    "FECGX": 0.00014660550869229552,
+    "FFBSX": 4.4984894225994754e-05,
+    "FFFAX": 0.00022996942539967925,
+    "FFFCX": 0.000301834870837079,
+    "FFFDX": 0.001244709514975764,
+    "FFFEX": 0.00320711527838636,
+    "FFFFX": 0.003094046977564851,
+    "FFFGX": 0.0023217329905975952,
+    "FFFHX": 0.002098471006772073,
+    "FFIJX": 0.00037082569845698276,
+    "FFNOX": 0.0009045464065720717,
+    "FFSFX": 0.00024242610260882854,
+    "FFTHX": 0.0029723548232908543,
+    "FFTWX": 0.0019451580565056203,
+    "FFVFX": 0.0003995718766319427,
+    "FHANX": 0.00012552497803065826,
+    "FHAOX": 0.00022996942539967925,
+    "FHAPX": 0.00032866463713370826,
+    "FHAQX": 0.00037370031627447875,
+    "FHARX": 0.00041011214196276134,
+    "FHASX": 0.00042927626074606794,
+    "FHATX": 0.00038807340536195874,
+    "FHAUX": 0.00024530072042632455,
+    "FHAVX": 0.00011306830082150896,
+    "FHAWX": 3.418591329160148e-05,
+    "FHAYX": 1.5306381672226985e-05,
+    "FHBZX": 1.839084659040018e-05,
+    "FIHFX": 0.0026226096554955087,
+    "FIKFX": 0.00017535168686725542,
+    "FIMVX": 0.00015714577402311416,
+    "FIOFX": 0.002478878764620709,
+    "FIPDX": 0.0011268501844584283,
+    "FIPFX": 0.002379225346947515,
+    "FISVX": 0.00021559633631219928,
+    "FKIFX": 7.154253003590105e-05,
+    "FLCOX": 0.0014555148215921365,
+    "FLIFX": 0.00018972477595473536,
+    "FMDGX": 0.00034399593216035356,
+    "FNBGX": 0.00047143732206934245,
+    "FNCMX": 0.0026781855999670977,
+    "FNILX": 0.0018541284922849138,
+    "FNSOX": 0.00039094802317945473,
+    "FPADX": 0.001517798207637883,
+    "FPIFX": 0.0006611620980240779,
+    "FQIFX": 0.0014353924968696645,
+    "FRBDX": 1.3874821999113981e-05,
+    "FRBVX": 1.76606936647562e-05,
+    "FRBYX": 2.417553584514128e-06,
+    "FSGGX": 0.001990193735646391,
+    "FSKAX": 0.013627604866809325,
+    "FSMAX": 0.003839531198235478,
+    "FSMDX": 0.005089031742907068,
+    "FSPGX": 0.004185443542274162,
+    "FSPSX": 0.008475331531917346,
+    "FSRNX": 0.000304709488654575,
+    "FSSNX": 0.003302935872302893,
+    "FTIHX": 0.0025440367684839518,
+    "FUAMX": 0.0008048929888988774,
+    "FUMBX": 0.0003420795202820229,
+    "FXAIX": 0.08232522146932851,
+    "FXIFX": 0.002771131576066135,
+    "FXNAX": 0.006659531277199045,
+    "FZILX": 0.0012475841327932598,
+    "FZIPX": 0.0002577573976354738,
+    "FZROX": 0.0039334353802736805,
+    "IAGG": 0.0011383486557284123,
+    "IBB": 0.0009927013529752822,
+    "ITOT": 0.009203568045682996,
+    "IWB": 0.004677961395005142,
+    "IWC": 0.00014181447899646888,
+    "IWD": 0.007946401853498083,
+    "IWF": 0.01203219197809905,
+    "IWM": 0.007515209180873685,
+    "IWN": 0.0013999388771205473,
+    "IWO": 0.001384607582093902,
+    "IWP": 0.0018761672288857166,
+    "IWR": 0.0054598574413640515,
+    "IWS": 0.0014679714988012859,
+    "IWV": 0.0019403670268097937,
+    "IXUS": 0.0058086444032202315,
+    "LIRPX": 0.00012744138990898891,
+    "Maryland State Retirement & Pension System": 0.0005591920775948842,
+    "MDY": 0.0025382875328489596,
+    "New York State Common Retirement Fund (NY State and Local)": 0.007561406588895099,
+    "New York State Teachers Retirement System": 0.0051657145687036225,
+    "OEF": 0.001947074468383951,
+    "Oregon Public Employees Retirement Fund": 0.0007263201018873203,
+    "Pennsylvania PSERS": 0.001972946028741415,
+    "Public Employees Retirement System of Ohio": 0.003247359927831304,
+    "QCBMRX": 0.0012360856615232759,
+    "QCEQRX": 0.002692558689054578,
+    "QCGLRX": 0.0037082569845698276,
+    "QCGRRX": 0.004147115304707549,
+    "QCILRX": 0.000792436311689728,
+    "QCMMRX": 0.001038695238055218,
+    "QCSCRX": 0.002075474064232105,
+    "QCSTRX": 0.013847992232817352,
+    "QQQ": 0.04603125511156329,
+    "SOXX": 0.004299470049034837,
+    "SPAB": 0.0009764118520094715,
+    "SPBO": 0.00020888889473804197,
+    "SPDW": 0.0040244649444943865,
+    "SPEM": 0.0017180632489234371,
+    "SPGM": 0.0001686442452930981,
+    "SPHY": 0.0011508053329375616,
+    "SPIB": 0.0011105606834926178,
+    "SPIP": 9.869521173402901e-05,
+    "SPLB": 0.00011881753645650094,
+    "SPMB": 0.0006812844227465498,
+    "SPSB": 0.0010607339746560205,
+    "SPTI": 0.00101569829551525,
+    "SPTL": 0.0010425280618118792,
+    "SPTS": 0.0007042813652865177,
+    "SPY": 0.07724385537393476,
+    "SPYD": 0.000728236513765651,
+    "SPYG": 0.005192517984336924,
+    "State Board of Administration of Florida Retirement System": 0.005115861509203698,
+    "State of Tennessee, Department of Treasury": 0.0028509389197891185,
+    "State of Wisconsin Investment Board": 0.004730016890856238,
+    "STRS Ohio": 0.0025574516516322665,
+    "SWAGX": 0.0007895616938722321,
+    "SWISX": 0.0014440163503221526,
+    "SWPPX": 0.014250438727266791,
+    "SWSSX": 0.0007320693375223123,
+    "SWTSX": 0.004334923668783954,
+    "SWYMX": 0.00012456677209149293,
+    "TCLFX": 0.00043023446668523325,
+    "TCLNX": 0.0004379001141985559,
+    "TCLOX": 0.000606544359491654,
+    "TCLRX": 0.0004388583201377212,
+    "Teacher Retirement System of Texas": 0.0023001728778634057,
+    "TIAA_REAL_ESTATE": 0.0022038736600802594,
+    "Treasurer of the State of North Carolina": 0.0037187972499006464,
+    "TRRDX": 0.002542120356605621,
+    "TRRJX": 0.0023054434896317842,
+    "TRRKX": 0.0017937615181174982,
+    "VFIAX": 0.16841427586769844,
+    "VIMAX": 0.021691866050824744,
+    "Virginia Retirement Systems et al.": 0.0016002039184061015,
+    "VTINX": 0.0034715801175959913,
+    "VTSAX": 0.22456514390278678,
+    "Washington State Investment Board \u2014 exceptionally limited disclosure": 2.407358273321409e-05
+  },
+  "selection_policy": "Only stocks with a U.S. exchange listing may enter the selected top ten. U.S.-listed ADRs and registry shares qualify. OTC-only securities do not. Filter after scoring; fund weights remain unchanged.",
+  "selected_top_10": [
+    {
+      "stock": "NVIDIA",
+      "score_pct": 76.65798182141947,
+      "ticker": "NVDA",
+      "security_name": "NVIDIA Corporation - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    {
+      "stock": "Apple",
+      "score_pct": 75.7574598797919,
+      "ticker": "AAPL",
+      "security_name": "Apple Inc. - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    {
+      "stock": "Howmet Aerospace",
+      "score_pct": 2.1691866050824746,
+      "ticker": "HWM",
+      "security_name": "Howmet Aerospace Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    {
+      "stock": "Quanta Services",
+      "score_pct": 2.1691866050824746,
+      "ticker": "PWR",
+      "security_name": "Quanta Services, Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    {
+      "stock": "Snowflake",
+      "score_pct": 1.6608583543552669,
+      "ticker": "SNOW",
+      "security_name": "Snowflake Inc. Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    {
+      "stock": "Taiwan Semiconductor Manufacturing",
+      "score_pct": 1.4826320496705154,
+      "ticker": "TSM",
+      "security_name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    {
+      "stock": "ASML",
+      "score_pct": 1.3943812826733886,
+      "ticker": "ASML",
+      "security_name": "ASML Holding N.V. - New York Registry Shares",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    {
+      "stock": "Microsoft",
+      "score_pct": 1.3209268826553084,
+      "ticker": "MSFT",
+      "security_name": "Microsoft Corporation - Common Stock",
+      "exchange": "Nasdaq",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+    },
+    {
+      "stock": "Moog",
+      "score_pct": 1.2934821972792792,
+      "ticker": "MOG.A",
+      "security_name": "Moog Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    },
+    {
+      "stock": "Marathon Petroleum",
+      "score_pct": 1.054888918427112,
+      "ticker": "MPC",
+      "security_name": "Marathon Petroleum Corporation Common Stock",
+      "exchange": "NYSE",
+      "source": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+    }
+  ],
+  "excluded_from_selection": {
+    "Samsung Electronics": {
+      "candidate_ticker": "SSNLF",
+      "reason": "No qualifying listing found in the U.S. exchange directories; excluded from selection."
+    },
+    "Tencent": {
+      "candidate_ticker": "TCEHY",
+      "reason": "No qualifying listing found in the U.S. exchange directories; excluded from selection."
+    }
+  }
+}

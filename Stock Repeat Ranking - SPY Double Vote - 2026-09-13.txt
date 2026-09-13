@@ -1,0 +1,55 @@
+TOO BIG TO FAIL — SPY DOUBLE-VOTE RANKING
+Calculated: September 13, 2026
+
+Rule: each stock appearing in SPY's top two receives 2 votes from SPY instead of 1. All other listed fund/plan appearances remain 1 vote. This changes SPY only; SPYG and SPYD remain 1 vote. Direct stocks only; no underlying-fund lookthrough.
+
+SPY saved holdings: NVIDIA; Apple. Holdings date: September 10, 2026.
+Source: https://stockanalysis.com/etf/spy/holdings/
+
+This uses the existing saved snapshots, with their mixed dates and partial pension disclosures. It does not refresh holdings. Base counts and every contributing source are in Stock Repeat Ranking - 2026-09-13.txt.
+
+RANKING
+1. NVIDIA: 42 votes (41 appearances)
+2. Apple: 39 votes (38 appearances)
+3. Taiwan Semiconductor Manufacturing: 6 votes (6 appearances)
+4. Samsung Electronics: 5 votes (5 appearances)
+4. Snowflake: 5 votes (5 appearances)
+6. Microsoft: 4 votes (4 appearances)
+6. Moog: 4 votes (4 appearances)
+8. ASML: 3 votes (3 appearances)
+8. Cloudflare: 3 votes (3 appearances)
+10. Amazon: 2 votes (2 appearances)
+10. HSBC: 2 votes (2 appearances)
+10. Marathon Petroleum: 2 votes (2 appearances)
+10. Phillips 66: 2 votes (2 appearances)
+10. UMB Financial: 2 votes (2 appearances)
+10. Viasat: 2 votes (2 appearances)
+16. Accenture: 1 votes (1 appearances)
+16. Amgen: 1 votes (1 appearances)
+16. Ares Management: 1 votes (1 appearances)
+16. Astera Labs: 1 votes (1 appearances)
+16. Bloom Energy: 1 votes (1 appearances)
+16. CareDx: 1 votes (1 appearances)
+16. Caterpillar: 1 votes (1 appearances)
+16. Credo Technology: 1 votes (1 appearances)
+16. Cytokinetics: 1 votes (1 appearances)
+16. Digital Realty Trust: 1 votes (1 appearances)
+16. FIP: 1 votes (1 appearances)
+16. FTAI: 1 votes (1 appearances)
+16. Glaukos: 1 votes (1 appearances)
+16. Goldman Sachs: 1 votes (1 appearances)
+16. Hewlett Packard Enterprise: 1 votes (1 appearances)
+16. Howmet Aerospace: 1 votes (1 appearances)
+16. Hut 8: 1 votes (1 appearances)
+16. Illumina: 1 votes (1 appearances)
+16. Micron: 1 votes (1 appearances)
+16. Nurix Therapeutics: 1 votes (1 appearances)
+16. nVent Electric: 1 votes (1 appearances)
+16. Prologis: 1 votes (1 appearances)
+16. Quanta Services: 1 votes (1 appearances)
+16. Tencent: 1 votes (1 appearances)
+16. Twilio: 1 votes (1 appearances)
+16. Vertex Pharmaceuticals: 1 votes (1 appearances)
+16. Welltower: 1 votes (1 appearances)
+
+Tenth place remains a six-way tie at 2 votes: Amazon, HSBC, Marathon Petroleum, Phillips 66, UMB Financial, Viasat. No tiebreaker or allocation weights have been applied.

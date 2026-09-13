@@ -1,0 +1,495 @@
+TOO BIG TO FAIL — ADDITIONAL FUND HOLDINGS
+Retrieved: September 13, 2026 (America/New_York)
+
+SCOPE
+Top two direct holdings in the source's displayed ranking. These are often underlying funds, not individual stocks. Holdings dates differ from retrieval date; older snapshots are explicitly dated. This supplement does not replace the original file.
+
+RETIREMENT-YEAR COVERAGE
+Fidelity Freedom Active, Index and Blend: 2010 through 2070 in five-year increments, plus each series' Retirement fund (42 entries).
+American Funds: 2010 through 2070 in five-year increments (13 entries).
+One share class per parent fund; additional share classes are not separate entries.
+Issuer directories checked:
+https://www.fidelity.com/mutual-funds/fidelity-funds/overview
+https://www.capitalgroup.com/individual/investments/target-date.html
+
+Holdings source for all 55 entries: Stock Analysis (individual URLs below). Names retain source abbreviations.
+
+
+FIDELITY FREEDOM — ACTIVE
+
+Fidelity Freedom Retirement Fund (FFFAX)
+Holdings as of: Mar 31, 2026
+1. Fidelity Series Investment Grade Bond Fund (FSIGX)
+2. Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Source: https://stockanalysis.com/quote/mutf/FFFAX/holdings/
+
+Fidelity Freedom 2010 Fund (FFFCX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Investment Grade Bond Fund (FSIGX)
+2. Fidelity Series 0-5 Year Inflation-Protected Bond Index Fund (FSTZX)
+Source: https://stockanalysis.com/quote/mutf/FFFCX/holdings/
+
+Fidelity Freedom 2015 Fund (FFVFX)
+Holdings as of: Nov 30, 2025
+1. Fidelity Series Investment Grade Bond Fund (FSIGX)
+2. Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Source: https://stockanalysis.com/quote/mutf/FFVFX/holdings/
+
+Fidelity Freedom 2020 Fund (FFFDX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Investment Grade Bond Fund (FSIGX)
+2. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Source: https://stockanalysis.com/quote/mutf/FFFDX/holdings/
+
+Fidelity Freedom 2025 Fund (FFTWX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Investment Grade Bond Fund (FSIGX)
+2. Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX)
+Source: https://stockanalysis.com/quote/mutf/FFTWX/holdings/
+
+Fidelity Freedom 2030 Fund (FFFEX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Investment Grade Bond Fund (FSIGX)
+2. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Source: https://stockanalysis.com/quote/mutf/FFFEX/holdings/
+
+Fidelity Freedom 2035 Fund (FFTHX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Investment Grade Bond Fund (FSIGX)
+2. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Source: https://stockanalysis.com/quote/mutf/FFTHX/holdings/
+
+Fidelity Freedom 2040 Fund (FFFFX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+2. Fidelity Series Large Cap Stock Fund (FGLGX)
+Source: https://stockanalysis.com/quote/mutf/FFFFX/holdings/
+
+Fidelity Freedom 2045 Fund (FFFGX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Large Cap Stock Fund (FGLGX)
+2. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Source: https://stockanalysis.com/quote/mutf/FFFGX/holdings/
+
+Fidelity Freedom 2050 Fund (FFFHX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Large Cap Stock Fund (FGLGX)
+2. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Source: https://stockanalysis.com/quote/mutf/FFFHX/holdings/
+
+Fidelity Freedom 2055 Fund (FDEEX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Large Cap Stock Fund (FGLGX)
+2. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Source: https://stockanalysis.com/quote/mutf/FDEEX/holdings/
+
+Fidelity Freedom 2060 Fund (FDKVX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+2. Fidelity Series Large Cap Stock Fund (FGLGX)
+Source: https://stockanalysis.com/quote/mutf/FDKVX/holdings/
+
+Fidelity Freedom 2065 Fund (FFSFX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+2. Fidelity Series Large Cap Stock Fund (FGLGX)
+Source: https://stockanalysis.com/quote/mutf/FFSFX/holdings/
+
+Fidelity Freedom 2070 (FRBDX)
+Holdings as of: Mar 31, 2026
+1. Fidelity Series Growth Company Fund (FCGSX)
+2. Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Source: https://stockanalysis.com/quote/mutf/FRBDX/holdings/
+
+
+FIDELITY FREEDOM — INDEX
+
+Fidelity Freedom Index Retirement Fund Investor Class (FIKFX)
+Holdings as of: May 31, 2026
+1. Fidelity Series Bond Index Fund (FIFZX)
+2. Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Source: https://stockanalysis.com/quote/mutf/FIKFX/holdings/
+
+Fidelity Freedom Index 2010 Fund Investor Class (FKIFX)
+Holdings as of: Dec 31, 2025
+1. Fidelity Series Bond Index Fund (FIFZX)
+2. Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Source: https://stockanalysis.com/quote/mutf/FKIFX/holdings/
+
+Fidelity Freedom Index 2015 Fund Investor Class (FLIFX)
+Holdings as of: Mar 31, 2026
+1. Fidelity Series Bond Index Fund (FIFZX)
+2. Fidelity Series Total Market Index Fund (FCFMX)
+Source: https://stockanalysis.com/quote/mutf/FLIFX/holdings/
+
+Fidelity Freedom Index 2020 Fund Investor Class (FPIFX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Bond Index Fund (FIFZX)
+2. Fidelity Series Total Market Index Fund (FCFMX)
+Source: https://stockanalysis.com/quote/mutf/FPIFX/holdings/
+
+Fidelity Freedom Index 2025 Fund Investor Class (FQIFX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Bond Index Fund (FIFZX)
+2. Fidelity Series Total Market Index Fund (FCFMX)
+Source: https://stockanalysis.com/quote/mutf/FQIFX/holdings/
+
+Fidelity Freedom Index 2030 Fund Investor Class (FXIFX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Bond Index Fund (FIFZX)
+Source: https://stockanalysis.com/quote/mutf/FXIFX/holdings/
+
+Fidelity Freedom Index 2035 Fund Investor Class (FIHFX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FIHFX/holdings/
+
+Fidelity Freedom Index 2040 Fund Investor Class (FBIFX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FBIFX/holdings/
+
+Fidelity Freedom Index 2045 Fund Investor Class (FIOFX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FIOFX/holdings/
+
+Fidelity Freedom Index 2050 Fund Investor Class (FIPFX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FIPFX/holdings/
+
+Fidelity Freedom Index 2055 Fund Investor Class (FDEWX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FDEWX/holdings/
+
+Fidelity Freedom Index 2060 Fund Investor Class (FDKLX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FDKLX/holdings/
+
+Fidelity Freedom Index 2065 Fund Investor Class (FFIJX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Total Market Index Fund (FCFMX)
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FFIJX/holdings/
+
+Fidelity Freedom Index 2070 Investor (FRBVX)
+Holdings as of: Mar 31, 2026
+1. Fidelity Concord Street Trust - Fidelity Series Total Market Index Fund
+2. Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Source: https://stockanalysis.com/quote/mutf/FRBVX/holdings/
+
+
+FIDELITY FREEDOM — BLEND
+
+Fidelity Freedom Blend Retirement Fund (FHBZX)
+Holdings as of: Nov 30, 2025
+1. Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+2. Fidelity Series Government Bond Index Fund (FHNFX)
+Source: https://stockanalysis.com/quote/mutf/FHBZX/holdings/
+
+Fidelity Freedom Blend 2010 Fund (FHAYX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+2. Fidelity Series Government Bond Index Fund (FHNFX)
+Source: https://stockanalysis.com/quote/mutf/FHAYX/holdings/
+
+Fidelity Freedom Blend 2015 Fund (FHAWX)
+Holdings as of: Jan 31, 2026
+1. Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+2. Fidelity Series Government Bond Index Fund (FHNFX)
+Source: https://stockanalysis.com/quote/mutf/FHAWX/holdings/
+
+Fidelity Freedom Blend 2020 Fund (FHAVX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Government Bond Index Fund (FHNFX)
+2. Fidelity Series Investment Grade Bond Fund (FSIGX)
+Source: https://stockanalysis.com/quote/mutf/FHAVX/holdings/
+
+Fidelity Freedom Blend 2025 Fund (FHAUX)
+Holdings as of: Nov 30, 2025
+1. Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX)
+2. Fidelity Series Large Cap Value Index Fund (FIOOX)
+Source: https://stockanalysis.com/quote/mutf/FHAUX/holdings/
+
+Fidelity Freedom Blend 2030 Fund (FHATX)
+Holdings as of: May 31, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FHATX/holdings/
+
+Fidelity Freedom Blend 2035 Fund (FHASX)
+Holdings as of: Apr 30, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FHASX/holdings/
+
+Fidelity Freedom Blend 2040 Fund (FHARX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FHARX/holdings/
+
+Fidelity Freedom Blend 2045 Fund (FHAQX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FHAQX/holdings/
+
+Fidelity Freedom Blend 2050 Fund (FHAPX)
+Holdings as of: Jul 31, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FHAPX/holdings/
+
+Fidelity Freedom Blend 2055 Fund (FHAOX)
+Holdings as of: Jun 30, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FHAOX/holdings/
+
+Fidelity Freedom Blend 2060 Fund (FHANX)
+Holdings as of: May 31, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FHANX/holdings/
+
+Fidelity Freedom Blend 2065 Fund (FFBSX)
+Holdings as of: May 31, 2026
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FFBSX/holdings/
+
+Fidelity Freedom Blend 2070 (FRBYX)
+Holdings as of: Sep 30, 2025
+1. Fidelity Series Large Cap Value Index Fund (FIOOX)
+2. Fidelity Series Blue Chip Growth Fund (FSBDX)
+Source: https://stockanalysis.com/quote/mutf/FRBYX/holdings/
+
+
+AMERICAN FUNDS — CLASS A
+
+American Funds 2010 Target Date Retirement Income Fund Class A (AAATX)
+Holdings as of: Jun 30, 2026
+1. American Funds The Income Fund of America® Class R-6 (RIDGX)
+2. American Funds Intermediate Bond Fund of America® Class R-6 (RBOGX)
+Source: https://stockanalysis.com/quote/mutf/AAATX/holdings/
+
+American Funds 2015 Trgt Date Retire A (AABTX)
+Holdings as of: Sep 30, 2025
+1. American Funds Income Fund of Amer R6 (RIDGX)
+2. American Funds Interm Bd Fd of Amer R6 (RBOGX)
+Source: https://stockanalysis.com/quote/mutf/AABTX/holdings/
+
+American Funds 2020 Target Date Retirement Income Fund Class A (AACTX)
+Holdings as of: Apr 30, 2026
+1. American Funds Income Fd of Amer R-6 (RIDGX)
+2. American Funds The Bond Fund of America (RBFGX)
+Source: https://stockanalysis.com/quote/mutf/AACTX/holdings/
+
+American Funds 2025 Target Date Retirement Income Fund Class A (AADTX)
+Holdings as of: Apr 30, 2026
+1. American Funds Income Fund of Amer R6 (RIDGX)
+2. American Funds The Bond Fund of America (RBFGX)
+Source: https://stockanalysis.com/quote/mutf/AADTX/holdings/
+
+American Funds 2030 Target Date Retirement Fund Class A (AAETX)
+Holdings as of: Jun 30, 2026
+1. American Funds American Balanced R-6 (RLBGX)
+2. American Funds Bond Fund of Amer R-6 (RBFGX)
+Source: https://stockanalysis.com/quote/mutf/AAETX/holdings/
+
+American Funds 2035 Target Date Retirement Fund Class A (AAFTX)
+Holdings as of: Jun 30, 2026
+1. American Funds American Balanced R-6 (RLBGX)
+2. American Funds American Mutual R-6 (RMFGX)
+Source: https://stockanalysis.com/quote/mutf/AAFTX/holdings/
+
+American Funds 2040 Target Date Retirement Fund Class A (AAGTX)
+Holdings as of: Apr 30, 2026
+1. American Funds American Balanced R-6 (RLBGX)
+2. American Funds American Mutual R-6 (RMFGX)
+Source: https://stockanalysis.com/quote/mutf/AAGTX/holdings/
+
+American Funds 2045 Target Date Retirement Fund Class A (AAHTX)
+Holdings as of: Jun 30, 2026
+1. American Funds Fundamental Invs R-6 (RFNGX)
+2. American Funds American Balanced R-6 (RLBGX)
+Source: https://stockanalysis.com/quote/mutf/AAHTX/holdings/
+
+American Funds 2050 Target Date Retirement Fund Class A (AALTX)
+Holdings as of: Jun 30, 2026
+1. American Funds New Perspective R-6 (RNPGX)
+2. American Funds Fundamental Invs R-6 (RFNGX)
+Source: https://stockanalysis.com/quote/mutf/AALTX/holdings/
+
+American Funds 2055 Target Date Retirement Fund Class A (AAMTX)
+Holdings as of: Jun 30, 2026
+1. American Funds New Perspective R-6 (RNPGX)
+2. American Funds Fundamental Invs R-6 (RFNGX)
+Source: https://stockanalysis.com/quote/mutf/AAMTX/holdings/
+
+American Funds 2060 Target Date Retirement Fund Class A (AANTX)
+Holdings as of: Jun 30, 2026
+1. American Funds SMALLCAP World R-6 (RLLGX)
+2. American Funds New Perspective R-6 (RNPGX)
+Source: https://stockanalysis.com/quote/mutf/AANTX/holdings/
+
+American Funds 2065 Trgt Date Ret A (AAOTX)
+Holdings as of: Jun 30, 2026
+1. American Funds SMALLCAP World R-6 (RLLGX)
+2. American Funds New Perspective R-6 (RNPGX)
+Source: https://stockanalysis.com/quote/mutf/AAOTX/holdings/
+
+American Funds 2070 Target Date Retirement Fund® Class A (AAFJX)
+Holdings as of: Apr 30, 2026
+1. American Funds SMALLCAP World Fund® Class R-6 (RLLGX)
+2. American Funds New Perspective Fund® Class R-6 (RNPGX)
+Source: https://stockanalysis.com/quote/mutf/AAFJX/holdings/
+
+CREF MONEY MARKET — DATE NOT VERIFIED
+CREF Money Market Account R1 (QCMMRX)
+1. Fixed Income Clearing Corp. (FICC)/BNY Mellon — Fixed Income Clearing Corp. 5.320000%
+2. Fixed Income Clearing Corp. (FICC)/State Street Bank & Trust Co. — Fixed Income Clearing Corp. 5.320000%
+The overview displays these positions at 32.96% and 8.37%, respectively, but gives no holdings as-of date. Its price date is not a holdings date. Do not treat this as a current verified snapshot.
+Source: https://stockanalysis.com/quote/mutf/QCMMRX/
+Issuer factsheet checked: https://fluenttech.tiaa.org/pdf/factsheet/194408704.pdf
+
+PENSION-RELATED FILERS — LIMITED 13F COVERAGE
+These rankings cover securities reported by the named investment manager in its 13F disclosure, not the entire pension portfolio. Private assets, many bonds, cash and externally managed assets may be missing. A treasury or investment board can manage multiple pools; these are manager-level records, not verified plan-only allocations. Keep separate from the mutual-fund rankings.
+
+CalPERS
+Reporting period ended: 2026-06-30
+1. Vanguard S&P 500 ETF (VOO)
+2. iShares Core S&P 500 ETF (IVV)
+Source: https://www.holdingschannel.com/13f/california-public-employees-retirement-system-top-holdings/
+
+CalSTRS
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/california-state-teachers-retirement-system-top-holdings/
+
+New York State Common Retirement Fund (NY State and Local)
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/new-york-state-common-retirement-fund-top-holdings/
+
+New York State Teachers Retirement System
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/new-york-state-teachers-retirement-system-top-holdings/
+
+Teacher Retirement System of Texas
+Reporting period ended: 2026-03-31
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/teacher-retirement-system-of-texas-top-holdings/
+
+Employees Retirement System of Texas
+Reporting period ended: 2025-12-31
+1. Vanguard Intermediate-Term Treasury ETF (VGIT)
+2. Microsoft (MSFT)
+Source: https://www.holdingschannel.com/13f/employees-retirement-system-of-texas-top-holdings/
+
+State Board of Administration of Florida Retirement System
+Reporting period ended: 2026-03-31
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/state-board-of-administration-of-florida-retirement-system-top-holdings/
+
+State of Wisconsin Investment Board
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/state-of-wisconsin-investment-board-top-holdings/
+
+Public Employees Retirement System of Ohio
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/public-employees-retirement-system-of-ohio-top-holdings/
+
+STRS Ohio
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.gurufocus.com/guru/strs%2Bohio/current-portfolio/top-yield
+
+Pennsylvania PSERS
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://13foresight.com/fund/commonwealth-of-pennsylvania-public-school-empls-retrmt-sys
+
+Virginia Retirement Systems et al.
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://stockzoa.com/fund/virginia-retirement-system/
+
+Treasurer of the State of North Carolina
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.gurufocus.com/guru/treasurer%2Bof%2Bthe%2Bstate%2Bof%2Bnorth%2Bcarolina/summary
+
+Colorado Public Employees Retirement Association
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado
+
+Oregon Public Employees Retirement Fund
+Reporting period ended: 2026-03-31
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://www.holdingschannel.com/13f/oregon-public-employees-retirement-fund-top-holdings/
+
+Arizona State Retirement System
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://13f.info/manager/0001558481-arizona-state-retirement-system
+
+Maryland State Retirement & Pension System
+Reporting period ended: 2026-06-30
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://equibles.com/institutions/1795552/maryland-state-retirement-pension-system
+
+State of Tennessee, Department of Treasury
+Reporting period ended: 2026-03-31
+1. NVIDIA (NVDA)
+2. Apple (AAPL)
+Source: https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury
+
+Washington State Investment Board — exceptionally limited disclosure
+Reporting period ended: 2026-03-31
+1. FTAI
+2. FIP
+Source: https://13f.info/manager/0000943712-washington-state-investment-board
+
+Washington note: the cited 13F has only two positions, about $251 million combined. It is not a representative top-two ranking of Washington DRS's full pension investments.
+
+OPEN ITEMS — NO VERIFIED RANKING INCLUDED
+- NYC Employees Retirement System: a plan-specific top-two ranking remains unverified.
+- NYC Teachers Retirement System: a plan-specific top-two ranking remains unverified. Do not substitute New York State Teachers.
+- Pennsylvania SERS: full public-security holdings require extraction and ranking; do not substitute PSERS.
+  Official holdings access page found: https://sers.beta.pa.gov/Investments.html
+- CREF Money Market: displayed ranking found above, but holdings date remains unverified.
+- FBIIX in the original file: the cash-heavy source display still needs issuer reconciliation before using it in the app.
+
+Each available retirement vintage above is included separately as requested. No application weighting or code has been changed in this research step.
+

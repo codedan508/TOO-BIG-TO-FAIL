@@ -1,0 +1,126 @@
+FUND HOLDINGS — TOP TWO REPORTED POSITIONS
+Retrieval date: September 13, 2026 (America/New_York)
+Holdings dates vary by fund and are stated below.
+
+Yes—Stock Analysis covers almost all of these from one public website.
+
+Below are the first and second holdings in each source’s ranking. Dates are the holdings dates, not today’s prices. These are direct holdings, so some entries are funds, bonds, cash, or futures.
+
+ETFs already listed, including SPYG and SPYD:
+
+SPY (https://stockanalysis.com/etf/spy/holdings/): NVIDIA; Apple — September 10, 2026.
+SPYG (https://stockanalysis.com/etf/spyg/holdings/): NVIDIA; Microsoft — August 13, 2026.
+SPYD (https://stockanalysis.com/etf/spyd/holdings/): Accenture; Ares Management — August 14, 2026.
+QQQ (https://stockanalysis.com/etf/qqq/holdings/): NVIDIA; Apple — August 27, 2026.
+DIA (https://stockanalysis.com/etf/dia/holdings/): Goldman Sachs; Caterpillar — August 28, 2026.
+MDY (https://stockanalysis.com/etf/mdy/holdings/): Twilio; Illumina — September 1, 2026.
+IWM (https://stockanalysis.com/etf/iwm/holdings/): Moog; UMB Financial — August 13, 2026.
+IWB (https://stockanalysis.com/etf/iwb/holdings/): NVIDIA; Apple — August 27, 2026.
+IWV (https://stockanalysis.com/etf/iwv/holdings/): NVIDIA; Apple — August 20, 2026.
+ITOT (https://stockanalysis.com/etf/itot/holdings/): NVIDIA; Apple — August 27, 2026.
+OEF (https://stockanalysis.com/etf/oef/holdings/): NVIDIA; Apple — September 1, 2026.
+IWR (https://stockanalysis.com/etf/iwr/holdings/): Snowflake; Marathon Petroleum — September 3, 2026.
+IWC (https://stockanalysis.com/etf/iwc/holdings/): CareDx; Nurix Therapeutics — August 28, 2026.
+
+Additional stock ETF categories:
+
+IWF (https://stockanalysis.com/etf/iwf/holdings/): NVIDIA; Apple — September 10, 2026.
+IWD (https://stockanalysis.com/etf/iwd/holdings/): Amazon; Apple — August 13, 2026.
+IWP (https://stockanalysis.com/etf/iwp/holdings/): Snowflake; Cloudflare — August 27, 2026.
+IWS (https://stockanalysis.com/etf/iws/holdings/): Phillips 66; Hewlett Packard Enterprise — August 13, 2026.
+IWO (https://stockanalysis.com/etf/iwo/holdings/): Moog; Glaukos — September 3, 2026.
+IWN (https://stockanalysis.com/etf/iwn/holdings/): UMB Financial; Viasat — August 27, 2026.
+IXUS (https://stockanalysis.com/etf/ixus/holdings/): Taiwan Semiconductor Manufacturing; Samsung Electronics — August 13, 2026.
+SPDW (https://stockanalysis.com/etf/spdw/holdings/): Samsung Electronics depositary receipts; ASML — August 14, 2026.
+SPEM (https://stockanalysis.com/etf/spem/holdings/): Taiwan Semiconductor Manufacturing; Tencent — August 13, 2026.
+SPGM (https://stockanalysis.com/etf/spgm/holdings/): NVIDIA; Apple — September 1, 2026.
+SOXX (https://stockanalysis.com/etf/soxx/holdings/): NVIDIA; Micron — September 10, 2026.
+IBB (https://stockanalysis.com/etf/ibb/holdings/): Amgen; Vertex Pharmaceuticals — August 28, 2026.
+
+Bond ETFs—these entries identify individual securities, rather than combining all bonds from one issuer:
+
+SPAB (https://stockanalysis.com/etf/spab/holdings/): State Street institutional U.S. government money-market fund; U.S. Treasury 3.5%, due December 2028 — September 3, 2026.
+SPBO (https://stockanalysis.com/etf/spbo/holdings/): State Street institutional U.S. government money-market fund; Citigroup 4.91%, due May 2033 — August 21, 2026.
+SPSB (https://stockanalysis.com/etf/spsb/holdings/): Salesforce 4.65%, due March 2029; Bank of America 3.419%, due December 2028 — August 27, 2026.
+SPIB (https://stockanalysis.com/etf/spib/holdings/): Morgan Stanley Bank 5.016%, due January 2029; State Street institutional U.S. government money-market fund — September 3, 2026.
+SPLB (https://stockanalysis.com/etf/splb/holdings/): Anheuser-Busch 4.9%, due February 2046; CVS Health 5.05%, due March 2048 — August 14, 2026.
+SPTS (https://stockanalysis.com/etf/spts/holdings/): U.S. Treasury 3.5%, due January 2028; U.S. Treasury 4.625%, due April 2029 — August 13, 2026.
+SPTI (https://stockanalysis.com/etf/spti/holdings/): U.S. Treasury 4.625%, due February 2035; U.S. Treasury 4.25%, due August 2035 — July 10, 2026.
+SPTL (https://stockanalysis.com/etf/sptl/holdings/): U.S. Treasury 4.75%, due August 2055; U.S. Treasury 4.75%, due February 2056 — July 30, 2026.
+SPIP (https://stockanalysis.com/etf/spip/holdings/): Treasury inflation-protected 2.125%, due January 2035; Treasury inflation-protected 1.875%, due July 2034 — July 17, 2026.
+SPMB (https://stockanalysis.com/etf/spmb/holdings/): State Street U.S. Government Money Market Portfolio; Freddie Mac mortgage pool RQ0094, 5% — July 17, 2026.
+SPHY (https://stockanalysis.com/etf/sphy/holdings/): 1261229 BC Ltd. secured bond 10%, due April 2032; Meridian Arc Holdco secured bond 6.25%, due April 2031 — August 13, 2026.
+IAGG (https://stockanalysis.com/etf/iagg/holdings/): Chinese government bond 1.61%, due February 2035; Chinese government bond 1.44%, due September 2027 — September 3, 2026.
+
+Vanguard and Schwab mutual funds—all dated July 31, 2026:
+
+VFIAX (https://stockanalysis.com/quote/mutf/VFIAX/holdings/): NVIDIA; Apple.
+VTSAX (https://stockanalysis.com/quote/mutf/VTSAX/holdings/): NVIDIA; Apple.
+VIMAX (https://stockanalysis.com/quote/mutf/VIMAX/holdings/): Howmet Aerospace; Quanta Services.
+SWPPX (https://stockanalysis.com/quote/mutf/SWPPX/holdings/): NVIDIA; Apple.
+SWTSX (https://stockanalysis.com/quote/mutf/SWTSX/holdings/): NVIDIA; Apple.
+SWSSX (https://stockanalysis.com/quote/mutf/SWSSX/holdings/): September 2026 E-mini Russell 2000 futures; Moog.
+SWISX (https://stockanalysis.com/quote/mutf/SWISX/holdings/): ASML; HSBC.
+SWAGX (https://stockanalysis.com/quote/mutf/SWAGX/holdings/): State Street government money-market fund; U.S. Treasury 3.75%, due April 2028.
+
+Fidelity stock and multi-asset mutual funds—July 31, 2026 unless another date appears:
+
+FXAIX (https://stockanalysis.com/quote/mutf/FXAIX/holdings/): NVIDIA; Apple.
+FSKAX (https://stockanalysis.com/quote/mutf/FSKAX/holdings/): NVIDIA; Apple.
+FSMAX (https://stockanalysis.com/quote/mutf/FSMAX/holdings/): Snowflake; Cloudflare.
+FNCMX (https://stockanalysis.com/quote/mutf/FNCMX/holdings/): NVIDIA; Apple.
+FSPGX (https://stockanalysis.com/quote/mutf/FSPGX/holdings/): NVIDIA; Apple.
+FLCOX (https://stockanalysis.com/quote/mutf/FLCOX/holdings/): Amazon; Apple.
+FSMDX (https://stockanalysis.com/quote/mutf/FSMDX/holdings/): Snowflake; Marathon Petroleum.
+FMDGX (https://stockanalysis.com/quote/mutf/FMDGX/holdings/): Snowflake; Cloudflare.
+FIMVX (https://stockanalysis.com/quote/mutf/FIMVX/holdings/): Phillips 66; Digital Realty Trust.
+FSSNX (https://stockanalysis.com/quote/mutf/FSSNX/holdings/): Moog; Hut 8 — June 30, 2026.
+FECGX (https://stockanalysis.com/quote/mutf/FECGX/holdings/): Bloom Energy; Credo Technology — May 31, 2026.
+FISVX (https://stockanalysis.com/quote/mutf/FISVX/holdings/): Viasat; Cytokinetics — June 30, 2026.
+FSPSX (https://stockanalysis.com/quote/mutf/FSPSX/holdings/): ASML; HSBC.
+FTIHX (https://stockanalysis.com/quote/mutf/FTIHX/holdings/): Taiwan Semiconductor Manufacturing; Fidelity Cash Central Fund — April 30, 2026.
+FSGGX (https://stockanalysis.com/quote/mutf/FSGGX/holdings/): Taiwan Semiconductor Manufacturing; Samsung Electronics — June 30, 2026.
+FPADX (https://stockanalysis.com/quote/mutf/FPADX/holdings/): Taiwan Semiconductor Manufacturing; Samsung Electronics.
+FNILX (https://stockanalysis.com/quote/mutf/FNILX/holdings/): NVIDIA; Apple.
+FZROX (https://stockanalysis.com/quote/mutf/FZROX/holdings/): NVIDIA; Apple.
+FZIPX (https://stockanalysis.com/quote/mutf/FZIPX/holdings/): Astera Labs; nVent Electric.
+FZILX (https://stockanalysis.com/quote/mutf/FZILX/holdings/): Taiwan Semiconductor Manufacturing; Samsung Electronics.
+FSRNX (https://stockanalysis.com/quote/mutf/FSRNX/holdings/): Welltower; Prologis.
+FFNOX (https://stockanalysis.com/quote/mutf/FFNOX/holdings/): Fidelity 500 Index Fund; Fidelity International Index Fund — June 30, 2026.
+
+Fidelity bond mutual funds—July 31, 2026 unless noted:
+
+FXNAX (https://stockanalysis.com/quote/mutf/FXNAX/holdings/): U.S. Treasury 1.5%, due February 2030; U.S. Treasury 2.75%, due August 2032.
+FIPDX (https://stockanalysis.com/quote/mutf/FIPDX/holdings/): Treasury inflation-protected 2.125%, due January 2035; Treasury inflation-protected 1.875%, due January 2036.
+FUAMX (https://stockanalysis.com/quote/mutf/FUAMX/holdings/): U.S. Treasury 4.5%, due November 2033; U.S. Treasury 4%, due July 2032.
+FNBGX (https://stockanalysis.com/quote/mutf/FNBGX/holdings/): U.S. Treasury 4.625%, due November 2055; U.S. Treasury 4.625%, due May 2054 — April 30, 2026.
+FUMBX (https://stockanalysis.com/quote/mutf/FUMBX/holdings/): U.S. Treasury 3.75%, due January 2031; U.S. Treasury 3.625%, due September 2030.
+FNSOX (https://stockanalysis.com/quote/mutf/FNSOX/holdings/): U.S. Treasury 0.625%, due December 2027; U.S. Treasury 1.125%, due August 2028.
+FBIIX (https://stockanalysis.com/quote/mutf/FBIIX/holdings/): Source reports Cash at 100.47%; U.K. government bond 4.5%, due March 2035. That cash figure needs verification before we use this entry in the app.
+
+Specific retirement funds identifiable from the earlier list—share classes are identified here:
+
+Vanguard Target Retirement Income, VTINX (https://stockanalysis.com/quote/mutf/VTINX/holdings/): Vanguard Total Bond Market II Index; Vanguard Total Stock Market Index Institutional Plus — July 31, 2026.
+Schwab Target 2050 Index, SWYMX (https://stockanalysis.com/quote/mutf/SWYMX/holdings/): Schwab U.S. Large-Cap ETF; Schwab International Equity ETF — July 31, 2026.
+T. Rowe Price Retirement 2035, TRRJX (https://stockanalysis.com/quote/mutf/TRRJX/holdings/): T. Rowe Price Value Z; T. Rowe Price Growth Stock Z — July 31, 2026.
+T. Rowe Price Retirement 2040, TRRDX (https://stockanalysis.com/quote/mutf/TRRDX/holdings/): T. Rowe Price Value Z; T. Rowe Price Growth Stock Z — June 30, 2026.
+T. Rowe Price Retirement 2045, TRRKX (https://stockanalysis.com/quote/mutf/TRRKX/holdings/): T. Rowe Price Value Z; T. Rowe Price Growth Stock Z — July 31, 2026.
+Nuveen Lifecycle 2025 Retirement Class, TCLFX (https://stockanalysis.com/quote/mutf/TCLFX/holdings/): Nuveen Core Bond W; Nuveen Core Plus Bond W — May 31, 2026.
+Nuveen Lifecycle 2030 Retirement Class, TCLNX (https://stockanalysis.com/quote/mutf/TCLNX/holdings/): Nuveen Core Bond W; Nuveen Core Plus Bond W — April 30, 2026.
+Nuveen Lifecycle 2035 Retirement Class, TCLRX (https://stockanalysis.com/quote/mutf/TCLRX/holdings/): Nuveen Core Bond W; Nuveen Core Plus Bond W — May 31, 2026.
+Nuveen Lifecycle 2040 Retirement Class, TCLOX (https://stockanalysis.com/quote/mutf/TCLOX/holdings/): Nuveen Large Cap Growth W; Nuveen Large Cap Value W — April 30, 2026.
+BlackRock LifePath Index Retirement Investor P, LIRPX (https://stockanalysis.com/quote/mutf/LIRPX/holdings/): BlackRock Russell 1000 Index Fund F; iShares U.S. Intermediate Government Bond Index — June 30, 2026.
+
+CREF accounts, using R1 shares—March 31, 2026 unless noted. Some names have changed from the earlier provider list:
+
+CREF Stock / Total Global Stock, QCSTRX (https://stockanalysis.com/quote/mutf/QCSTRX/holdings/): NVIDIA; Apple.
+CREF Global Equities, QCGLRX (https://stockanalysis.com/quote/mutf/QCGLRX/holdings/): NVIDIA; Apple.
+CREF Growth, QCGRRX (https://stockanalysis.com/quote/mutf/QCGRRX/holdings/): NVIDIA; Microsoft.
+CREF Equity Index / S&P 500 Index, QCEQRX (https://stockanalysis.com/quote/mutf/QCEQRX/holdings/): NVIDIA; Microsoft — September 30, 2025; older snapshot.
+CREF Social Choice / Responsible Balanced, QCSCRX (https://stockanalysis.com/quote/mutf/QCSCRX/holdings/): NVIDIA; U.S. Treasury 4.125%, due February 2036.
+CREF Core Bond, QCBMRX (https://stockanalysis.com/quote/mutf/QCBMRX/holdings/): June 2026 five-year Treasury-note futures; U.S. Treasury 3.75%, due January 2031.
+CREF Inflation-Linked Bond, QCILRX (https://stockanalysis.com/quote/mutf/QCILRX/holdings/): Treasury inflation-protected 1.75%, due January 2034; Treasury inflation-protected 2.125%, due April 2029.
+
+TIAA Real Estate’s issuer fact sheet lists Simpson Housing Portfolio and Ontario Industrial Portfolio as its two largest property holdings, dated December 31, 2025. That ranking excludes liquid fixed-income investments and other securities. TIAA fact sheet (https://fluenttech.tiaa.org/pdf/factsheet/878094200.pdf)
+
+Still unresolved within the earlier list: CREF Money Market’s holdings page wasn’t available; Fidelity Freedom and American Funds were listed as whole families without a specific retirement year or share class. I haven’t expanded those families or added pension plans.

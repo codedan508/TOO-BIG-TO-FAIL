@@ -1,0 +1,472 @@
+TOO BIG TO FAIL — STOCK REPEAT RANKING
+Calculated: September 13, 2026
+
+Sources: the two saved Fund Holdings files retrieved September 13, 2026. Original source URLs are preserved below. No fresh holdings lookup was performed.
+
+Rule: one vote per listed fund/plan whose top two DIRECT holdings contain the company. First and second place have equal votes. SPY has one vote. Samsung Electronics shares and depositary receipts are combined at company level. Funds, ETFs, bonds, cash, futures and property portfolios do not count as stocks. No underlying holdings are inferred. Pension rows use partial 13F disclosures. Dates are mixed; unresolved records are excluded. This is a frequency ranking, not portfolio allocation weights.
+
+All 55 newly added Fidelity/American target-date entries have underlying funds in their top two, so none add direct-stock votes.
+
+RANKING (ties share rank; alphabetical display within ties)
+1. NVIDIA: 41 appearances
+2. Apple: 38 appearances
+3. Taiwan Semiconductor Manufacturing: 6 appearances
+4. Samsung Electronics: 5 appearances
+4. Snowflake: 5 appearances
+6. Microsoft: 4 appearances
+6. Moog: 4 appearances
+8. ASML: 3 appearances
+8. Cloudflare: 3 appearances
+10. Amazon: 2 appearances
+10. HSBC: 2 appearances
+10. Marathon Petroleum: 2 appearances
+10. Phillips 66: 2 appearances
+10. UMB Financial: 2 appearances
+10. Viasat: 2 appearances
+16. Accenture: 1 appearances
+16. Amgen: 1 appearances
+16. Ares Management: 1 appearances
+16. Astera Labs: 1 appearances
+16. Bloom Energy: 1 appearances
+16. CareDx: 1 appearances
+16. Caterpillar: 1 appearances
+16. Credo Technology: 1 appearances
+16. Cytokinetics: 1 appearances
+16. Digital Realty Trust: 1 appearances
+16. FIP: 1 appearances
+16. FTAI: 1 appearances
+16. Glaukos: 1 appearances
+16. Goldman Sachs: 1 appearances
+16. Hewlett Packard Enterprise: 1 appearances
+16. Howmet Aerospace: 1 appearances
+16. Hut 8: 1 appearances
+16. Illumina: 1 appearances
+16. Micron: 1 appearances
+16. Nurix Therapeutics: 1 appearances
+16. nVent Electric: 1 appearances
+16. Prologis: 1 appearances
+16. Quanta Services: 1 appearances
+16. Tencent: 1 appearances
+16. Twilio: 1 appearances
+16. Vertex Pharmaceuticals: 1 appearances
+16. Welltower: 1 appearances
+
+SOURCE AUDIT — EVERY COUNTED APPEARANCE
+
+NVIDIA: 41
+- SPY: https://stockanalysis.com/etf/spy/holdings/
+- SPYG: https://stockanalysis.com/etf/spyg/holdings/
+- QQQ: https://stockanalysis.com/etf/qqq/holdings/
+- IWB: https://stockanalysis.com/etf/iwb/holdings/
+- IWV: https://stockanalysis.com/etf/iwv/holdings/
+- ITOT: https://stockanalysis.com/etf/itot/holdings/
+- OEF: https://stockanalysis.com/etf/oef/holdings/
+- IWF: https://stockanalysis.com/etf/iwf/holdings/
+- SPGM: https://stockanalysis.com/etf/spgm/holdings/
+- SOXX: https://stockanalysis.com/etf/soxx/holdings/
+- VFIAX: https://stockanalysis.com/quote/mutf/VFIAX/holdings/
+- VTSAX: https://stockanalysis.com/quote/mutf/VTSAX/holdings/
+- SWPPX: https://stockanalysis.com/quote/mutf/SWPPX/holdings/
+- SWTSX: https://stockanalysis.com/quote/mutf/SWTSX/holdings/
+- FXAIX: https://stockanalysis.com/quote/mutf/FXAIX/holdings/
+- FSKAX: https://stockanalysis.com/quote/mutf/FSKAX/holdings/
+- FNCMX: https://stockanalysis.com/quote/mutf/FNCMX/holdings/
+- FSPGX: https://stockanalysis.com/quote/mutf/FSPGX/holdings/
+- FNILX: https://stockanalysis.com/quote/mutf/FNILX/holdings/
+- FZROX: https://stockanalysis.com/quote/mutf/FZROX/holdings/
+- CREF Stock / Total Global Stock, QCSTRX: https://stockanalysis.com/quote/mutf/QCSTRX/holdings/
+- CREF Global Equities, QCGLRX: https://stockanalysis.com/quote/mutf/QCGLRX/holdings/
+- CREF Growth, QCGRRX: https://stockanalysis.com/quote/mutf/QCGRRX/holdings/
+- CREF Equity Index / S&P 500 Index, QCEQRX: https://stockanalysis.com/quote/mutf/QCEQRX/holdings/
+- CREF Social Choice / Responsible Balanced, QCSCRX: https://stockanalysis.com/quote/mutf/QCSCRX/holdings/
+- CalSTRS: https://www.holdingschannel.com/13f/california-state-teachers-retirement-system-top-holdings/
+- New York State Common Retirement Fund (NY State and Local): https://www.holdingschannel.com/13f/new-york-state-common-retirement-fund-top-holdings/
+- New York State Teachers Retirement System: https://www.holdingschannel.com/13f/new-york-state-teachers-retirement-system-top-holdings/
+- Teacher Retirement System of Texas: https://www.holdingschannel.com/13f/teacher-retirement-system-of-texas-top-holdings/
+- State Board of Administration of Florida Retirement System: https://www.holdingschannel.com/13f/state-board-of-administration-of-florida-retirement-system-top-holdings/
+- State of Wisconsin Investment Board: https://www.holdingschannel.com/13f/state-of-wisconsin-investment-board-top-holdings/
+- Public Employees Retirement System of Ohio: https://www.holdingschannel.com/13f/public-employees-retirement-system-of-ohio-top-holdings/
+- STRS Ohio: https://www.gurufocus.com/guru/strs%2Bohio/current-portfolio/top-yield
+- Pennsylvania PSERS: https://13foresight.com/fund/commonwealth-of-pennsylvania-public-school-empls-retrmt-sys
+- Virginia Retirement Systems et al.: https://stockzoa.com/fund/virginia-retirement-system/
+- Treasurer of the State of North Carolina: https://www.gurufocus.com/guru/treasurer%2Bof%2Bthe%2Bstate%2Bof%2Bnorth%2Bcarolina/summary
+- Colorado Public Employees Retirement Association: https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado
+- Oregon Public Employees Retirement Fund: https://www.holdingschannel.com/13f/oregon-public-employees-retirement-fund-top-holdings/
+- Arizona State Retirement System: https://13f.info/manager/0001558481-arizona-state-retirement-system
+- Maryland State Retirement & Pension System: https://equibles.com/institutions/1795552/maryland-state-retirement-pension-system
+- State of Tennessee, Department of Treasury: https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury
+
+Apple: 38
+- SPY: https://stockanalysis.com/etf/spy/holdings/
+- QQQ: https://stockanalysis.com/etf/qqq/holdings/
+- IWB: https://stockanalysis.com/etf/iwb/holdings/
+- IWV: https://stockanalysis.com/etf/iwv/holdings/
+- ITOT: https://stockanalysis.com/etf/itot/holdings/
+- OEF: https://stockanalysis.com/etf/oef/holdings/
+- IWF: https://stockanalysis.com/etf/iwf/holdings/
+- IWD: https://stockanalysis.com/etf/iwd/holdings/
+- SPGM: https://stockanalysis.com/etf/spgm/holdings/
+- VFIAX: https://stockanalysis.com/quote/mutf/VFIAX/holdings/
+- VTSAX: https://stockanalysis.com/quote/mutf/VTSAX/holdings/
+- SWPPX: https://stockanalysis.com/quote/mutf/SWPPX/holdings/
+- SWTSX: https://stockanalysis.com/quote/mutf/SWTSX/holdings/
+- FXAIX: https://stockanalysis.com/quote/mutf/FXAIX/holdings/
+- FSKAX: https://stockanalysis.com/quote/mutf/FSKAX/holdings/
+- FNCMX: https://stockanalysis.com/quote/mutf/FNCMX/holdings/
+- FSPGX: https://stockanalysis.com/quote/mutf/FSPGX/holdings/
+- FLCOX: https://stockanalysis.com/quote/mutf/FLCOX/holdings/
+- FNILX: https://stockanalysis.com/quote/mutf/FNILX/holdings/
+- FZROX: https://stockanalysis.com/quote/mutf/FZROX/holdings/
+- CREF Stock / Total Global Stock, QCSTRX: https://stockanalysis.com/quote/mutf/QCSTRX/holdings/
+- CREF Global Equities, QCGLRX: https://stockanalysis.com/quote/mutf/QCGLRX/holdings/
+- CalSTRS: https://www.holdingschannel.com/13f/california-state-teachers-retirement-system-top-holdings/
+- New York State Common Retirement Fund (NY State and Local): https://www.holdingschannel.com/13f/new-york-state-common-retirement-fund-top-holdings/
+- New York State Teachers Retirement System: https://www.holdingschannel.com/13f/new-york-state-teachers-retirement-system-top-holdings/
+- Teacher Retirement System of Texas: https://www.holdingschannel.com/13f/teacher-retirement-system-of-texas-top-holdings/
+- State Board of Administration of Florida Retirement System: https://www.holdingschannel.com/13f/state-board-of-administration-of-florida-retirement-system-top-holdings/
+- State of Wisconsin Investment Board: https://www.holdingschannel.com/13f/state-of-wisconsin-investment-board-top-holdings/
+- Public Employees Retirement System of Ohio: https://www.holdingschannel.com/13f/public-employees-retirement-system-of-ohio-top-holdings/
+- STRS Ohio: https://www.gurufocus.com/guru/strs%2Bohio/current-portfolio/top-yield
+- Pennsylvania PSERS: https://13foresight.com/fund/commonwealth-of-pennsylvania-public-school-empls-retrmt-sys
+- Virginia Retirement Systems et al.: https://stockzoa.com/fund/virginia-retirement-system/
+- Treasurer of the State of North Carolina: https://www.gurufocus.com/guru/treasurer%2Bof%2Bthe%2Bstate%2Bof%2Bnorth%2Bcarolina/summary
+- Colorado Public Employees Retirement Association: https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado
+- Oregon Public Employees Retirement Fund: https://www.holdingschannel.com/13f/oregon-public-employees-retirement-fund-top-holdings/
+- Arizona State Retirement System: https://13f.info/manager/0001558481-arizona-state-retirement-system
+- Maryland State Retirement & Pension System: https://equibles.com/institutions/1795552/maryland-state-retirement-pension-system
+- State of Tennessee, Department of Treasury: https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury
+
+Taiwan Semiconductor Manufacturing: 6
+- IXUS: https://stockanalysis.com/etf/ixus/holdings/
+- SPEM: https://stockanalysis.com/etf/spem/holdings/
+- FTIHX: https://stockanalysis.com/quote/mutf/FTIHX/holdings/
+- FSGGX: https://stockanalysis.com/quote/mutf/FSGGX/holdings/
+- FPADX: https://stockanalysis.com/quote/mutf/FPADX/holdings/
+- FZILX: https://stockanalysis.com/quote/mutf/FZILX/holdings/
+
+Samsung Electronics: 5
+- IXUS: https://stockanalysis.com/etf/ixus/holdings/
+- SPDW: https://stockanalysis.com/etf/spdw/holdings/
+- FSGGX: https://stockanalysis.com/quote/mutf/FSGGX/holdings/
+- FPADX: https://stockanalysis.com/quote/mutf/FPADX/holdings/
+- FZILX: https://stockanalysis.com/quote/mutf/FZILX/holdings/
+
+Snowflake: 5
+- IWR: https://stockanalysis.com/etf/iwr/holdings/
+- IWP: https://stockanalysis.com/etf/iwp/holdings/
+- FSMAX: https://stockanalysis.com/quote/mutf/FSMAX/holdings/
+- FSMDX: https://stockanalysis.com/quote/mutf/FSMDX/holdings/
+- FMDGX: https://stockanalysis.com/quote/mutf/FMDGX/holdings/
+
+Microsoft: 4
+- SPYG: https://stockanalysis.com/etf/spyg/holdings/
+- CREF Growth, QCGRRX: https://stockanalysis.com/quote/mutf/QCGRRX/holdings/
+- CREF Equity Index / S&P 500 Index, QCEQRX: https://stockanalysis.com/quote/mutf/QCEQRX/holdings/
+- Employees Retirement System of Texas: https://www.holdingschannel.com/13f/employees-retirement-system-of-texas-top-holdings/
+
+Moog: 4
+- IWM: https://stockanalysis.com/etf/iwm/holdings/
+- IWO: https://stockanalysis.com/etf/iwo/holdings/
+- SWSSX: https://stockanalysis.com/quote/mutf/SWSSX/holdings/
+- FSSNX: https://stockanalysis.com/quote/mutf/FSSNX/holdings/
+
+ASML: 3
+- SPDW: https://stockanalysis.com/etf/spdw/holdings/
+- SWISX: https://stockanalysis.com/quote/mutf/SWISX/holdings/
+- FSPSX: https://stockanalysis.com/quote/mutf/FSPSX/holdings/
+
+Cloudflare: 3
+- IWP: https://stockanalysis.com/etf/iwp/holdings/
+- FSMAX: https://stockanalysis.com/quote/mutf/FSMAX/holdings/
+- FMDGX: https://stockanalysis.com/quote/mutf/FMDGX/holdings/
+
+Amazon: 2
+- IWD: https://stockanalysis.com/etf/iwd/holdings/
+- FLCOX: https://stockanalysis.com/quote/mutf/FLCOX/holdings/
+
+HSBC: 2
+- SWISX: https://stockanalysis.com/quote/mutf/SWISX/holdings/
+- FSPSX: https://stockanalysis.com/quote/mutf/FSPSX/holdings/
+
+Marathon Petroleum: 2
+- IWR: https://stockanalysis.com/etf/iwr/holdings/
+- FSMDX: https://stockanalysis.com/quote/mutf/FSMDX/holdings/
+
+Phillips 66: 2
+- IWS: https://stockanalysis.com/etf/iws/holdings/
+- FIMVX: https://stockanalysis.com/quote/mutf/FIMVX/holdings/
+
+UMB Financial: 2
+- IWM: https://stockanalysis.com/etf/iwm/holdings/
+- IWN: https://stockanalysis.com/etf/iwn/holdings/
+
+Viasat: 2
+- IWN: https://stockanalysis.com/etf/iwn/holdings/
+- FISVX: https://stockanalysis.com/quote/mutf/FISVX/holdings/
+
+Accenture: 1
+- SPYD: https://stockanalysis.com/etf/spyd/holdings/
+
+Amgen: 1
+- IBB: https://stockanalysis.com/etf/ibb/holdings/
+
+Ares Management: 1
+- SPYD: https://stockanalysis.com/etf/spyd/holdings/
+
+Astera Labs: 1
+- FZIPX: https://stockanalysis.com/quote/mutf/FZIPX/holdings/
+
+Bloom Energy: 1
+- FECGX: https://stockanalysis.com/quote/mutf/FECGX/holdings/
+
+CareDx: 1
+- IWC: https://stockanalysis.com/etf/iwc/holdings/
+
+Caterpillar: 1
+- DIA: https://stockanalysis.com/etf/dia/holdings/
+
+Credo Technology: 1
+- FECGX: https://stockanalysis.com/quote/mutf/FECGX/holdings/
+
+Cytokinetics: 1
+- FISVX: https://stockanalysis.com/quote/mutf/FISVX/holdings/
+
+Digital Realty Trust: 1
+- FIMVX: https://stockanalysis.com/quote/mutf/FIMVX/holdings/
+
+FIP: 1
+- Washington State Investment Board — exceptionally limited disclosure: https://13f.info/manager/0000943712-washington-state-investment-board
+
+FTAI: 1
+- Washington State Investment Board — exceptionally limited disclosure: https://13f.info/manager/0000943712-washington-state-investment-board
+
+Glaukos: 1
+- IWO: https://stockanalysis.com/etf/iwo/holdings/
+
+Goldman Sachs: 1
+- DIA: https://stockanalysis.com/etf/dia/holdings/
+
+Hewlett Packard Enterprise: 1
+- IWS: https://stockanalysis.com/etf/iws/holdings/
+
+Howmet Aerospace: 1
+- VIMAX: https://stockanalysis.com/quote/mutf/VIMAX/holdings/
+
+Hut 8: 1
+- FSSNX: https://stockanalysis.com/quote/mutf/FSSNX/holdings/
+
+Illumina: 1
+- MDY: https://stockanalysis.com/etf/mdy/holdings/
+
+Micron: 1
+- SOXX: https://stockanalysis.com/etf/soxx/holdings/
+
+Nurix Therapeutics: 1
+- IWC: https://stockanalysis.com/etf/iwc/holdings/
+
+nVent Electric: 1
+- FZIPX: https://stockanalysis.com/quote/mutf/FZIPX/holdings/
+
+Prologis: 1
+- FSRNX: https://stockanalysis.com/quote/mutf/FSRNX/holdings/
+
+Quanta Services: 1
+- VIMAX: https://stockanalysis.com/quote/mutf/VIMAX/holdings/
+
+Tencent: 1
+- SPEM: https://stockanalysis.com/etf/spem/holdings/
+
+Twilio: 1
+- MDY: https://stockanalysis.com/etf/mdy/holdings/
+
+Vertex Pharmaceuticals: 1
+- IBB: https://stockanalysis.com/etf/ibb/holdings/
+
+Welltower: 1
+- FSRNX: https://stockanalysis.com/quote/mutf/FSRNX/holdings/
+
+EXCLUDED NON-STOCK DIRECT HOLDINGS
+- SPAB: State Street institutional U.S. government money-market fund
+- SPAB: U.S. Treasury 3.5%, due December 2028
+- SPBO: State Street institutional U.S. government money-market fund
+- SPBO: Citigroup 4.91%, due May 2033
+- SPSB: Salesforce 4.65%, due March 2029
+- SPSB: Bank of America 3.419%, due December 2028
+- SPIB: Morgan Stanley Bank 5.016%, due January 2029
+- SPIB: State Street institutional U.S. government money-market fund
+- SPLB: Anheuser-Busch 4.9%, due February 2046
+- SPLB: CVS Health 5.05%, due March 2048
+- SPTS: U.S. Treasury 3.5%, due January 2028
+- SPTS: U.S. Treasury 4.625%, due April 2029
+- SPTI: U.S. Treasury 4.625%, due February 2035
+- SPTI: U.S. Treasury 4.25%, due August 2035
+- SPTL: U.S. Treasury 4.75%, due August 2055
+- SPTL: U.S. Treasury 4.75%, due February 2056
+- SPIP: Treasury inflation-protected 2.125%, due January 2035
+- SPIP: Treasury inflation-protected 1.875%, due July 2034
+- SPMB: State Street U.S. Government Money Market Portfolio
+- SPMB: Freddie Mac mortgage pool RQ0094, 5%
+- SPHY: 1261229 BC Ltd. secured bond 10%, due April 2032
+- SPHY: Meridian Arc Holdco secured bond 6.25%, due April 2031
+- IAGG: Chinese government bond 1.61%, due February 2035
+- IAGG: Chinese government bond 1.44%, due September 2027
+- SWSSX: September 2026 E-mini Russell 2000 futures
+- SWAGX: State Street government money-market fund
+- SWAGX: U.S. Treasury 3.75%, due April 2028
+- FTIHX: Fidelity Cash Central Fund
+- FFNOX: Fidelity 500 Index Fund
+- FFNOX: Fidelity International Index Fund
+- FXNAX: U.S. Treasury 1.5%, due February 2030
+- FXNAX: U.S. Treasury 2.75%, due August 2032
+- FIPDX: Treasury inflation-protected 2.125%, due January 2035
+- FIPDX: Treasury inflation-protected 1.875%, due January 2036
+- FUAMX: U.S. Treasury 4.5%, due November 2033
+- FUAMX: U.S. Treasury 4%, due July 2032
+- FNBGX: U.S. Treasury 4.625%, due November 2055
+- FNBGX: U.S. Treasury 4.625%, due May 2054
+- FUMBX: U.S. Treasury 3.75%, due January 2031
+- FUMBX: U.S. Treasury 3.625%, due September 2030
+- FNSOX: U.S. Treasury 0.625%, due December 2027
+- FNSOX: U.S. Treasury 1.125%, due August 2028
+- FBIIX: Source reports Cash at 100.47%
+- FBIIX: U.K. government bond 4.5%, due March 2035. That cash figure needs verification before we use this entry in the app
+- Vanguard Target Retirement Income, VTINX: Vanguard Total Bond Market II Index
+- Vanguard Target Retirement Income, VTINX: Vanguard Total Stock Market Index Institutional Plus
+- Schwab Target 2050 Index, SWYMX: Schwab U.S. Large-Cap ETF
+- Schwab Target 2050 Index, SWYMX: Schwab International Equity ETF
+- T. Rowe Price Retirement 2035, TRRJX: T. Rowe Price Value Z
+- T. Rowe Price Retirement 2035, TRRJX: T. Rowe Price Growth Stock Z
+- T. Rowe Price Retirement 2040, TRRDX: T. Rowe Price Value Z
+- T. Rowe Price Retirement 2040, TRRDX: T. Rowe Price Growth Stock Z
+- T. Rowe Price Retirement 2045, TRRKX: T. Rowe Price Value Z
+- T. Rowe Price Retirement 2045, TRRKX: T. Rowe Price Growth Stock Z
+- Nuveen Lifecycle 2025 Retirement Class, TCLFX: Nuveen Core Bond W
+- Nuveen Lifecycle 2025 Retirement Class, TCLFX: Nuveen Core Plus Bond W
+- Nuveen Lifecycle 2030 Retirement Class, TCLNX: Nuveen Core Bond W
+- Nuveen Lifecycle 2030 Retirement Class, TCLNX: Nuveen Core Plus Bond W
+- Nuveen Lifecycle 2035 Retirement Class, TCLRX: Nuveen Core Bond W
+- Nuveen Lifecycle 2035 Retirement Class, TCLRX: Nuveen Core Plus Bond W
+- Nuveen Lifecycle 2040 Retirement Class, TCLOX: Nuveen Large Cap Growth W
+- Nuveen Lifecycle 2040 Retirement Class, TCLOX: Nuveen Large Cap Value W
+- BlackRock LifePath Index Retirement Investor P, LIRPX: BlackRock Russell 1000 Index Fund F
+- BlackRock LifePath Index Retirement Investor P, LIRPX: iShares U.S. Intermediate Government Bond Index
+- CREF Social Choice / Responsible Balanced, QCSCRX: U.S. Treasury 4.125%, due February 2036
+- CREF Core Bond, QCBMRX: June 2026 five-year Treasury-note futures
+- CREF Core Bond, QCBMRX: U.S. Treasury 3.75%, due January 2031
+- CREF Inflation-Linked Bond, QCILRX: Treasury inflation-protected 1.75%, due January 2034
+- CREF Inflation-Linked Bond, QCILRX: Treasury inflation-protected 2.125%, due April 2029
+- Fidelity Freedom Retirement Fund (FFFAX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom Retirement Fund (FFFAX): Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+- Fidelity Freedom 2010 Fund (FFFCX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom 2010 Fund (FFFCX): Fidelity Series 0-5 Year Inflation-Protected Bond Index Fund (FSTZX)
+- Fidelity Freedom 2015 Fund (FFVFX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom 2015 Fund (FFVFX): Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+- Fidelity Freedom 2020 Fund (FFFDX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom 2020 Fund (FFFDX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2025 Fund (FFTWX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom 2025 Fund (FFTWX): Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX)
+- Fidelity Freedom 2030 Fund (FFFEX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom 2030 Fund (FFFEX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2035 Fund (FFTHX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom 2035 Fund (FFTHX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2040 Fund (FFFFX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2040 Fund (FFFFX): Fidelity Series Large Cap Stock Fund (FGLGX)
+- Fidelity Freedom 2045 Fund (FFFGX): Fidelity Series Large Cap Stock Fund (FGLGX)
+- Fidelity Freedom 2045 Fund (FFFGX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2050 Fund (FFFHX): Fidelity Series Large Cap Stock Fund (FGLGX)
+- Fidelity Freedom 2050 Fund (FFFHX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2055 Fund (FDEEX): Fidelity Series Large Cap Stock Fund (FGLGX)
+- Fidelity Freedom 2055 Fund (FDEEX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2060 Fund (FDKVX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2060 Fund (FDKVX): Fidelity Series Large Cap Stock Fund (FGLGX)
+- Fidelity Freedom 2065 Fund (FFSFX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom 2065 Fund (FFSFX): Fidelity Series Large Cap Stock Fund (FGLGX)
+- Fidelity Freedom 2070 (FRBDX): Fidelity Series Growth Company Fund (FCGSX)
+- Fidelity Freedom 2070 (FRBDX): Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+- Fidelity Freedom Index Retirement Fund Investor Class (FIKFX): Fidelity Series Bond Index Fund (FIFZX)
+- Fidelity Freedom Index Retirement Fund Investor Class (FIKFX): Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+- Fidelity Freedom Index 2010 Fund Investor Class (FKIFX): Fidelity Series Bond Index Fund (FIFZX)
+- Fidelity Freedom Index 2010 Fund Investor Class (FKIFX): Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+- Fidelity Freedom Index 2015 Fund Investor Class (FLIFX): Fidelity Series Bond Index Fund (FIFZX)
+- Fidelity Freedom Index 2015 Fund Investor Class (FLIFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2020 Fund Investor Class (FPIFX): Fidelity Series Bond Index Fund (FIFZX)
+- Fidelity Freedom Index 2020 Fund Investor Class (FPIFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2025 Fund Investor Class (FQIFX): Fidelity Series Bond Index Fund (FIFZX)
+- Fidelity Freedom Index 2025 Fund Investor Class (FQIFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2030 Fund Investor Class (FXIFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2030 Fund Investor Class (FXIFX): Fidelity Series Bond Index Fund (FIFZX)
+- Fidelity Freedom Index 2035 Fund Investor Class (FIHFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2035 Fund Investor Class (FIHFX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Index 2040 Fund Investor Class (FBIFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2040 Fund Investor Class (FBIFX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Index 2045 Fund Investor Class (FIOFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2045 Fund Investor Class (FIOFX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Index 2050 Fund Investor Class (FIPFX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2050 Fund Investor Class (FIPFX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Index 2055 Fund Investor Class (FDEWX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2055 Fund Investor Class (FDEWX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Index 2060 Fund Investor Class (FDKLX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2060 Fund Investor Class (FDKLX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Index 2065 Fund Investor Class (FFIJX): Fidelity Series Total Market Index Fund (FCFMX)
+- Fidelity Freedom Index 2065 Fund Investor Class (FFIJX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Index 2070 Investor (FRBVX): Fidelity Concord Street Trust - Fidelity Series Total Market Index Fund
+- Fidelity Freedom Index 2070 Investor (FRBVX): Fidelity Series Global ex U.S. Index Fund (FSGEX)
+- Fidelity Freedom Blend Retirement Fund (FHBZX): Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+- Fidelity Freedom Blend Retirement Fund (FHBZX): Fidelity Series Government Bond Index Fund (FHNFX)
+- Fidelity Freedom Blend 2010 Fund (FHAYX): Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+- Fidelity Freedom Blend 2010 Fund (FHAYX): Fidelity Series Government Bond Index Fund (FHNFX)
+- Fidelity Freedom Blend 2015 Fund (FHAWX): Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+- Fidelity Freedom Blend 2015 Fund (FHAWX): Fidelity Series Government Bond Index Fund (FHNFX)
+- Fidelity Freedom Blend 2020 Fund (FHAVX): Fidelity Series Government Bond Index Fund (FHNFX)
+- Fidelity Freedom Blend 2020 Fund (FHAVX): Fidelity Series Investment Grade Bond Fund (FSIGX)
+- Fidelity Freedom Blend 2025 Fund (FHAUX): Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX)
+- Fidelity Freedom Blend 2025 Fund (FHAUX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2030 Fund (FHATX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2030 Fund (FHATX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2035 Fund (FHASX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2035 Fund (FHASX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2040 Fund (FHARX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2040 Fund (FHARX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2045 Fund (FHAQX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2045 Fund (FHAQX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2050 Fund (FHAPX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2050 Fund (FHAPX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2055 Fund (FHAOX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2055 Fund (FHAOX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2060 Fund (FHANX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2060 Fund (FHANX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2065 Fund (FFBSX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2065 Fund (FFBSX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- Fidelity Freedom Blend 2070 (FRBYX): Fidelity Series Large Cap Value Index Fund (FIOOX)
+- Fidelity Freedom Blend 2070 (FRBYX): Fidelity Series Blue Chip Growth Fund (FSBDX)
+- American Funds 2010 Target Date Retirement Income Fund Class A (AAATX): American Funds The Income Fund of America® Class R-6 (RIDGX)
+- American Funds 2010 Target Date Retirement Income Fund Class A (AAATX): American Funds Intermediate Bond Fund of America® Class R-6 (RBOGX)
+- American Funds 2015 Trgt Date Retire A (AABTX): American Funds Income Fund of Amer R6 (RIDGX)
+- American Funds 2015 Trgt Date Retire A (AABTX): American Funds Interm Bd Fd of Amer R6 (RBOGX)
+- American Funds 2020 Target Date Retirement Income Fund Class A (AACTX): American Funds Income Fd of Amer R-6 (RIDGX)
+- American Funds 2020 Target Date Retirement Income Fund Class A (AACTX): American Funds The Bond Fund of America (RBFGX)
+- American Funds 2025 Target Date Retirement Income Fund Class A (AADTX): American Funds Income Fund of Amer R6 (RIDGX)
+- American Funds 2025 Target Date Retirement Income Fund Class A (AADTX): American Funds The Bond Fund of America (RBFGX)
+- American Funds 2030 Target Date Retirement Fund Class A (AAETX): American Funds American Balanced R-6 (RLBGX)
+- American Funds 2030 Target Date Retirement Fund Class A (AAETX): American Funds Bond Fund of Amer R-6 (RBFGX)
+- American Funds 2035 Target Date Retirement Fund Class A (AAFTX): American Funds American Balanced R-6 (RLBGX)
+- American Funds 2035 Target Date Retirement Fund Class A (AAFTX): American Funds American Mutual R-6 (RMFGX)
+- American Funds 2040 Target Date Retirement Fund Class A (AAGTX): American Funds American Balanced R-6 (RLBGX)
+- American Funds 2040 Target Date Retirement Fund Class A (AAGTX): American Funds American Mutual R-6 (RMFGX)
+- American Funds 2045 Target Date Retirement Fund Class A (AAHTX): American Funds Fundamental Invs R-6 (RFNGX)
+- American Funds 2045 Target Date Retirement Fund Class A (AAHTX): American Funds American Balanced R-6 (RLBGX)
+- American Funds 2050 Target Date Retirement Fund Class A (AALTX): American Funds New Perspective R-6 (RNPGX)
+- American Funds 2050 Target Date Retirement Fund Class A (AALTX): American Funds Fundamental Invs R-6 (RFNGX)
+- American Funds 2055 Target Date Retirement Fund Class A (AAMTX): American Funds New Perspective R-6 (RNPGX)
+- American Funds 2055 Target Date Retirement Fund Class A (AAMTX): American Funds Fundamental Invs R-6 (RFNGX)
+- American Funds 2060 Target Date Retirement Fund Class A (AANTX): American Funds SMALLCAP World R-6 (RLLGX)
+- American Funds 2060 Target Date Retirement Fund Class A (AANTX): American Funds New Perspective R-6 (RNPGX)
+- American Funds 2065 Trgt Date Ret A (AAOTX): American Funds SMALLCAP World R-6 (RLLGX)
+- American Funds 2065 Trgt Date Ret A (AAOTX): American Funds New Perspective R-6 (RNPGX)
+- American Funds 2070 Target Date Retirement Fund® Class A (AAFJX): American Funds SMALLCAP World Fund® Class R-6 (RLLGX)
+- American Funds 2070 Target Date Retirement Fund® Class A (AAFJX): American Funds New Perspective Fund® Class R-6 (RNPGX)
+- CalPERS: Vanguard S&P 500 ETF (VOO)
+- CalPERS: iShares Core S&P 500 ETF (IVV)
+- Employees Retirement System of Texas: Vanguard Intermediate-Term Treasury ETF (VGIT)
+
+Also excluded: TIAA property-only ranking; undated CREF money-market positions; unresolved NYC Employees, NYC Teachers and Pennsylvania SERS records.

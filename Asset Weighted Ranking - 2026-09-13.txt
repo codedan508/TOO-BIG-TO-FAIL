@@ -1,0 +1,1606 @@
+TOO BIG TO FAIL — ASSET-WEIGHTED FUND VOTES
+Retrieved / calculated: 2026-09-13
+Status: Provisional mixed-date snapshot, not a same-date total or unique-money total.
+
+Combined reported assets: $10,436,169,920,540 (approximately $10.4362 trillion)
+Valued fund/account/filer entries: 167
+Entries without explicit asset valuation date: 137
+Fund weights sum to 100%. The SPY double-vote bonus is removed.
+
+Fund weight = reported assets / sum of reported assets. Each distinct direct stock in a fund's saved top two receives the full fund weight. SPY bonus removed. Stock scores are not allocation percentages and need not sum to 100%.
+
+TOP TEN U.S. EXCHANGE-LISTED STOCKS BY WEIGHTED SCORE
+Only stocks with a U.S. exchange listing may enter the selected top ten. U.S.-listed ADRs and registry shares qualify. OTC-only securities do not. Filter after scoring; fund weights remain unchanged.
+Score = percent of the combined asset pool attached to records whose saved top two include the stock.
+Scores are NOT portfolio allocation percentages or actual stock ownership percentages.
+1. NVIDIA (Nasdaq: NVDA): 76.6580% score; 41 contributing entries
+2. Apple (Nasdaq: AAPL): 75.7575% score; 38 contributing entries
+3. Howmet Aerospace (NYSE: HWM): 2.1692% score; 1 contributing entries
+3. Quanta Services (NYSE: PWR): 2.1692% score; 1 contributing entries
+5. Snowflake (NYSE: SNOW): 1.6609% score; 5 contributing entries
+6. Taiwan Semiconductor Manufacturing (NYSE: TSM): 1.4826% score; 6 contributing entries
+7. ASML (Nasdaq: ASML): 1.3944% score; 3 contributing entries
+8. Microsoft (Nasdaq: MSFT): 1.3209% score; 4 contributing entries
+9. Moog (NYSE: MOG.A): 1.2935% score; 4 contributing entries
+10. Marathon Petroleum (NYSE: MPC): 1.0549% score; 2 contributing entries
+
+EXCHANGE ELIGIBILITY SOURCES
+https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt — File Creation Time: 0911202621:31|||||||
+https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt — File Creation Time: 0911202621:31||||||
+Excluded from selection: Samsung Electronics, Tencent
+
+FULL STOCK SCORE RANKING
+1. NVIDIA: 76.657982%; supporting fund assets $8,000,157,240,540; entries: Arizona State Retirement System, CalSTRS, Colorado Public Employees Retirement Association, FNCMX, FNILX, FSKAX, FSPGX, FXAIX, FZROX, ITOT, IWB, IWF, IWV, Maryland State Retirement & Pension System, New York State Common Retirement Fund (NY State and Local), New York State Teachers Retirement System, OEF, Oregon Public Employees Retirement Fund, Pennsylvania PSERS, Public Employees Retirement System of Ohio, QCEQRX, QCGLRX, QCGRRX, QCSCRX, QCSTRX, QQQ, SOXX, SPGM, SPY, SPYG, State Board of Administration of Florida Retirement System, State of Tennessee, Department of Treasury, State of Wisconsin Investment Board, STRS Ohio, SWPPX, SWTSX, Teacher Retirement System of Texas, Treasurer of the State of North Carolina, VFIAX, Virginia Retirement Systems et al., VTSAX
+2. Apple: 75.757460%; supporting fund assets $7,906,177,240,540; entries: Arizona State Retirement System, CalSTRS, Colorado Public Employees Retirement Association, FLCOX, FNCMX, FNILX, FSKAX, FSPGX, FXAIX, FZROX, ITOT, IWB, IWD, IWF, IWV, Maryland State Retirement & Pension System, New York State Common Retirement Fund (NY State and Local), New York State Teachers Retirement System, OEF, Oregon Public Employees Retirement Fund, Pennsylvania PSERS, Public Employees Retirement System of Ohio, QCGLRX, QCSTRX, QQQ, SPGM, SPY, State Board of Administration of Florida Retirement System, State of Tennessee, Department of Treasury, State of Wisconsin Investment Board, STRS Ohio, SWPPX, SWTSX, Teacher Retirement System of Texas, Treasurer of the State of North Carolina, VFIAX, Virginia Retirement Systems et al., VTSAX
+3. Howmet Aerospace: 2.169187%; supporting fund assets $226,380,000,000; entries: VIMAX
+3. Quanta Services: 2.169187%; supporting fund assets $226,380,000,000; entries: VIMAX
+5. Snowflake: 1.660858%; supporting fund assets $173,330,000,000; entries: FMDGX, FSMAX, FSMDX, IWP, IWR
+6. Taiwan Semiconductor Manufacturing: 1.482632%; supporting fund assets $154,730,000,000; entries: FPADX, FSGGX, FTIHX, FZILX, IXUS, SPEM
+7. Samsung Electronics: 1.458869%; supporting fund assets $152,250,000,000; entries: FPADX, FSGGX, FZILX, IXUS, SPDW
+8. ASML: 1.394381%; supporting fund assets $145,520,000,000; entries: FSPSX, SPDW, SWISX
+9. Microsoft: 1.320927%; supporting fund assets $137,854,174,000; entries: Employees Retirement System of Texas, QCEQRX, QCGRRX, SPYG
+10. Moog: 1.293482%; supporting fund assets $134,990,000,000; entries: FSSNX, IWM, IWO, SWSSX
+11. Marathon Petroleum: 1.054889%; supporting fund assets $110,090,000,000; entries: FSMDX, IWR
+12. HSBC: 0.991935%; supporting fund assets $103,520,000,000; entries: FSPSX, SWISX
+13. Amazon: 0.940192%; supporting fund assets $98,120,000,000; entries: FLCOX, IWD
+14. UMB Financial: 0.891515%; supporting fund assets $93,040,000,000; entries: IWM, IWN
+15. Cloudflare: 0.605969%; supporting fund assets $63,240,000,000; entries: FMDGX, FSMAX, IWP
+16. Caterpillar: 0.437325%; supporting fund assets $45,640,000,000; entries: DIA
+16. Goldman Sachs: 0.437325%; supporting fund assets $45,640,000,000; entries: DIA
+18. Micron: 0.429947%; supporting fund assets $44,870,000,000; entries: SOXX
+19. Hut 8: 0.330294%; supporting fund assets $34,470,000,000; entries: FSSNX
+20. Illumina: 0.253829%; supporting fund assets $26,490,000,000; entries: MDY
+20. Twilio: 0.253829%; supporting fund assets $26,490,000,000; entries: MDY
+22. Tencent: 0.171806%; supporting fund assets $17,930,000,000; entries: SPEM
+23. Phillips 66: 0.162512%; supporting fund assets $16,960,000,000; entries: FIMVX, IWS
+24. Viasat: 0.161554%; supporting fund assets $16,860,000,000; entries: FISVX, IWN
+25. Hewlett Packard Enterprise: 0.146797%; supporting fund assets $15,320,000,000; entries: IWS
+26. Glaukos: 0.138461%; supporting fund assets $14,450,000,000; entries: IWO
+27. Amgen: 0.099270%; supporting fund assets $10,360,000,000; entries: IBB
+27. Vertex Pharmaceuticals: 0.099270%; supporting fund assets $10,360,000,000; entries: IBB
+29. Accenture: 0.072824%; supporting fund assets $7,600,000,000; entries: SPYD
+29. Ares Management: 0.072824%; supporting fund assets $7,600,000,000; entries: SPYD
+31. Prologis: 0.030471%; supporting fund assets $3,180,000,000; entries: FSRNX
+31. Welltower: 0.030471%; supporting fund assets $3,180,000,000; entries: FSRNX
+33. Astera Labs: 0.025776%; supporting fund assets $2,690,000,000; entries: FZIPX
+33. nVent Electric: 0.025776%; supporting fund assets $2,690,000,000; entries: FZIPX
+35. Cytokinetics: 0.021560%; supporting fund assets $2,250,000,000; entries: FISVX
+36. Digital Realty Trust: 0.015715%; supporting fund assets $1,640,000,000; entries: FIMVX
+37. Bloom Energy: 0.014661%; supporting fund assets $1,530,000,000; entries: FECGX
+37. Credo Technology: 0.014661%; supporting fund assets $1,530,000,000; entries: FECGX
+39. CareDx: 0.014181%; supporting fund assets $1,480,000,000; entries: IWC
+39. Nurix Therapeutics: 0.014181%; supporting fund assets $1,480,000,000; entries: IWC
+41. FIP: 0.002407%; supporting fund assets $251,236,000; entries: Washington State Investment Board — exceptionally limited disclosure
+41. FTAI: 0.002407%; supporting fund assets $251,236,000; entries: Washington State Investment Board — exceptionally limited disclosure
+
+ALL FUND / ACCOUNT / FILER WEIGHTS — LARGEST FIRST
+
+VTSAX — VTSAX
+Reported assets: $2,343,600,000,000; weight: 22.456514%
+Asset valuation date: 2026-08-31
+Asset source: https://advisors.vanguard.com/investments/products/vtsax/vanguard-total-stock-market-index-fund-admiral-shares
+Scope / source note: Issuer total fund assets across share classes. One parent fund counted.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/VTSAX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+VFIAX — VFIAX
+Reported assets: $1,757,600,000,000; weight: 16.841428%
+Asset valuation date: 2026-08-31
+Asset source: https://advisors.vanguard.com/investments/products/vfiax/vanguard-500-index-fund-
+Scope / source note: Issuer total fund assets across share classes, not VFIAX-only assets ($693B). One parent fund counted.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/VFIAX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FXAIX — FXAIX
+Reported assets: $859,160,000,000; weight: 8.232522%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FXAIX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/FXAIX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+SPY — SPY
+Reported assets: $806,130,000,000; weight: 7.724386%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spy/holdings/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/spy/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+QQQ — QQQ
+Reported assets: $480,390,000,000; weight: 4.603126%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/qqq/holdings/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/qqq/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+VIMAX — VIMAX
+Reported assets: $226,380,000,000; weight: 2.169187%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/VIMAX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Howmet Aerospace; Quanta Services
+Holdings source: https://stockanalysis.com/quote/mutf/VIMAX/holdings/
+Eligible stock votes: Howmet Aerospace, Quanta Services
+
+CalPERS — CalPERS
+Reported assets: $176,650,000,000; weight: 1.692671%
+Asset valuation date: 2026-06-30
+Asset source: https://www.holdingschannel.com/13f/california-public-employees-retirement-system-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: Vanguard S&P 500 ETF (VOO); iShares Core S&P 500 ETF (IVV)
+Holdings source: https://www.holdingschannel.com/13f/california-public-employees-retirement-system-top-holdings/
+Eligible stock votes: None
+
+SWPPX — SWPPX
+Reported assets: $148,720,000,000; weight: 1.425044%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/SWPPX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/SWPPX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+QCSTRX — CREF Stock / Total Global Stock, QCSTRX
+Reported assets: $144,520,000,000; weight: 1.384799%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408803.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/QCSTRX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FSKAX — FSKAX
+Reported assets: $142,220,000,000; weight: 1.362760%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSKAX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/FSKAX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+IWF — IWF
+Reported assets: $125,570,000,000; weight: 1.203219%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwf/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/iwf/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+CalSTRS — CalSTRS
+Reported assets: $108,710,000,000; weight: 1.041666%
+Asset valuation date: 2026-06-30
+Asset source: https://www.holdingschannel.com/13f/california-state-teachers-retirement-system-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/california-state-teachers-retirement-system-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+ITOT — ITOT
+Reported assets: $96,050,000,000; weight: 0.920357%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/itot/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/itot/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FSPSX — FSPSX
+Reported assets: $88,450,000,000; weight: 0.847533%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSPSX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: ASML; HSBC
+Holdings source: https://stockanalysis.com/quote/mutf/FSPSX/holdings/
+Eligible stock votes: ASML, HSBC
+
+IWD — IWD
+Reported assets: $82,930,000,000; weight: 0.794640%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwd/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Amazon; Apple
+Holdings source: https://stockanalysis.com/etf/iwd/holdings/
+Eligible stock votes: Amazon, Apple
+
+New York State Common Retirement Fund (NY State and Local) — New York State Common Retirement Fund (NY State and Local)
+Reported assets: $78,912,124,000; weight: 0.756141%
+Asset valuation date: 2026-06-30
+Asset source: https://www.holdingschannel.com/13f/new-york-state-common-retirement-fund-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/new-york-state-common-retirement-fund-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+IWM — IWM
+Reported assets: $78,430,000,000; weight: 0.751521%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwm/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Moog; UMB Financial
+Holdings source: https://stockanalysis.com/etf/iwm/holdings/
+Eligible stock votes: Moog, UMB Financial
+
+FXNAX — FXNAX
+Reported assets: $69,500,000,000; weight: 0.665953%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FXNAX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 1.5%, due February 2030; U.S. Treasury 2.75%, due August 2032
+Holdings source: https://stockanalysis.com/quote/mutf/FXNAX/holdings/
+Eligible stock votes: None
+
+IXUS — IXUS
+Reported assets: $60,620,000,000; weight: 0.580864%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/ixus/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Taiwan Semiconductor Manufacturing; Samsung Electronics
+Holdings source: https://stockanalysis.com/etf/ixus/holdings/
+Eligible stock votes: Taiwan Semiconductor Manufacturing, Samsung Electronics
+
+IWR — IWR
+Reported assets: $56,980,000,000; weight: 0.545986%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwr/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Snowflake; Marathon Petroleum
+Holdings source: https://stockanalysis.com/etf/iwr/holdings/
+Eligible stock votes: Snowflake, Marathon Petroleum
+
+SPYG — SPYG
+Reported assets: $54,190,000,000; weight: 0.519252%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spyg/holdings/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: NVIDIA; Microsoft
+Holdings source: https://stockanalysis.com/etf/spyg/holdings/
+Eligible stock votes: NVIDIA, Microsoft
+
+New York State Teachers Retirement System — New York State Teachers Retirement System
+Reported assets: $53,910,275,000; weight: 0.516571%
+Asset valuation date: 2026-06-30
+Asset source: https://www.holdingschannel.com/13f/new-york-state-teachers-retirement-system-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/new-york-state-teachers-retirement-system-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+State Board of Administration of Florida Retirement System — State Board of Administration of Florida Retirement System
+Reported assets: $53,390,000,000; weight: 0.511586%
+Asset valuation date: 2026-03-31
+Asset source: https://www.holdingschannel.com/13f/state-board-of-administration-of-florida-retirement-system-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/state-board-of-administration-of-florida-retirement-system-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+AAFTX — American Funds 2035 Target Date Retirement Fund Class A (AAFTX)
+Reported assets: $53,380,000,000; weight: 0.511490%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAFTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds American Balanced R-6 (RLBGX); American Funds American Mutual R-6 (RMFGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAFTX/holdings/
+Eligible stock votes: None
+
+FSMDX — FSMDX
+Reported assets: $53,110,000,000; weight: 0.508903%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSMDX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Snowflake; Marathon Petroleum
+Holdings source: https://stockanalysis.com/quote/mutf/FSMDX/holdings/
+Eligible stock votes: Snowflake, Marathon Petroleum
+
+AAETX — American Funds 2030 Target Date Retirement Fund Class A (AAETX)
+Reported assets: $51,780,000,000; weight: 0.496159%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAETX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds American Balanced R-6 (RLBGX); American Funds Bond Fund of Amer R-6 (RBFGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAETX/holdings/
+Eligible stock votes: None
+
+AAGTX — American Funds 2040 Target Date Retirement Fund Class A (AAGTX)
+Reported assets: $49,890,000,000; weight: 0.478049%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAGTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds American Balanced R-6 (RLBGX); American Funds American Mutual R-6 (RMFGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAGTX/holdings/
+Eligible stock votes: None
+
+State of Wisconsin Investment Board — State of Wisconsin Investment Board
+Reported assets: $49,363,260,000; weight: 0.473002%
+Asset valuation date: 2026-06-30
+Asset source: https://www.holdingschannel.com/13f/state-of-wisconsin-investment-board-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/state-of-wisconsin-investment-board-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+IWB — IWB
+Reported assets: $48,820,000,000; weight: 0.467796%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwb/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/iwb/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+DIA — DIA
+Reported assets: $45,640,000,000; weight: 0.437325%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/dia/holdings/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Goldman Sachs; Caterpillar
+Holdings source: https://stockanalysis.com/etf/dia/holdings/
+Eligible stock votes: Goldman Sachs, Caterpillar
+
+SWTSX — SWTSX
+Reported assets: $45,240,000,000; weight: 0.433492%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/SWTSX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/SWTSX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+SOXX — SOXX
+Reported assets: $44,870,000,000; weight: 0.429947%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/soxx/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Micron
+Holdings source: https://stockanalysis.com/etf/soxx/holdings/
+Eligible stock votes: NVIDIA, Micron
+
+FSPGX — FSPGX
+Reported assets: $43,680,000,000; weight: 0.418544%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSPGX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/FSPGX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+AAHTX — American Funds 2045 Target Date Retirement Fund Class A (AAHTX)
+Reported assets: $43,440,000,000; weight: 0.416245%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAHTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds Fundamental Invs R-6 (RFNGX); American Funds American Balanced R-6 (RLBGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAHTX/holdings/
+Eligible stock votes: None
+
+QCGRRX — CREF Growth, QCGRRX
+Reported assets: $43,280,000,000; weight: 0.414712%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408209.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: NVIDIA; Microsoft
+Holdings source: https://stockanalysis.com/quote/mutf/QCGRRX/holdings/
+Eligible stock votes: NVIDIA, Microsoft
+
+SPDW — SPDW
+Reported assets: $42,000,000,000; weight: 0.402446%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spdw/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Samsung Electronics depositary receipts; ASML
+Holdings source: https://stockanalysis.com/etf/spdw/holdings/
+Eligible stock votes: Samsung Electronics, ASML
+
+FZROX — FZROX
+Reported assets: $41,050,000,000; weight: 0.393344%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FZROX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/FZROX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FSMAX — FSMAX
+Reported assets: $40,070,000,000; weight: 0.383953%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSMAX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Snowflake; Cloudflare
+Holdings source: https://stockanalysis.com/quote/mutf/FSMAX/holdings/
+Eligible stock votes: Snowflake, Cloudflare
+
+AALTX — American Funds 2050 Target Date Retirement Fund Class A (AALTX)
+Reported assets: $39,430,000,000; weight: 0.377821%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AALTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds New Perspective R-6 (RNPGX); American Funds Fundamental Invs R-6 (RFNGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AALTX/holdings/
+Eligible stock votes: None
+
+Treasurer of the State of North Carolina — Treasurer of the State of North Carolina
+Reported assets: $38,810,000,000; weight: 0.371880%
+Asset valuation date: 2026-06-30
+Asset source: https://www.gurufocus.com/guru/treasurer%2Bof%2Bthe%2Bstate%2Bof%2Bnorth%2Bcarolina/summary
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.gurufocus.com/guru/treasurer%2Bof%2Bthe%2Bstate%2Bof%2Bnorth%2Bcarolina/summary
+Eligible stock votes: NVIDIA, Apple
+
+QCGLRX — CREF Global Equities, QCGLRX
+Reported assets: $38,700,000,000; weight: 0.370826%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408100.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/QCGLRX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+VTINX — Vanguard Target Retirement Income, VTINX
+Reported assets: $36,230,000,000; weight: 0.347158%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/VTINX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Vanguard Total Bond Market II Index; Vanguard Total Stock Market Index Institutional Plus
+Holdings source: https://stockanalysis.com/quote/mutf/VTINX/holdings/
+Eligible stock votes: None
+
+FSSNX — FSSNX
+Reported assets: $34,470,000,000; weight: 0.330294%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSSNX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Moog; Hut 8
+Holdings source: https://stockanalysis.com/quote/mutf/FSSNX/holdings/
+Eligible stock votes: Moog, Hut 8
+
+Public Employees Retirement System of Ohio — Public Employees Retirement System of Ohio
+Reported assets: $33,890,000,000; weight: 0.324736%
+Asset valuation date: 2026-06-30
+Asset source: https://www.holdingschannel.com/13f/public-employees-retirement-system-of-ohio-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/public-employees-retirement-system-of-ohio-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FFFEX — Fidelity Freedom 2030 Fund (FFFEX)
+Reported assets: $33,470,000,000; weight: 0.320712%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFFEX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Investment Grade Bond Fund (FSIGX); Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFFEX/holdings/
+Eligible stock votes: None
+
+FFFFX — Fidelity Freedom 2040 Fund (FFFFX)
+Reported assets: $32,290,000,000; weight: 0.309405%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFFFX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Emerging Markets Opportunities Fund (FEMSX); Fidelity Series Large Cap Stock Fund (FGLGX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFFFX/holdings/
+Eligible stock votes: None
+
+AADTX — American Funds 2025 Target Date Retirement Income Fund Class A (AADTX)
+Reported assets: $31,430,000,000; weight: 0.301164%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AADTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds Income Fund of Amer R6 (RIDGX); American Funds The Bond Fund of America (RBFGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AADTX/holdings/
+Eligible stock votes: None
+
+FFTHX — Fidelity Freedom 2035 Fund (FFTHX)
+Reported assets: $31,020,000,000; weight: 0.297235%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFTHX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Investment Grade Bond Fund (FSIGX); Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFTHX/holdings/
+Eligible stock votes: None
+
+State of Tennessee, Department of Treasury — State of Tennessee, Department of Treasury
+Reported assets: $29,752,883,000; weight: 0.285094%
+Asset valuation date: 2026-03-31
+Asset source: https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://13f.info/manager/0001587973-state-of-tennessee-department-of-treasury
+Eligible stock votes: NVIDIA, Apple
+
+Colorado Public Employees Retirement Association — Colorado Public Employees Retirement Association
+Reported assets: $28,947,885,000; weight: 0.277380%
+Asset valuation date: 2026-06-30
+Asset source: https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://13f.info/manager/0000315297-public-employees-retirement-association-of-colorado
+Eligible stock votes: NVIDIA, Apple
+
+FXIFX — Fidelity Freedom Index 2030 Fund Investor Class (FXIFX)
+Reported assets: $28,920,000,000; weight: 0.277113%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FXIFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Bond Index Fund (FIFZX)
+Holdings source: https://stockanalysis.com/quote/mutf/FXIFX/holdings/
+Eligible stock votes: None
+
+AAMTX — American Funds 2055 Target Date Retirement Fund Class A (AAMTX)
+Reported assets: $28,520,000,000; weight: 0.273280%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAMTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds New Perspective R-6 (RNPGX); American Funds Fundamental Invs R-6 (RFNGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAMTX/holdings/
+Eligible stock votes: None
+
+FBIFX — Fidelity Freedom Index 2040 Fund Investor Class (FBIFX)
+Reported assets: $28,500,000,000; weight: 0.273089%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FBIFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FBIFX/holdings/
+Eligible stock votes: None
+
+QCEQRX — CREF Equity Index / S&P 500 Index, QCEQRX
+Reported assets: $28,100,000,000; weight: 0.269256%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408308.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: NVIDIA; Microsoft
+Holdings source: https://stockanalysis.com/quote/mutf/QCEQRX/holdings/
+Eligible stock votes: NVIDIA, Microsoft
+
+FNCMX — FNCMX
+Reported assets: $27,950,000,000; weight: 0.267819%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FNCMX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/FNCMX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FIHFX — Fidelity Freedom Index 2035 Fund Investor Class (FIHFX)
+Reported assets: $27,370,000,000; weight: 0.262261%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FIHFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FIHFX/holdings/
+Eligible stock votes: None
+
+STRS Ohio — STRS Ohio
+Reported assets: $26,690,000,000; weight: 0.255745%
+Asset valuation date: 2026-06-30
+Asset source: https://www.gurufocus.com/guru/strs%2Bohio/current-portfolio/top-yield
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.gurufocus.com/guru/strs%2Bohio/current-portfolio/top-yield
+Eligible stock votes: NVIDIA, Apple
+
+FTIHX — FTIHX
+Reported assets: $26,550,000,000; weight: 0.254404%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FTIHX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Taiwan Semiconductor Manufacturing; Fidelity Cash Central Fund
+Holdings source: https://stockanalysis.com/quote/mutf/FTIHX/holdings/
+Eligible stock votes: Taiwan Semiconductor Manufacturing
+
+TRRDX — T. Rowe Price Retirement 2040, TRRDX
+Reported assets: $26,530,000,000; weight: 0.254212%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/TRRDX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: T. Rowe Price Value Z; T. Rowe Price Growth Stock Z
+Holdings source: https://stockanalysis.com/quote/mutf/TRRDX/holdings/
+Eligible stock votes: None
+
+MDY — MDY
+Reported assets: $26,490,000,000; weight: 0.253829%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/mdy/holdings/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Twilio; Illumina
+Holdings source: https://stockanalysis.com/etf/mdy/holdings/
+Eligible stock votes: Twilio, Illumina
+
+FIOFX — Fidelity Freedom Index 2045 Fund Investor Class (FIOFX)
+Reported assets: $25,870,000,000; weight: 0.247888%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FIOFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FIOFX/holdings/
+Eligible stock votes: None
+
+FIPFX — Fidelity Freedom Index 2050 Fund Investor Class (FIPFX)
+Reported assets: $24,830,000,000; weight: 0.237923%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FIPFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FIPFX/holdings/
+Eligible stock votes: None
+
+FFFGX — Fidelity Freedom 2045 Fund (FFFGX)
+Reported assets: $24,230,000,000; weight: 0.232173%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFFGX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Stock Fund (FGLGX); Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFFGX/holdings/
+Eligible stock votes: None
+
+TRRJX — T. Rowe Price Retirement 2035, TRRJX
+Reported assets: $24,060,000,000; weight: 0.230544%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/TRRJX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: T. Rowe Price Value Z; T. Rowe Price Growth Stock Z
+Holdings source: https://stockanalysis.com/quote/mutf/TRRJX/holdings/
+Eligible stock votes: None
+
+Teacher Retirement System of Texas — Teacher Retirement System of Texas
+Reported assets: $24,004,995,000; weight: 0.230017%
+Asset valuation date: 2026-03-31
+Asset source: https://www.holdingschannel.com/13f/teacher-retirement-system-of-texas-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/teacher-retirement-system-of-texas-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+TIAA_REAL_ESTATE — TIAA Real Estate Account
+Reported assets: $23,000,000,000; weight: 0.220387%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/878094200.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: No eligible stock pair recorded
+Holdings source: https://fluenttech.tiaa.org/pdf/factsheet/878094200.pdf
+Eligible stock votes: None
+
+FFFHX — Fidelity Freedom 2050 Fund (FFFHX)
+Reported assets: $21,900,000,000; weight: 0.209847%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFFHX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Stock Fund (FGLGX); Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFFHX/holdings/
+Eligible stock votes: None
+
+QCSCRX — CREF Social Choice / Responsible Balanced, QCSCRX
+Reported assets: $21,660,000,000; weight: 0.207547%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408605.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: NVIDIA; U.S. Treasury 4.125%, due February 2036
+Holdings source: https://stockanalysis.com/quote/mutf/QCSCRX/holdings/
+Eligible stock votes: NVIDIA
+
+FSGGX — FSGGX
+Reported assets: $20,770,000,000; weight: 0.199019%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSGGX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Taiwan Semiconductor Manufacturing; Samsung Electronics
+Holdings source: https://stockanalysis.com/quote/mutf/FSGGX/holdings/
+Eligible stock votes: Taiwan Semiconductor Manufacturing, Samsung Electronics
+
+Pennsylvania PSERS — Pennsylvania PSERS
+Reported assets: $20,590,000,000; weight: 0.197295%
+Asset valuation date: 2026-06-30
+Asset source: https://13foresight.com/fund/commonwealth-of-pennsylvania-public-school-empls-retrmt-sys
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter. Source search snapshot reports Q2 2026; opening its page returned older Q1 data. Q2 value retained and conflict flagged.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://13foresight.com/fund/commonwealth-of-pennsylvania-public-school-empls-retrmt-sys
+Eligible stock votes: NVIDIA, Apple
+
+OEF — OEF
+Reported assets: $20,320,000,000; weight: 0.194707%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/oef/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/oef/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FFTWX — Fidelity Freedom 2025 Fund (FFTWX)
+Reported assets: $20,300,000,000; weight: 0.194516%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFTWX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Investment Grade Bond Fund (FSIGX); Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFTWX/holdings/
+Eligible stock votes: None
+
+IWV — IWV
+Reported assets: $20,250,000,000; weight: 0.194037%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwv/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/iwv/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+Arizona State Retirement System — Arizona State Retirement System
+Reported assets: $19,889,995,000; weight: 0.190587%
+Asset valuation date: 2026-06-30
+Asset source: https://13f.info/manager/0001558481-arizona-state-retirement-system
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://13f.info/manager/0001558481-arizona-state-retirement-system
+Eligible stock votes: NVIDIA, Apple
+
+IWP — IWP
+Reported assets: $19,580,000,000; weight: 0.187617%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwp/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Snowflake; Cloudflare
+Holdings source: https://stockanalysis.com/etf/iwp/holdings/
+Eligible stock votes: Snowflake, Cloudflare
+
+FNILX — FNILX
+Reported assets: $19,350,000,000; weight: 0.185413%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FNILX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/FNILX/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FDEWX — Fidelity Freedom Index 2055 Fund Investor Class (FDEWX)
+Reported assets: $18,850,000,000; weight: 0.180622%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FDEWX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FDEWX/holdings/
+Eligible stock votes: None
+
+TRRKX — T. Rowe Price Retirement 2045, TRRKX
+Reported assets: $18,720,000,000; weight: 0.179376%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/TRRKX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: T. Rowe Price Value Z; T. Rowe Price Growth Stock Z
+Holdings source: https://stockanalysis.com/quote/mutf/TRRKX/holdings/
+Eligible stock votes: None
+
+AANTX — American Funds 2060 Target Date Retirement Fund Class A (AANTX)
+Reported assets: $18,070,000,000; weight: 0.173148%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AANTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds SMALLCAP World R-6 (RLLGX); American Funds New Perspective R-6 (RNPGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AANTX/holdings/
+Eligible stock votes: None
+
+SPEM — SPEM
+Reported assets: $17,930,000,000; weight: 0.171806%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spem/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Taiwan Semiconductor Manufacturing; Tencent
+Holdings source: https://stockanalysis.com/etf/spem/holdings/
+Eligible stock votes: Taiwan Semiconductor Manufacturing, Tencent
+
+Virginia Retirement Systems et al. — Virginia Retirement Systems et al.
+Reported assets: $16,700,000,000; weight: 0.160020%
+Asset valuation date: 2026-06-30
+Asset source: https://filingsflow.com/manager/0001005354/virginia-retirement-systems-et-al
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://stockzoa.com/fund/virginia-retirement-system/
+Eligible stock votes: NVIDIA, Apple
+
+FPADX — FPADX
+Reported assets: $15,840,000,000; weight: 0.151780%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FPADX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Taiwan Semiconductor Manufacturing; Samsung Electronics
+Holdings source: https://stockanalysis.com/quote/mutf/FPADX/holdings/
+Eligible stock votes: Taiwan Semiconductor Manufacturing, Samsung Electronics
+
+IWS — IWS
+Reported assets: $15,320,000,000; weight: 0.146797%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iws/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Phillips 66; Hewlett Packard Enterprise
+Holdings source: https://stockanalysis.com/etf/iws/holdings/
+Eligible stock votes: Phillips 66, Hewlett Packard Enterprise
+
+FLCOX — FLCOX
+Reported assets: $15,190,000,000; weight: 0.145551%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FLCOX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Amazon; Apple
+Holdings source: https://stockanalysis.com/quote/mutf/FLCOX/holdings/
+Eligible stock votes: Amazon, Apple
+
+SWISX — SWISX
+Reported assets: $15,070,000,000; weight: 0.144402%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/SWISX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: ASML; HSBC
+Holdings source: https://stockanalysis.com/quote/mutf/SWISX/holdings/
+Eligible stock votes: ASML, HSBC
+
+FQIFX — Fidelity Freedom Index 2025 Fund Investor Class (FQIFX)
+Reported assets: $14,980,000,000; weight: 0.143539%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FQIFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Bond Index Fund (FIFZX); Fidelity Series Total Market Index Fund (FCFMX)
+Holdings source: https://stockanalysis.com/quote/mutf/FQIFX/holdings/
+Eligible stock votes: None
+
+IWN — IWN
+Reported assets: $14,610,000,000; weight: 0.139994%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwn/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: UMB Financial; Viasat
+Holdings source: https://stockanalysis.com/etf/iwn/holdings/
+Eligible stock votes: UMB Financial, Viasat
+
+IWO — IWO
+Reported assets: $14,450,000,000; weight: 0.138461%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwo/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Moog; Glaukos
+Holdings source: https://stockanalysis.com/etf/iwo/holdings/
+Eligible stock votes: Moog, Glaukos
+
+AACTX — American Funds 2020 Target Date Retirement Income Fund Class A (AACTX)
+Reported assets: $14,360,000,000; weight: 0.137598%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AACTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds Income Fd of Amer R-6 (RIDGX); American Funds The Bond Fund of America (RBFGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AACTX/holdings/
+Eligible stock votes: None
+
+FDEEX — Fidelity Freedom 2055 Fund (FDEEX)
+Reported assets: $14,010,000,000; weight: 0.134245%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FDEEX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Stock Fund (FGLGX); Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Holdings source: https://stockanalysis.com/quote/mutf/FDEEX/holdings/
+Eligible stock votes: None
+
+FZILX — FZILX
+Reported assets: $13,020,000,000; weight: 0.124758%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FZILX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Taiwan Semiconductor Manufacturing; Samsung Electronics
+Holdings source: https://stockanalysis.com/quote/mutf/FZILX/holdings/
+Eligible stock votes: Taiwan Semiconductor Manufacturing, Samsung Electronics
+
+FFFDX — Fidelity Freedom 2020 Fund (FFFDX)
+Reported assets: $12,990,000,000; weight: 0.124471%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFFDX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Investment Grade Bond Fund (FSIGX); Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFFDX/holdings/
+Eligible stock votes: None
+
+QCBMRX — CREF Core Bond, QCBMRX
+Reported assets: $12,900,000,000; weight: 0.123609%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408407.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: June 2026 five-year Treasury-note futures; U.S. Treasury 3.75%, due January 2031
+Holdings source: https://stockanalysis.com/quote/mutf/QCBMRX/holdings/
+Eligible stock votes: None
+
+Employees Retirement System of Texas — Employees Retirement System of Texas
+Reported assets: $12,284,174,000; weight: 0.117708%
+Asset valuation date: 2025-12-31
+Asset source: https://www.holdingschannel.com/13f/employees-retirement-system-of-texas-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: Vanguard Intermediate-Term Treasury ETF (VGIT); Microsoft (MSFT)
+Holdings source: https://www.holdingschannel.com/13f/employees-retirement-system-of-texas-top-holdings/
+Eligible stock votes: Microsoft
+
+SPHY — SPHY
+Reported assets: $12,010,000,000; weight: 0.115081%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/sphy/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: 1261229 BC Ltd. secured bond 10%, due April 2032; Meridian Arc Holdco secured bond 6.25%, due April 2031
+Holdings source: https://stockanalysis.com/etf/sphy/holdings/
+Eligible stock votes: None
+
+IAGG — IAGG
+Reported assets: $11,880,000,000; weight: 0.113835%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iagg/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Chinese government bond 1.61%, due February 2035; Chinese government bond 1.44%, due September 2027
+Holdings source: https://stockanalysis.com/etf/iagg/holdings/
+Eligible stock votes: None
+
+FIPDX — FIPDX
+Reported assets: $11,760,000,000; weight: 0.112685%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FIPDX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Treasury inflation-protected 2.125%, due January 2035; Treasury inflation-protected 1.875%, due January 2036
+Holdings source: https://stockanalysis.com/quote/mutf/FIPDX/holdings/
+Eligible stock votes: None
+
+SPIB — SPIB
+Reported assets: $11,590,000,000; weight: 0.111056%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spib/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: Morgan Stanley Bank 5.016%, due January 2029; State Street institutional U.S. government money-market fund
+Holdings source: https://stockanalysis.com/etf/spib/holdings/
+Eligible stock votes: None
+
+FDKLX — Fidelity Freedom Index 2060 Fund Investor Class (FDKLX)
+Reported assets: $11,110,000,000; weight: 0.106457%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FDKLX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FDKLX/holdings/
+Eligible stock votes: None
+
+SPSB — SPSB
+Reported assets: $11,070,000,000; weight: 0.106073%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spsb/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: Salesforce 4.65%, due March 2029; Bank of America 3.419%, due December 2028
+Holdings source: https://stockanalysis.com/etf/spsb/holdings/
+Eligible stock votes: None
+
+SPTL — SPTL
+Reported assets: $10,880,000,000; weight: 0.104253%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/sptl/
+Scope / source note: Displayed ETF assets; valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 4.75%, due August 2055; U.S. Treasury 4.75%, due February 2056
+Holdings source: https://stockanalysis.com/etf/sptl/holdings/
+Eligible stock votes: None
+
+QCMMRX — CREF Money Market R1
+Reported assets: $10,840,000,000; weight: 0.103870%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408704.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: No eligible stock pair recorded
+Holdings source: https://stockanalysis.com/quote/mutf/QCMMRX/
+Eligible stock votes: None
+
+SPTI — SPTI
+Reported assets: $10,600,000,000; weight: 0.101570%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spti/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 4.625%, due February 2035; U.S. Treasury 4.25%, due August 2035
+Holdings source: https://stockanalysis.com/etf/spti/holdings/
+Eligible stock votes: None
+
+IBB — IBB
+Reported assets: $10,360,000,000; weight: 0.099270%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/ibb/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Amgen; Vertex Pharmaceuticals
+Holdings source: https://stockanalysis.com/etf/ibb/holdings/
+Eligible stock votes: Amgen, Vertex Pharmaceuticals
+
+SPAB — SPAB
+Reported assets: $10,190,000,000; weight: 0.097641%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spab/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: State Street institutional U.S. government money-market fund; U.S. Treasury 3.5%, due December 2028
+Holdings source: https://stockanalysis.com/etf/spab/holdings/
+Eligible stock votes: None
+
+FFNOX — FFNOX
+Reported assets: $9,440,000,000; weight: 0.090455%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFNOX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity 500 Index Fund; Fidelity International Index Fund
+Holdings source: https://stockanalysis.com/quote/mutf/FFNOX/holdings/
+Eligible stock votes: None
+
+FUAMX — FUAMX
+Reported assets: $8,400,000,000; weight: 0.080489%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FUAMX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 4.5%, due November 2033; U.S. Treasury 4%, due July 2032
+Holdings source: https://stockanalysis.com/quote/mutf/FUAMX/holdings/
+Eligible stock votes: None
+
+QCILRX — CREF Inflation-Linked Bond, QCILRX
+Reported assets: $8,270,000,000; weight: 0.079244%
+Asset valuation date: 2026-06-30
+Asset source: https://fluenttech.tiaa.org/pdf/factsheet/194408506.pdf
+Scope / source note: Issuer account/portfolio net assets across classes. Assets date is newer than the saved holdings snapshot; holdings have not been refreshed.
+Saved direct holdings: Treasury inflation-protected 1.75%, due January 2034; Treasury inflation-protected 2.125%, due April 2029
+Holdings source: https://stockanalysis.com/quote/mutf/QCILRX/holdings/
+Eligible stock votes: None
+
+SWAGX — SWAGX
+Reported assets: $8,240,000,000; weight: 0.078956%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/SWAGX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: State Street government money-market fund; U.S. Treasury 3.75%, due April 2028
+Holdings source: https://stockanalysis.com/quote/mutf/SWAGX/holdings/
+Eligible stock votes: None
+
+SWSSX — SWSSX
+Reported assets: $7,640,000,000; weight: 0.073207%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/SWSSX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: September 2026 E-mini Russell 2000 futures; Moog
+Holdings source: https://stockanalysis.com/quote/mutf/SWSSX/holdings/
+Eligible stock votes: Moog
+
+FDKVX — Fidelity Freedom 2060 Fund (FDKVX)
+Reported assets: $7,620,000,000; weight: 0.073015%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FDKVX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Emerging Markets Opportunities Fund (FEMSX); Fidelity Series Large Cap Stock Fund (FGLGX)
+Holdings source: https://stockanalysis.com/quote/mutf/FDKVX/holdings/
+Eligible stock votes: None
+
+SPYD — SPYD
+Reported assets: $7,600,000,000; weight: 0.072824%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spyd/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Accenture; Ares Management
+Holdings source: https://stockanalysis.com/etf/spyd/holdings/
+Eligible stock votes: Accenture, Ares Management
+
+Oregon Public Employees Retirement Fund — Oregon Public Employees Retirement Fund
+Reported assets: $7,580,000,000; weight: 0.072632%
+Asset valuation date: 2026-03-31
+Asset source: https://www.holdingschannel.com/13f/oregon-public-employees-retirement-fund-top-holdings/
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://www.holdingschannel.com/13f/oregon-public-employees-retirement-fund-top-holdings/
+Eligible stock votes: NVIDIA, Apple
+
+SPTS — SPTS
+Reported assets: $7,350,000,000; weight: 0.070428%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spts/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 3.5%, due January 2028; U.S. Treasury 4.625%, due April 2029
+Holdings source: https://stockanalysis.com/etf/spts/holdings/
+Eligible stock votes: None
+
+SPMB — SPMB
+Reported assets: $7,110,000,000; weight: 0.068128%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spmb/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: State Street U.S. Government Money Market Portfolio; Freddie Mac mortgage pool RQ0094, 5%
+Holdings source: https://stockanalysis.com/etf/spmb/holdings/
+Eligible stock votes: None
+
+FPIFX — Fidelity Freedom Index 2020 Fund Investor Class (FPIFX)
+Reported assets: $6,900,000,000; weight: 0.066116%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FPIFX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Bond Index Fund (FIFZX); Fidelity Series Total Market Index Fund (FCFMX)
+Holdings source: https://stockanalysis.com/quote/mutf/FPIFX/holdings/
+Eligible stock votes: None
+
+TCLOX — Nuveen Lifecycle 2040 Retirement Class, TCLOX
+Reported assets: $6,330,000,000; weight: 0.060654%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/TCLOX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Nuveen Large Cap Growth W; Nuveen Large Cap Value W
+Holdings source: https://stockanalysis.com/quote/mutf/TCLOX/holdings/
+Eligible stock votes: None
+
+Maryland State Retirement & Pension System — Maryland State Retirement & Pension System
+Reported assets: $5,835,823,540; weight: 0.055919%
+Asset valuation date: 2026-06-30
+Asset source: https://equibles.com/institutions/1795552/maryland-state-retirement-pension-system
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter. Uses filing-declared total ($5.835823540B), not Equibles' smaller tracked subset ($5.706966378B).
+Saved direct holdings: NVIDIA (NVDA); Apple (AAPL)
+Holdings source: https://equibles.com/institutions/1795552/maryland-state-retirement-pension-system
+Eligible stock votes: NVIDIA, Apple
+
+AAOTX — American Funds 2065 Trgt Date Ret A (AAOTX)
+Reported assets: $5,690,000,000; weight: 0.054522%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAOTX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds SMALLCAP World R-6 (RLLGX); American Funds New Perspective R-6 (RNPGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAOTX/holdings/
+Eligible stock votes: None
+
+FNBGX — FNBGX
+Reported assets: $4,920,000,000; weight: 0.047144%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FNBGX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 4.625%, due November 2055; U.S. Treasury 4.625%, due May 2054
+Holdings source: https://stockanalysis.com/quote/mutf/FNBGX/holdings/
+Eligible stock votes: None
+
+TCLRX — Nuveen Lifecycle 2035 Retirement Class, TCLRX
+Reported assets: $4,580,000,000; weight: 0.043886%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/TCLRX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Nuveen Core Bond W; Nuveen Core Plus Bond W
+Holdings source: https://stockanalysis.com/quote/mutf/TCLRX/holdings/
+Eligible stock votes: None
+
+TCLNX — Nuveen Lifecycle 2030 Retirement Class, TCLNX
+Reported assets: $4,570,000,000; weight: 0.043790%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/TCLNX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Nuveen Core Bond W; Nuveen Core Plus Bond W
+Holdings source: https://stockanalysis.com/quote/mutf/TCLNX/holdings/
+Eligible stock votes: None
+
+TCLFX — Nuveen Lifecycle 2025 Retirement Class, TCLFX
+Reported assets: $4,490,000,000; weight: 0.043023%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/TCLFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: Nuveen Core Bond W; Nuveen Core Plus Bond W
+Holdings source: https://stockanalysis.com/quote/mutf/TCLFX/holdings/
+Eligible stock votes: None
+
+FHASX — Fidelity Freedom Blend 2035 Fund (FHASX)
+Reported assets: $4,480,000,000; weight: 0.042928%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHASX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHASX/holdings/
+Eligible stock votes: None
+
+AABTX — American Funds 2015 Trgt Date Retire A (AABTX)
+Reported assets: $4,440,000,000; weight: 0.042544%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AABTX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: American Funds Income Fund of Amer R6 (RIDGX); American Funds Interm Bd Fd of Amer R6 (RBOGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AABTX/holdings/
+Eligible stock votes: None
+
+FHARX — Fidelity Freedom Blend 2040 Fund (FHARX)
+Reported assets: $4,280,000,000; weight: 0.041011%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHARX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHARX/holdings/
+Eligible stock votes: None
+
+FFVFX — Fidelity Freedom 2015 Fund (FFVFX)
+Reported assets: $4,170,000,000; weight: 0.039957%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFVFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Investment Grade Bond Fund (FSIGX); Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFVFX/holdings/
+Eligible stock votes: None
+
+FNSOX — FNSOX
+Reported assets: $4,080,000,000; weight: 0.039095%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FNSOX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 0.625%, due December 2027; U.S. Treasury 1.125%, due August 2028
+Holdings source: https://stockanalysis.com/quote/mutf/FNSOX/holdings/
+Eligible stock votes: None
+
+FHATX — Fidelity Freedom Blend 2030 Fund (FHATX)
+Reported assets: $4,050,000,000; weight: 0.038807%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHATX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHATX/holdings/
+Eligible stock votes: None
+
+FHAQX — Fidelity Freedom Blend 2045 Fund (FHAQX)
+Reported assets: $3,900,000,000; weight: 0.037370%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHAQX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHAQX/holdings/
+Eligible stock votes: None
+
+FFIJX — Fidelity Freedom Index 2065 Fund Investor Class (FFIJX)
+Reported assets: $3,870,000,000; weight: 0.037083%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFIJX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Total Market Index Fund (FCFMX); Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFIJX/holdings/
+Eligible stock votes: None
+
+AAATX — American Funds 2010 Target Date Retirement Income Fund Class A (AAATX)
+Reported assets: $3,740,000,000; weight: 0.035837%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAATX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds The Income Fund of America® Class R-6 (RIDGX); American Funds Intermediate Bond Fund of America® Class R-6 (RBOGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAATX/holdings/
+Eligible stock votes: None
+
+FMDGX — FMDGX
+Reported assets: $3,590,000,000; weight: 0.034400%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FMDGX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Snowflake; Cloudflare
+Holdings source: https://stockanalysis.com/quote/mutf/FMDGX/holdings/
+Eligible stock votes: Snowflake, Cloudflare
+
+FUMBX — FUMBX
+Reported assets: $3,570,000,000; weight: 0.034208%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FUMBX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: U.S. Treasury 3.75%, due January 2031; U.S. Treasury 3.625%, due September 2030
+Holdings source: https://stockanalysis.com/quote/mutf/FUMBX/holdings/
+Eligible stock votes: None
+
+FHAPX — Fidelity Freedom Blend 2050 Fund (FHAPX)
+Reported assets: $3,430,000,000; weight: 0.032866%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHAPX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHAPX/holdings/
+Eligible stock votes: None
+
+FSRNX — FSRNX
+Reported assets: $3,180,000,000; weight: 0.030471%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FSRNX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Welltower; Prologis
+Holdings source: https://stockanalysis.com/quote/mutf/FSRNX/holdings/
+Eligible stock votes: Welltower, Prologis
+
+FFFCX — Fidelity Freedom 2010 Fund (FFFCX)
+Reported assets: $3,150,000,000; weight: 0.030183%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFFCX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Investment Grade Bond Fund (FSIGX); Fidelity Series 0-5 Year Inflation-Protected Bond Index Fund (FSTZX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFFCX/holdings/
+Eligible stock votes: None
+
+FZIPX — FZIPX
+Reported assets: $2,690,000,000; weight: 0.025776%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FZIPX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Astera Labs; nVent Electric
+Holdings source: https://stockanalysis.com/quote/mutf/FZIPX/holdings/
+Eligible stock votes: Astera Labs, nVent Electric
+
+FHAUX — Fidelity Freedom Blend 2025 Fund (FHAUX)
+Reported assets: $2,560,000,000; weight: 0.024530%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHAUX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Srs 5+ Yr Inf-Ptctd Bd Idx (FSTDX); Fidelity Series Large Cap Value Index Fund (FIOOX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHAUX/holdings/
+Eligible stock votes: None
+
+FFSFX — Fidelity Freedom 2065 Fund (FFSFX)
+Reported assets: $2,530,000,000; weight: 0.024243%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFSFX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Emerging Markets Opportunities Fund (FEMSX); Fidelity Series Large Cap Stock Fund (FGLGX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFSFX/holdings/
+Eligible stock votes: None
+
+FFFAX — Fidelity Freedom Retirement Fund (FFFAX)
+Reported assets: $2,400,000,000; weight: 0.022997%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFFAX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Investment Grade Bond Fund (FSIGX); Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFFAX/holdings/
+Eligible stock votes: None
+
+FHAOX — Fidelity Freedom Blend 2055 Fund (FHAOX)
+Reported assets: $2,400,000,000; weight: 0.022997%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHAOX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHAOX/holdings/
+Eligible stock votes: None
+
+FISVX — FISVX
+Reported assets: $2,250,000,000; weight: 0.021560%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FISVX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Viasat; Cytokinetics
+Holdings source: https://stockanalysis.com/quote/mutf/FISVX/holdings/
+Eligible stock votes: Viasat, Cytokinetics
+
+SPBO — SPBO
+Reported assets: $2,180,000,000; weight: 0.020889%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spbo/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: State Street institutional U.S. government money-market fund; Citigroup 4.91%, due May 2033
+Holdings source: https://stockanalysis.com/etf/spbo/holdings/
+Eligible stock votes: None
+
+FLIFX — Fidelity Freedom Index 2015 Fund Investor Class (FLIFX)
+Reported assets: $1,980,000,000; weight: 0.018972%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FLIFX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Bond Index Fund (FIFZX); Fidelity Series Total Market Index Fund (FCFMX)
+Holdings source: https://stockanalysis.com/quote/mutf/FLIFX/holdings/
+Eligible stock votes: None
+
+FIKFX — Fidelity Freedom Index Retirement Fund Investor Class (FIKFX)
+Reported assets: $1,830,000,000; weight: 0.017535%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FIKFX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Series Bond Index Fund (FIFZX); Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Holdings source: https://stockanalysis.com/quote/mutf/FIKFX/holdings/
+Eligible stock votes: None
+
+SPGM — SPGM
+Reported assets: $1,760,000,000; weight: 0.016864%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spgm/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: NVIDIA; Apple
+Holdings source: https://stockanalysis.com/etf/spgm/holdings/
+Eligible stock votes: NVIDIA, Apple
+
+FIMVX — FIMVX
+Reported assets: $1,640,000,000; weight: 0.015715%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FIMVX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Phillips 66; Digital Realty Trust
+Holdings source: https://stockanalysis.com/quote/mutf/FIMVX/holdings/
+Eligible stock votes: Phillips 66, Digital Realty Trust
+
+FECGX — FECGX
+Reported assets: $1,530,000,000; weight: 0.014661%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FECGX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Bloom Energy; Credo Technology
+Holdings source: https://stockanalysis.com/quote/mutf/FECGX/holdings/
+Eligible stock votes: Bloom Energy, Credo Technology
+
+IWC — IWC
+Reported assets: $1,480,000,000; weight: 0.014181%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/iwc/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: CareDx; Nurix Therapeutics
+Holdings source: https://stockanalysis.com/etf/iwc/holdings/
+Eligible stock votes: CareDx, Nurix Therapeutics
+
+FBIIX — FBIIX
+Reported assets: $1,350,000,000; weight: 0.012936%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FBIIX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Source reports Cash at 100.47%; U.K. government bond 4.5%, due March 2035. That cash figure needs verification before we use this entry in the app
+Holdings source: https://stockanalysis.com/quote/mutf/FBIIX/holdings/
+Eligible stock votes: None
+
+LIRPX — BlackRock LifePath Index Retirement Investor P, LIRPX
+Reported assets: $1,330,000,000; weight: 0.012744%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/LIRPX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: BlackRock Russell 1000 Index Fund F; iShares U.S. Intermediate Government Bond Index
+Holdings source: https://stockanalysis.com/quote/mutf/LIRPX/holdings/
+Eligible stock votes: None
+
+FHANX — Fidelity Freedom Blend 2060 Fund (FHANX)
+Reported assets: $1,310,000,000; weight: 0.012552%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHANX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHANX/holdings/
+Eligible stock votes: None
+
+SWYMX — Schwab Target 2050 Index, SWYMX
+Reported assets: $1,300,000,000; weight: 0.012457%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/SWYMX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Schwab U.S. Large-Cap ETF; Schwab International Equity ETF
+Holdings source: https://stockanalysis.com/quote/mutf/SWYMX/holdings/
+Eligible stock votes: None
+
+SPLB — SPLB
+Reported assets: $1,240,000,000; weight: 0.011882%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/splb/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: Anheuser-Busch 4.9%, due February 2046; CVS Health 5.05%, due March 2048
+Holdings source: https://stockanalysis.com/etf/splb/holdings/
+Eligible stock votes: None
+
+FHAVX — Fidelity Freedom Blend 2020 Fund (FHAVX)
+Reported assets: $1,180,000,000; weight: 0.011307%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHAVX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Government Bond Index Fund (FHNFX); Fidelity Series Investment Grade Bond Fund (FSIGX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHAVX/holdings/
+Eligible stock votes: None
+
+SPIP — SPIP
+Reported assets: $1,030,000,000; weight: 0.009870%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/etf/spip/
+Scope / source note: Displayed assets; valuation date not explicitly supplied.
+Saved direct holdings: Treasury inflation-protected 2.125%, due January 2035; Treasury inflation-protected 1.875%, due July 2034
+Holdings source: https://stockanalysis.com/etf/spip/holdings/
+Eligible stock votes: None
+
+FKIFX — Fidelity Freedom Index 2010 Fund Investor Class (FKIFX)
+Reported assets: $746,630,000; weight: 0.007154%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FKIFX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Bond Index Fund (FIFZX); Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX)
+Holdings source: https://stockanalysis.com/quote/mutf/FKIFX/holdings/
+Eligible stock votes: None
+
+FFBSX — Fidelity Freedom Blend 2065 Fund (FFBSX)
+Reported assets: $469,470,000; weight: 0.004498%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FFBSX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FFBSX/holdings/
+Eligible stock votes: None
+
+FHAWX — Fidelity Freedom Blend 2015 Fund (FHAWX)
+Reported assets: $356,770,000; weight: 0.003419%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHAWX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX); Fidelity Series Government Bond Index Fund (FHNFX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHAWX/holdings/
+Eligible stock votes: None
+
+AAFJX — American Funds 2070 Target Date Retirement Fund® Class A (AAFJX)
+Reported assets: $298,390,000; weight: 0.002859%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/AAFJX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: American Funds SMALLCAP World Fund® Class R-6 (RLLGX); American Funds New Perspective Fund® Class R-6 (RNPGX)
+Holdings source: https://stockanalysis.com/quote/mutf/AAFJX/holdings/
+Eligible stock votes: None
+
+Washington State Investment Board — exceptionally limited disclosure — Washington State Investment Board — exceptionally limited disclosure
+Reported assets: $251,236,000; weight: 0.002407%
+Asset valuation date: 2026-03-31
+Asset source: https://13f.info/manager/0000943712-washington-state-investment-board
+Scope / source note: Reported 13F securities value only; not full pension AUM. Paired to the saved holdings quarter.
+Saved direct holdings: FTAI; FIP
+Holdings source: https://13f.info/manager/0000943712-washington-state-investment-board
+Eligible stock votes: FTAI, FIP
+
+FHBZX — Fidelity Freedom Blend Retirement Fund (FHBZX)
+Reported assets: $191,930,000; weight: 0.001839%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHBZX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX); Fidelity Series Government Bond Index Fund (FHNFX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHBZX/holdings/
+Eligible stock votes: None
+
+FRBVX — Fidelity Freedom Index 2070 Investor (FRBVX)
+Reported assets: $184,310,000; weight: 0.001766%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FRBVX/
+Scope / source note: Displayed assets; valuation date not explicitly supplied. Retrieved snapshot.
+Saved direct holdings: Fidelity Concord Street Trust - Fidelity Series Total Market Index Fund; Fidelity Series Global ex U.S. Index Fund (FSGEX)
+Holdings source: https://stockanalysis.com/quote/mutf/FRBVX/holdings/
+Eligible stock votes: None
+
+FHAYX — Fidelity Freedom Blend 2010 Fund (FHAYX)
+Reported assets: $159,740,000; weight: 0.001531%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FHAYX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Srs 0-5 Yr Inf-Ptctd Bd Idx (FSTZX); Fidelity Series Government Bond Index Fund (FHNFX)
+Holdings source: https://stockanalysis.com/quote/mutf/FHAYX/holdings/
+Eligible stock votes: None
+
+FRBDX — Fidelity Freedom 2070 (FRBDX)
+Reported assets: $144,800,000; weight: 0.001387%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FRBDX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Growth Company Fund (FCGSX); Fidelity Series Emerging Markets Opportunities Fund (FEMSX)
+Holdings source: https://stockanalysis.com/quote/mutf/FRBDX/holdings/
+Eligible stock votes: None
+
+FRBYX — Fidelity Freedom Blend 2070 (FRBYX)
+Reported assets: $25,230,000; weight: 0.000242%
+Asset valuation date: Not explicitly provided; retrieved 2026-09-13
+Asset source: https://stockanalysis.com/quote/mutf/FRBYX/holdings/
+Scope / source note: Assets field from holdings page; asset valuation date not explicitly supplied.
+Saved direct holdings: Fidelity Series Large Cap Value Index Fund (FIOOX); Fidelity Series Blue Chip Growth Fund (FSBDX)
+Holdings source: https://stockanalysis.com/quote/mutf/FRBYX/holdings/
+Eligible stock votes: None
+
+LIMITATIONS AND COVERAGE
+- 167 valued records: funds, ETFs, CREF/TIAA accounts and 19 pension-related 13F portfolios. Unresolved plans are excluded rather than assigned zero assets.
+- 137 asset fields have no explicit valuation date. Retrieval date does not imply current asset values. Other asset dates range from 2025-12-31 to 2026-08-31.
+- Mutual funds use displayed fund assets. VFIAX and VTSAX explicitly use total parent-fund assets across share classes, confirmed with issuer. One representative ticker per fund. No extra standalone VOO or VTI entry added.
+- Other third-party mutual-fund asset fields have not all been independently reconciled to issuer share-class totals.
+- Pensions use only the reported 13F portfolio, not whole pension-plan assets. Total therefore mixes fund NAV and disclosed-securities value by design.
+- Holdings are fixed to the two saved lists to isolate the weighting change. New asset dates can differ from saved holdings dates. This is not a refreshed current top-two portfolio.
+- Newer CREF issuer factsheets show some different holdings, notably QCEQRX and QCSCRX. Those changes are not silently incorporated into the fixed-input weighting calculation.
+- Stock names are aggregated at company level for Samsung shares and depositary receipts. Each parent gives at most one contribution to each company.
+- Funds-of-funds, bond funds, and property accounts remain in the denominator even when their top two contain no direct stocks. No lookthrough stock votes are fabricated.
+- FBIIX's flagged holdings contribute no stock score. Its available fund asset value is included in the denominator.
+- Underlying holdings and pension ownership of included funds can overlap. The sum is gross reported assets, not deduplicated ultimate investor money.
+- Washington's 13F covers only two securities; its weight must not be represented as Washington's full pension weight.
+- Asset values are rounded to the precision supplied by sources. Calculated percentages are approximate.
+- All stock scores use full fund weight per top-two stock as agreed. They measure voting influence; they are not actual dollars invested in those stocks.
+
+UNRESOLVED PLANS EXCLUDED FROM THIS RUN
+- NYC Employees Retirement System
+- NYC Teachers Retirement System
+- Pennsylvania SERS
+
+LOCAL INPUT SOURCES
+Fund Holdings - Retrieved 2026-09-13.txt
+Additional Fund Holdings - Retrieved 2026-09-13.txt
+Asset Weight Inputs - 2026-09-13.json
+calculate_asset_weights.py
